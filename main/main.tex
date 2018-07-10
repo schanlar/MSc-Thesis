@@ -1,0 +1,261 @@
+% INITIAL CONFIGURATION
+\documentclass[a4paper, 11pt, twoside, draft]{book}
+
+\usepackage[              % Left and right margins
+    DIV=18,               % You can play with these numbers for a better
+    BCOR=1mm,             % reference look into KOMA-Script CTAN manual
+    headinclude=true,
+    footinclude=false,
+    paper=A4
+    ]{typearea}
+
+% BASIC THESIS INFORMATION
+\def\title{Ultra-stripped Supernovae Progenitors and Formation of Double Neutron Star Binary Systems}
+\def\thesisauthor{Savvas Chanlaridis}
+
+% commands below work only for twoside option of \documentclass
+%\makeatletter
+%\if@twoside
+    %\newlength{\textblockoffset}
+    %\setlength{\textblockoffset}{10mm}
+    %\addtolength{\hoffset}{\textblockoffset}
+    %\addtolength{\evensidemargin}{-2.0\textblockoffset}
+%\fi
+%\makeatother
+
+% PACKAGES
+\usepackage{amsmath,amssymb,mathrsfs}  % Basic math packages
+\usepackage{subfiles}
+\usepackage{natbib}                    % A&A bibliograsphy style
+\bibpunct{(}{)}{;}{a}{}{,}
+
+
+\usepackage{upgreek}                   % More greek letters
+\usepackage{enumerate}
+\usepackage{commath}
+\usepackage{xcolor}
+\usepackage{blindtext}
+
+
+% to know the page width and adjust the image size!
+\usepackage{printlen} % \uselengthunit{in}\printlength{\textwidth}
+
+% TABLE PACKAGES
+\usepackage{etoolbox}
+\BeforeBeginEnvironment{tabular}{\small}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+% IMAGES PACAKGES
+\usepackage{graphicx}
+\usepackage[font=small]{caption}
+\newtheorem{theorem}{Theorem}
+
+
+% TIKZ & PGFPLOTS
+\usepackage{tikz}
+\usepackage{tikz-3dplot}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.14}
+\usetikzlibrary{
+    calc,
+    patterns,
+    circuits.logic.US,
+    circuits.ee.IEC,
+    intersections,
+    angles,
+    quotes,
+    arrows,
+    shapes,
+    }
+
+
+
+% DEDICATION PAGE CONFIGURATION
+\newenvironment{dedication}
+  {\clearpage
+   \thispagestyle{empty}
+   \vspace*{\stretch{1}}
+   \itshape
+   \raggedleft}
+  {\par
+   \vspace{\stretch{3}}
+   \clearpage}
+
+% PDF CONFIGURATION
+\usepackage{hyperref}
+\hypersetup{
+    pdffitwindow=true,
+    pdfstartview={FitH},
+    pdftitle={MSc Thesis},                    % TITLE
+    pdfauthor={Savvas Chanlaridis},          % AUTHOR
+    pdfsubject={\title},                      % DOCUMENT SUBJECT
+    pdfcreator={Savvas Chanlaridis},            % CREATOR
+    pdfproducer={\thesisauthor},              % PRODUCER
+    pdfkeywords={Astronomy, Astrophysics},
+    pdfnewwindow=true,
+    colorlinks=true,                          % COMMENT FOR BLACK LINKS
+    linkcolor=red,
+    citecolor=YellowOrange,
+    urlcolor=RoyalBlue
+    }
+
+% DRAFT MODE: uncomment this for draft mode!
+\usepackage[printwatermark]{xwatermark}
+\newwatermark[allpages,color=red!10,angle=45,scale=3,xpos=0,ypos=0]{DRAFT}
+
+\begin{document}
+
+    \frontmatter  % front and main matter to make roman numbers in between.
+
+    % FIRST PAGE TITLE
+    \pdfbookmark[0]{Title page}{title}
+    \begin{titlepage}
+        \begin{center}
+            \vspace{0.5cm}
+
+            \huge
+            \textbf{\title}
+
+            \vspace{2.5cm}
+            \Large
+            % Thesis Subtitleb
+            Masterarbeit zur Erlangung des akademischen Grades
+            
+            \vspace{0.3cm}
+            
+           “Master of Science (M.Sc.)” \\
+           
+            \vspace{1.0cm}
+            
+          im Studiengang Astrophysik
+
+            \vspace{1.5cm}
+
+            {\normalsize Angefertigt von} 
+             
+           \vspace{0.5cm}            
+            
+            \textbf{\thesisauthor}
+            
+            \vspace{1.5cm}
+            
+            {\normalsize am}
+            
+            \vspace{0.5cm}
+            
+            \Large
+            
+            Argelander-Institut f\"ur Astronomie
+
+            \vspace{2cm}
+            
+            {\normalsize Vorgelegt der }
+            
+            \vspace{0.5cm}
+
+
+            \Large
+         
+            Mathematisch-Naturwissenschalftlichen Fakult\"at \\
+            der \\
+            Rheinische Friedrich-Wilhelms-Universit\"at Bonn\\
+            Deutschland
+
+            \vspace{1.5cm}
+
+            \Large
+            \today
+
+        \end{center}
+    \end{titlepage}
+
+    \newpage  % Inserting empty page
+    \mbox{}
+    \thispagestyle{empty}
+
+    % DEDICATION
+    \begin{dedication}
+    \pdfbookmark[0]{Dedication}{dedication}
+    To my Loved Ones
+    \end{dedication}
+
+    \newpage  % Inserting empty page
+    \mbox{}
+    \thispagestyle{empty}
+
+    % SIGNATURE PAGE
+    \newpage
+    \thispagestyle{empty}
+    \pdfbookmark[0]{Statement}{statement}
+    \par\vspace*{\fill}
+    \noindent I hereby declare that this thesis was formulated by myself and that no sources or tools than those cited were used.
+    \vspace{0.8cm}
+
+    \begin{center}
+        \begin{tabular}{c@{\hskip 1in}c}
+            \makebox[2in]{\hrulefill} & \makebox[2in]{\hrulefill}\\
+            Date & Signature\\
+        \end{tabular}
+    \end{center}
+    \vspace{1cm}
+
+    \noindent 1. Gutachter: Dr. Ioannis Antoniadis  \\
+    \noindent 2. Gutachter: Prof. Dr. Norbert Langer
+
+    \newpage  % Inserting empty page
+    \mbox{}
+    \thispagestyle{empty}
+
+    % ABSTRACT
+    %\subfile{../abstract/abstract}
+
+    % ACKNOWLEDGMENTS
+    %subfile{../acknowledgments/acknowledgments}
+
+    % TABLE OF CONTENT
+    \cleardoublepage
+    \phantomsection
+    \addcontentsline{toc}{chapter}{Contents}
+    \tableofcontents
+
+    % LIST OF FIGURES
+    \cleardoublepage
+    \phantomsection
+    \addcontentsline{toc}{chapter}{List of Figures}
+    \listoffigures
+
+    % LIST OF TABLES
+    \cleardoublepage
+    \phantomsection
+    \addcontentsline{toc}{chapter}{List of Tables}
+    \listoftables
+
+    \newpage  % Inserting empty page
+    \mbox{}
+    \thispagestyle{empty}
+
+    \mainmatter  % front and main matter to make roman numbers in between
+
+    % BODY
+    %\subfile{../chapter1/chapter1}
+    %\subfile{../chapter2/chapter2}
+    %\subfile{../chapter3/chapter3}
+    %\subfile{../chapter4/chapter4}
+    %\subfile{../chapter5/chapter5}
+
+    % APPENDICES
+    \appendix
+    %\subfile{../appendix1/appendix1}
+    %\subfile{../appendix2/appendix2}
+    %\subfile{../appendix3/appendix3}
+
+    % REFERENCES
+    % If you are using a windows machine and the bibliography doesn't work
+    % remove the extension for .bst and .bib files here!
+    %\bibliographystyle{../references/bibstyle_aa.bst}
+    %\bibliography{../references/bibfile_thesis.bib}
+    \phantomsection
+    \addcontentsline{toc}{chapter}{Bibliography}
+
+\end{document}
