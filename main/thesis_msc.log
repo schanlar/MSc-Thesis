@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  7 JUL 2018 14:48
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  14 JUL 2018 23:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**thesis_msc.tex
+(./thesis_msc.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/book.cls
@@ -171,6 +171,39 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count101
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip53
+\f@ncyO@elh=\skip54
+\f@ncyO@erh=\skip55
+\f@ncyO@olh=\skip56
+\f@ncyO@orh=\skip57
+\f@ncyO@elf=\skip58
+\f@ncyO@erf=\skip59
+\f@ncyO@olf=\skip60
+\f@ncyO@orf=\skip61
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
+JK)
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/was/upgreek.sty
 Package: upgreek 2003/02/12 v2.0 (WaS)
 Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
@@ -196,11 +229,6 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
-JK)
-)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
@@ -244,47 +272,30 @@ Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
-\heavyrulewidth=\dimen112
-\lightrulewidth=\dimen113
-\cmidrulewidth=\dimen114
-\belowrulesep=\dimen115
-\belowbottomsep=\dimen116
-\aboverulesep=\dimen117
-\abovetopsep=\dimen118
-\cmidrulesep=\dimen119
-\cmidrulekern=\dimen120
-\defaultaddspace=\dimen121
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
 \@cmidla=\count121
 \@cmidlb=\count122
-\@aboverulesep=\dimen122
-\@belowrulesep=\dimen123
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
 \@thisruleclass=\count123
 \@lastruleclass=\count124
-\@thisrulewidth=\dimen124
+\@thisrulewidth=\dimen126
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
-\multirow@colwidth=\skip53
+\multirow@colwidth=\skip62
 \multirow@cntb=\count125
-\multirow@dima=\skip54
-\bigstrutjot=\dimen125
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: xetex.def on input line 99.
-)
-\Gin@req@height=\dimen126
-\Gin@req@width=\dimen127
+\multirow@dima=\skip63
+\bigstrutjot=\dimen127
 )
 (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
@@ -912,7 +923,6 @@ File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `draft' set `true' on input line 4374.
 Package hyperref Info: Hyper figures OFF on input line 4498.
 Package hyperref Info: Link nesting OFF on input line 4503.
 Package hyperref Info: Hyper index ON on input line 4506.
@@ -972,7 +982,7 @@ Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 tly
 (rerunfilecheck)             and the loading of the package is aborted.
 )
-\Hy@SectionHShift=\skip55
+\Hy@SectionHShift=\skip64
 )
 Package hyperref Info: Option `pdffitwindow' set `true' on input line 101.
 
@@ -1012,18 +1022,6 @@ File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Package: picture 2016/05/16 v1.4 Dimens for picture macros (HO)
 Package picture Info: Calculation method: etex.
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
-\fancy@headwidth=\skip56
-\f@ncyO@elh=\skip57
-\f@ncyO@erh=\skip58
-\f@ncyO@olh=\skip59
-\f@ncyO@orh=\skip60
-\f@ncyO@elf=\skip61
-\f@ncyO@erf=\skip62
-\f@ncyO@olf=\skip63
-\f@ncyO@orf=\skip64
-)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/ltxkeys/ltxkeys.sty
 Package: ltxkeys 2012/11/17 v0.0.3c A robust key-value parser (AM) (Ahmed Musa)
 
@@ -1043,12 +1041,12 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \xwm@boxb=\box63
 \xwm@cnta=\count180
 \xwm@wrt=\write4
- (./main.xwm)
-\openout4 = `main.xwm'.
 
-)
-(./main.aux)
-\openout1 = `main.aux'.
+(./thesis_msc.xwm)
+\openout4 = `thesis_msc.xwm'.
+
+) (./thesis_msc.aux)
+\openout1 = `thesis_msc.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
 LaTeX Font Info:    ... okay on input line 107.
@@ -1077,9 +1075,6 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.14}).
 
-
-Package hyperref Warning: Draft mode on.
-
 Package hyperref Info: Link coloring ON on input line 107.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1092,77 +1087,91 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 107.
 LaTeX Info: Redefining \pageref on input line 107.
 LaTeX Info: Redefining \nameref on input line 107.
-LaTeX Font Info:    Try loading font information for TU+bch on input line 171.
-LaTeX Font Info:    No file TUbch.fd. on input line 171.
 
+(./thesis_msc.out) (./thesis_msc.out)
+\@outlinefile=\write5
+\openout5 = `thesis_msc.out'.
 
-LaTeX Font Warning: Font shape `TU/bch/b/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 171.
+File: ../figures/aifa_logo.png Graphic file (type QTm)
+ <use  "../figures/aifa_logo.png" >
+LaTeX Font Info:    Try loading font information for U+msa on input line 118.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 171.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 171.
+LaTeX Font Info:    Try loading font information for U+msb on input line 118.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 171.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 118.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+)
+File: ../figures/uni_logo.png Graphic file (type QTm)
+
+<use  "../figures/uni_logo.png" >
+Overfull \hbox (0.51715pt too wide) in paragraph at lines 120--121
+[]  [] 
+ []
+
+LaTeX Font Info:    Try loading font information for TU+bch on input line 181.
+LaTeX Font Info:    No file TUbch.fd. on input line 181.
+
+LaTeX Font Warning: Font shape `TU/bch/b/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 181.
+
+[1
 
 
 
-] [2]
-[3
+] [2] [3
 
 ] [4
 
-] [5] [6] (./main.toc)
-\tf@toc=\write5
-\openout5 = `main.toc'.
+] [5] [6] (./thesis_msc.toc)
+\tf@toc=\write6
+\openout6 = `thesis_msc.toc'.
 
  [7
 
 
 ] [8
 
-] (./main.lof)
-\tf@lof=\write6
-\openout6 = `main.lof'.
+] (./thesis_msc.lof)
+\tf@lof=\write7
+\openout7 = `thesis_msc.lof'.
 
  [9
 
-] [10
+]
+[10
 
-] (./main.lot)
-\tf@lot=\write7
-\openout7 = `main.lot'.
+] (./thesis_msc.lot)
+\tf@lot=\write8
+\openout8 = `thesis_msc.lot'.
 
-
-[11
+ [11
 
 ] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 261.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 261.
- (./main.xwm) (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 261.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 261.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 271.
+ (./thesis_msc.xwm) (./thesis_msc.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 271.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 39686 strings out of 493005
- 909367 string characters out of 6134595
- 1162935 words of memory out of 5000000
- 43027 multiletter control sequences out of 15000+600000
+ 39702 strings out of 493005
+ 909743 string characters out of 6134595
+ 1163850 words of memory out of 5000000
+ 43033 multiletter control sequences out of 15000+600000
  13130 words of font info for 65 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 64i,13n,111p,809b,742s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,13n,111p,815b,746s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (12 pages).
+Output written on thesis_msc.pdf (12 pages).

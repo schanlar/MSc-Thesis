@@ -1,5 +1,5 @@
 % INITIAL CONFIGURATION
-\documentclass[a4paper, 11pt, twoside, draft]{book}
+\documentclass[a4paper, 11pt, twoside]{book}
 
 \usepackage[              % Left and right margins
     DIV=18,               % You can play with these numbers for a better
@@ -28,7 +28,7 @@
 \usepackage{subfiles}
 \usepackage{natbib}                    % A&A bibliograsphy style
 \bibpunct{(}{)}{;}{a}{}{,}
-
+\usepackage{fancyhdr, graphicx}
 
 \usepackage{upgreek}                   % More greek letters
 \usepackage{enumerate}
@@ -105,19 +105,29 @@
 \newwatermark[allpages,color=red!10,angle=45,scale=3,xpos=0,ypos=0]{DRAFT}
 
 \begin{document}
-
     \frontmatter  % front and main matter to make roman numbers in between.
 
     % FIRST PAGE TITLE
     \pdfbookmark[0]{Title page}{title}
+    
     \begin{titlepage}
-        \begin{center}
-            \vspace{0.5cm}
+    	\begin{figure}[!t]
+        
+    		\begin{minipage}{.5\textwidth}    
+            	\includegraphics[scale=1.6]{../figures/aifa_logo.png}
+    		\end{minipage}%
+    		\begin{minipage}{0.5\textwidth}
+        		\hspace{2.5cm} \includegraphics[scale=0.17]{../figures/uni_logo.png}
+		    \end{minipage}
+	\end{figure}
+ 		  
+       
+        \begin{center} 
 
             \huge
-            \textbf{\title}
-
-            \vspace{2.5cm}
+            \textbf{\line(1,0){450}\\ \title \\ \line(1,0){450}}
+            
+            \vspace{1cm}
             \Large
             % Thesis Subtitleb
             Masterarbeit zur Erlangung des akademischen Grades
@@ -130,7 +140,7 @@
             
           im Studiengang Astrophysik
 
-            \vspace{1.5cm}
+            \vspace{1cm}
 
             {\normalsize Angefertigt von} 
              
@@ -138,7 +148,7 @@
             
             \textbf{\thesisauthor}
             
-            \vspace{1.5cm}
+            \vspace{1cm}
             
             {\normalsize am}
             
@@ -148,7 +158,7 @@
             
             Argelander-Institut f\"ur Astronomie
 
-            \vspace{2cm}
+            \vspace{1cm}
             
             {\normalsize Vorgelegt der }
             
