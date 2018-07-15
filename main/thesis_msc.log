@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  15 JUL 2018 07:41
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  15 JUL 2018 07:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -984,7 +984,7 @@ tly
 )
 \Hy@SectionHShift=\skip64
 )
-Package hyperref Info: Option `pdffitwindow' set `true' on input line 101.
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 104.
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -992,10 +992,10 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 )
 
 Package hyperref Warning: pdfproducer: xdvipdfmx will use its own setting
-(hyperref)                instead of the value given on input line 101.
+(hyperref)                instead of the value given on input line 104.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 101.
-Package hyperref Info: Option `colorlinks' set `true' on input line 101.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 104.
+Package hyperref Info: Option `colorlinks' set `true' on input line 104.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/xwatermark/xwatermark.sty
 (/usr/local/texlive/2017/texmf-dist/tex/latex/catoptions/catoptions.sty
 \m@one=\count171
@@ -1048,26 +1048,26 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 ) (./thesis_msc.aux)
 \openout1 = `thesis_msc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1075,7 +1075,7 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.14}).
 
-Package hyperref Info: Link coloring ON on input line 107.
+Package hyperref Info: Link coloring ON on input line 110.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1084,9 +1084,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count181
 )
-LaTeX Info: Redefining \ref on input line 107.
-LaTeX Info: Redefining \pageref on input line 107.
-LaTeX Info: Redefining \nameref on input line 107.
+LaTeX Info: Redefining \ref on input line 110.
+LaTeX Info: Redefining \pageref on input line 110.
+LaTeX Info: Redefining \nameref on input line 110.
 
 (./thesis_msc.out) (./thesis_msc.out)
 \@outlinefile=\write5
@@ -1094,17 +1094,17 @@ LaTeX Info: Redefining \nameref on input line 107.
 
 File: ../figures/aifa_logo.png Graphic file (type QTm)
  <use  "../figures/aifa_logo.png" >
-LaTeX Font Info:    Try loading font information for U+msa on input line 118.
+LaTeX Font Info:    Try loading font information for U+msa on input line 121.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 118.
+LaTeX Font Info:    Try loading font information for U+msb on input line 121.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 118.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 121.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -1112,25 +1112,25 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 File: ../figures/uni_logo.png Graphic file (type QTm)
 
 <use  "../figures/uni_logo.png" >
-Overfull \hbox (0.51715pt too wide) in paragraph at lines 120--121
+Overfull \hbox (0.51715pt too wide) in paragraph at lines 123--124
 []  [] 
  []
 
 
-Overfull \hbox (4.44774pt too wide) in paragraph at lines 128--128
+Overfull \hbox (4.44774pt too wide) in paragraph at lines 131--131
  | 
  []
 
 
-Overfull \hbox (4.44774pt too wide) in paragraph at lines 128--129
+Overfull \hbox (4.44774pt too wide) in paragraph at lines 131--132
  []| 
  []
 
-LaTeX Font Info:    Try loading font information for TU+bch on input line 181.
-LaTeX Font Info:    No file TUbch.fd. on input line 181.
+LaTeX Font Info:    Try loading font information for TU+bch on input line 184.
+LaTeX Font Info:    No file TUbch.fd. on input line 184.
 
 LaTeX Font Warning: Font shape `TU/bch/b/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 181.
+(Font)              using `TU/lmr/m/n' instead on input line 184.
 
 [1
 
@@ -1165,11 +1165,11 @@ LaTeX Font Warning: Font shape `TU/bch/b/n' undefined
  [11
 
 ] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 271.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 274.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 274.
  (./thesis_msc.xwm) (./thesis_msc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 271.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 274.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 274.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
