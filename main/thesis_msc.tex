@@ -17,14 +17,14 @@
 \def\thesisauthor{Savvas Chanlaridis}
 
 % commands below work only for twoside option of \documentclass
-%\makeatletter
-%\if@twoside
-    %\newlength{\textblockoffset}
-    %\setlength{\textblockoffset}{10mm}
-    %\addtolength{\hoffset}{\textblockoffset}
-    %\addtolength{\evensidemargin}{-2.0\textblockoffset}
-%\fi
-%\makeatother
+\makeatletter
+\if@twoside
+    \newlength{\textblockoffset}
+    \setlength{\textblockoffset}{10mm}
+    \addtolength{\hoffset}{\textblockoffset}
+    \addtolength{\evensidemargin}{-2.0\textblockoffset}
+\fi
+\makeatother
 
 % PACKAGES
 \usepackage{amsmath,amssymb,mathrsfs}  % Basic math packages
@@ -84,6 +84,22 @@
   {\par
    \vspace{\stretch{3}}
    \clearpage}
+   
+% WRITE GREEK TEXT
+\usepackage[greek,english]{babel}
+%\selectlanguage{greek}
+\languageattribute{greek}{polutoniko}
+
+\newenvironment{mygreek}
+  {\clearpage
+   \thispagestyle{empty}
+   \vspace*{\stretch{1}}
+   \itshape
+   \raggedleft}
+  {\par
+   \vspace{\stretch{3}}
+   \clearpage}
+
 
 % PDF CONFIGURATION
 \usepackage{hyperref}
@@ -186,18 +202,8 @@
     \newpage  % Inserting empty page
     \mbox{}
     \thispagestyle{empty}
-
-    % DEDICATION
-    \begin{dedication}
-    \pdfbookmark[0]{Dedication}{dedication}
-    To my Loved Ones
-    \end{dedication}
-
-    \newpage  % Inserting empty page
-    \mbox{}
-    \thispagestyle{empty}
-
-    % SIGNATURE PAGE
+    
+% SIGNATURE PAGE
     \newpage
     \thispagestyle{empty}
     \pdfbookmark[0]{Statement}{statement}
@@ -215,6 +221,36 @@
 
     \noindent 1. Gutachter: Dr. Ioannis Antoniadis  \\
     \noindent 2. Gutachter: Prof. Dr. Norbert Langer
+
+    \newpage  % Inserting empty page
+    \mbox{}
+    \thispagestyle{empty}
+
+    % DEDICATION
+    \begin{dedication}
+    \pdfbookmark[0]{Dedication}{dedication}
+    To my Loved Ones
+    \end{dedication}
+
+    \newpage  % Inserting empty page
+    \mbox{}
+    \thispagestyle{empty}
+
+    
+    % GREEK TEXT
+    \begin{mygreek}
+    \pdfbookmark[0]{Dedication}{mygreek}
+    \selectlanguage{greek}
+    \begin{flushright}
+    t'i d`h to~ut'o >esti Pujag'oras >erwt'wmenos, \\
+    <t`o je'asasjai> e>~ipe <t`on o>uran'on> \\
+    \selectlanguage{english}
+    \vspace{1.5cm}
+    When Pythagoras was asked about the purpose \\
+    for which humans were created, he said, \\
+    "To look upon the heavens"
+    \end{flushright}
+    \end{mygreek}
 
     \newpage  % Inserting empty page
     \mbox{}
@@ -247,6 +283,7 @@
     \newpage  % Inserting empty page
     \mbox{}
     \thispagestyle{empty}
+
 
     \mainmatter  % front and main matter to make roman numbers in between
 
