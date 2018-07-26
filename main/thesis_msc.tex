@@ -42,7 +42,7 @@
 % PACKAGES
 \usepackage{amsmath,amssymb,mathrsfs}  % Basic math packages
 \usepackage{subfiles}
-\usepackage{natbib}                    % A&A bibliograsphy style
+\usepackage{natbib}                    % A&A bibliography style
 \bibpunct{(}{)}{;}{a}{}{,}
 \usepackage{fancyhdr, graphicx}
 
@@ -134,6 +134,9 @@
 % DRAFT MODE: uncomment this for draft mode!
 \usepackage[printwatermark]{xwatermark}
 \newwatermark[allpages,color=red!10,angle=45,scale=3,xpos=0,ypos=0]{DRAFT}
+
+
+
 
 \begin{document}
     \frontmatter  % front and main matter to make roman numbers in between.
@@ -251,7 +254,7 @@
     
     % GREEK TEXT
     \begin{mygreek}
-    \pdfbookmark[0]{Dedication}{mygreek}
+    \pdfbookmark[0]{}{mygreek}
     \selectlanguage{greek}
     \begin{flushright}
     t'i d`h to~ut'o >esti Pujag'oras >erwt'wmenos, \\
@@ -315,9 +318,8 @@
     % REFERENCES
     % If you are using a windows machine and the bibliography doesn't work
     % remove the extension for .bst and .bib files here!
-    %\bibliographystyle{../references/bibstyle_aa.bst}
-    %\bibliography{../references/bibfile_thesis.bib}
-    \phantomsection
+    \bibliographystyle{../bibliography/bibstyle_aa.bst}
+    \bibliography{../bibliography/bibfile_thesis}
     \addcontentsline{toc}{chapter}{Bibliography}
 
 \end{document}

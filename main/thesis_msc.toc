@@ -33,4 +33,4 @@
 \contentsline {section}{\numberline {3.2}Neutron star + Helium star binaries}{5}{section.3.2}
 \contentsline {chapter}{\numberline {4}Conclusions}{7}{chapter.4}
 \contentsline {chapter}{\numberline {5}Discussion}{9}{chapter.5}
-\contentsline {chapter}{Bibliography}{9}{section*.11}
+\contentsline {chapter}{Bibliography}{11}{appendix*.11}
