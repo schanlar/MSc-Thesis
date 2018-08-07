@@ -3,16 +3,16 @@
 \select@language {english}
 \select@language {greek}
 \select@language {english}
-\contentsline {chapter}{List of Figures}{{\fontencoding {TU}\selectfont xi}}{section*.3}
-\contentsline {chapter}{List of Tables}{{\fontencoding {TU}\selectfont xiii}}{section*.5}
+\contentsline {chapter}{List of Figures}{{\fontencoding {TU}\selectfont xiii}}{section*.4}
+\contentsline {chapter}{List of Tables}{{\fontencoding {TU}\selectfont xv}}{section*.6}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Helium stars}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Formation of Helium stars}{1}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Evolution of single Helium stars}{1}{subsection.1.1.2}
-\contentsline {subsubsection}{Mixing mechanisms}{1}{subsubsection*.7}
-\contentsline {subsubsection}{Effects of rotation}{1}{subsubsection*.8}
-\contentsline {subsubsection}{Transportation of angular momentum}{1}{subsubsection*.9}
-\contentsline {subsubsection}{Winds and mass loss}{1}{subsubsection*.10}
+\contentsline {subsubsection}{Mixing mechanisms}{1}{subsubsection*.8}
+\contentsline {subsubsection}{Effects of rotation}{1}{subsubsection*.9}
+\contentsline {subsubsection}{Transportation of angular momentum}{1}{subsubsection*.10}
+\contentsline {subsubsection}{Winds and mass loss}{1}{subsubsection*.11}
 \contentsline {section}{\numberline {1.2}Evolution of binary systems}{1}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Interaction and orbital parameters}{2}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Mass transfer}{2}{subsection.1.2.2}
@@ -33,4 +33,4 @@
 \contentsline {section}{\numberline {3.2}Neutron star + Helium star binaries}{5}{section.3.2}
 \contentsline {chapter}{\numberline {4}Conclusions}{7}{chapter.4}
 \contentsline {chapter}{\numberline {5}Discussion}{9}{chapter.5}
-\contentsline {chapter}{Bibliography}{11}{appendix*.11}
+\contentsline {chapter}{Bibliography}{11}{appendix*.12}
