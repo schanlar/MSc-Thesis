@@ -12,8 +12,8 @@
 \contentsline {subsubsection}{Mixing mechanisms}{1}{subsubsection*.8}
 \contentsline {subsubsection}{Effects of rotation}{1}{subsubsection*.9}
 \contentsline {subsubsection}{Transportation of angular momentum}{1}{subsubsection*.10}
-\contentsline {subsubsection}{Winds and mass loss}{1}{subsubsection*.11}
-\contentsline {section}{\numberline {1.2}Evolution of binary systems}{1}{section.1.2}
+\contentsline {subsubsection}{Winds and mass loss}{2}{subsubsection*.11}
+\contentsline {section}{\numberline {1.2}Evolution of binary systems}{2}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Interaction and orbital parameters}{2}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Mass transfer}{2}{subsection.1.2.2}
 \contentsline {subsection}{\numberline {1.2.3}Common envelope}{2}{subsection.1.2.3}
