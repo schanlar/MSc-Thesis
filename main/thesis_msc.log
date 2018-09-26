@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  8 AUG 2018 21:14
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  26 SEP 2018 23:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1038,7 +1038,7 @@ tly
 )
 \Hy@SectionHShift=\skip67
 )
-Package hyperref Info: Option `pdffitwindow' set `true' on input line 132.
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 133.
 
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
@@ -1046,10 +1046,10 @@ File: se-ascii-print.def 2016/05/16 v1.11 stringenc: Printable ASCII characters
 )
 
 Package hyperref Warning: pdfproducer: xdvipdfmx will use its own setting
-(hyperref)                instead of the value given on input line 132.
+(hyperref)                instead of the value given on input line 133.
 
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 132.
-Package hyperref Info: Option `colorlinks' set `true' on input line 132.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 133.
+Package hyperref Info: Option `colorlinks' set `true' on input line 133.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/xwatermark/xwatermark.sty
 (/usr/local/texlive/2017/texmf-dist/tex/latex/catoptions/catoptions.sty
 \m@one=\count177
@@ -1115,28 +1115,28 @@ LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
 )
 \openout1 = `thesis_msc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 141.
-LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 142.
+LaTeX Font Info:    ... okay on input line 142.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1144,7 +1144,7 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.14}).
 
-Package hyperref Info: Link coloring ON on input line 141.
+Package hyperref Info: Link coloring ON on input line 142.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1153,9 +1153,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count187
 )
-LaTeX Info: Redefining \ref on input line 141.
-LaTeX Info: Redefining \pageref on input line 141.
-LaTeX Info: Redefining \nameref on input line 141.
+LaTeX Info: Redefining \ref on input line 142.
+LaTeX Info: Redefining \pageref on input line 142.
+LaTeX Info: Redefining \nameref on input line 142.
 
 (./thesis_msc.out) (./thesis_msc.out)
 \@outlinefile=\write5
@@ -1163,17 +1163,17 @@ LaTeX Info: Redefining \nameref on input line 141.
 
 File: ../figures/aifa_logo.png Graphic file (type QTm)
  <use  "../figures/aifa_logo.png" >
-LaTeX Font Info:    Try loading font information for U+msa on input line 152.
+LaTeX Font Info:    Try loading font information for U+msa on input line 153.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 152.
+LaTeX Font Info:    Try loading font information for U+msb on input line 153.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 152.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 153.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -1181,25 +1181,25 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 File: ../figures/uni_logo.png Graphic file (type QTm)
 
 <use  "../figures/uni_logo.png" >
-Overfull \hbox (0.51715pt too wide) in paragraph at lines 154--155
+Overfull \hbox (0.51715pt too wide) in paragraph at lines 155--156
 []  [] 
  []
 
 
-Overfull \hbox (4.44774pt too wide) in paragraph at lines 162--162
+Overfull \hbox (4.44774pt too wide) in paragraph at lines 163--163
  | 
  []
 
 
-Overfull \hbox (4.44774pt too wide) in paragraph at lines 162--163
+Overfull \hbox (4.44774pt too wide) in paragraph at lines 163--164
  []| 
  []
 
-LaTeX Font Info:    Try loading font information for TU+bch on input line 215.
-LaTeX Font Info:    No file TUbch.fd. on input line 215.
+LaTeX Font Info:    Try loading font information for TU+bch on input line 216.
+LaTeX Font Info:    No file TUbch.fd. on input line 216.
 
 LaTeX Font Warning: Font shape `TU/bch/b/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 215.
+(Font)              using `TU/lmr/m/n' instead on input line 216.
 
 [1
 
@@ -1208,35 +1208,35 @@ LaTeX Font Warning: Font shape `TU/bch/b/n' undefined
 ] [2] [3] [4]
 
 LaTeX Font Warning: Font shape `TU/bch/b/it' undefined
-(Font)              using `TU/bch/b/n' instead on input line 248.
+(Font)              using `TU/bch/b/n' instead on input line 249.
 
 [5
 
 ] [6
 
 ]
-LaTeX Font Info:    Try loading font information for LGR+lmr on input line 258.
+LaTeX Font Info:    Try loading font information for LGR+lmr on input line 259.
 
  (/usr/local/texlive/2017/texmf-dist/tex/latex/cbfonts-fd/lgrlmr.fd
 File: lgrlmr.fd 2016/03/04 v1.1 Scalable Greek Latin Modern Regular
 )
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 262.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 263.
 
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for LGR+bch on input line 268.
+LaTeX Font Info:    Try loading font information for LGR+bch on input line 269.
 
-LaTeX Font Info:    No file LGRbch.fd. on input line 268.
+LaTeX Font Info:    No file LGRbch.fd. on input line 269.
 
 
 LaTeX Font Warning: Font shape `LGR/bch/b/it' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 268.
+(Font)              using `LGR/cmr/m/n' instead on input line 269.
 
 
 LaTeX Font Warning: Font shape `LGR/cmr/m/n' in size <28.45274> not available
-(Font)              size <29.86> substituted on input line 268.
+(Font)              size <29.86> substituted on input line 269.
 
 [7
 
@@ -1292,11 +1292,11 @@ Chapter 5.
 ) (./thesis_msc.bbl [9] [10
 
 ]) [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 325.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 325.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 326.
  (./thesis_msc.xwm) (./thesis_msc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 325.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 325.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 326.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1309,10 +1309,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  41486 strings out of 493005
  941594 string characters out of 6134595
- 1194270 words of memory out of 5000000
+ 1194236 words of memory out of 5000000
  44731 multiletter control sequences out of 15000+600000
  26734 words of font info for 73 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,13n,111p,815b,1089s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,13n,111p,815b,1083s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on thesis_msc.pdf (27 pages).
