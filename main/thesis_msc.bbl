@@ -1,16 +1,181 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{11}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
+  Adams, Addesso, Adhikari, Adya, Affeldt, Afrough, Agarwal, Agathos, Agatsuma,
+  Aggarwal, Aguiar, Aiello, Ain, Ajith, Allen, Allen, Allocca, Altin, Amato,
+  Ananyeva, Anderson, Anderson, Angelova, Antier, Appert, Arai, Araya, Areeda,
+  Arnaud, Arun, Ascenzi, Ashton, Ast, Aston, Astone, Atallah, Aufmuth, Aulbert,
+  AultONeal, Austin, Avila-Alvarez, Babak, Bacon, Bader, Bae, Bailes, Baker,
+  Baldaccini, Ballardin, Ballmer, Banagiri, Barayoga, Barclay, Barish, Barker,
+  Barkett, Barone, Barr, Barsotti, Barsuglia, Barta, Barthelmy, Bartlett,
+  Bartos, Bassiri, Basti, Batch, Bawaj, Bayley, Bazzan, B\'ecsy, Beer, Bejger,
+  Belahcene, Bell, Berger, Bergmann, Bernuzzi, Bero, Berry, Bersanetti,
+  Bertolini, Betzwieser, Bhagwat, Bhandare, Bilenko, Billingsley, Billman,
+  Birch, Birney, Birnholtz, Biscans, Biscoveanu, Bisht, Bitossi, Biwer,
+  Bizouard, Blackburn, Blackman, Blair, Blair, Blair, Bloemen, Bock, Bode,
+  Boer, Bogaert, Bohe, Bondu, Bonilla, Bonnand, Boom, Bork, Boschi, Bose,
+  Bossie, Bouffanais, Bozzi, Bradaschia, Brady, Branchesi, Brau, Briant,
+  Brillet, Brinkmann, Brisson, Brockill, Broida, Brooks, Brown, Brown, Brunett,
+  Buchanan, Buikema, Bulik, Bulten, Buonanno, Buskulic, Buy, Byer, Cabero,
+  Cadonati, Cagnoli, Cahillane, Calder\'on~Bustillo, Callister, Calloni, Camp,
+  Canepa, Canizares, Cannon, Cao, Cao, Capano, Capocasa, Carbognani, Caride,
+  Carney, Carullo, Casanueva~Diaz, Casentini, Caudill, Cavagli\`a, Cavalier,
+  Cavalieri, Cella, Cepeda, Cerd\'a-Dur\'an, Cerretani, Cesarini, Chamberlin,
+  Chan, Chao, Charlton, Chase, Chassande-Mottin, Chatterjee, Chatziioannou,
+  Cheeseboro, Chen, Chen, Chen, Cheng, Chia, Chincarini, Chiummo, Chmiel, Cho,
+  Cho, Chow, Christensen, Chu, Chua, Chua, Chung, Chung, Ciani, Ciolfi,
+  Cirelli, Cirone, Clara, Clark, Clearwater, Cleva, Cocchieri, Coccia, Cohadon,
+  Cohen, Colla, Collette, Cominsky, Constancio, Conti, Cooper, Corban, Corbitt,
+  Cordero-Carri\'on, Corley, Cornish, Corsi, Cortese, Costa, Coughlin,
+  Coughlin, Coulon, Countryman, Couvares, Covas, Cowan, Coward, Cowart, Coyne,
+  Coyne, Creighton, Creighton, Cripe, Crowder, Cullen, Cumming, Cunningham,
+  Cuoco, Dal~Canton, D\'alya, Danilishin, D'Antonio, Danzmann, Dasgupta,
+  Da~Silva~Costa, Dattilo, Dave, Davier, Davis, Daw, Day, De, DeBra, Degallaix,
+  De~Laurentis, Del\'eglise, Del~Pozzo, Demos, Denker, Dent, De~Pietri,
+  Dergachev, De~Rosa, DeRosa, De~Rossi, DeSalvo, de~Varona, Devenson,
+  Dhurandhar, D\'{\i}az, Dietrich, Di~Fiore, Di~Giovanni, Di~Girolamo,
+  Di~Lieto, Di~Pace, Di~Palma, Di~Renzo, Doctor, Dolique, Donovan, Dooley,
+  Doravari, Dorrington, Douglas, Dovale~\'Alvarez, Downes, Drago,
+  Dreissigacker, Driggers, Du, Ducrot, Dudi, Dupej, Dwyer, Edo, Edwards,
+  Effler, Eggenstein, Ehrens, Eichholz, Eikenberry, Eisenstein, Essick,
+  Estevez, Etienne, Etzel, Evans, Evans, Factourovich, Fafone, Fair, Fairhurst,
+  Fan, Farinon, Farr, Farr, Fauchon-Jones, Favata, Fays, Fee, Fehrmann, Feicht,
+  Fejer, Fernandez-Galiana, Ferrante, Ferreira, Ferrini, Fidecaro, Finstad,
+  Fiori, Fiorucci, Fishbach, Fisher, Fitz-Axen, Flaminio, Fletcher, Fong, Font,
+  Forsyth, Forsyth, Fournier, Frasca, Frasconi, Frei, Freise, Frey, Frey,
+  Fries, Fritschel, Frolov, Fulda, Fyffe, Gabbard, Gadre, Gaebel, Gair,
+  Gammaitoni, Ganija, Gaonkar, Garcia-Quiros, Garufi, Gateley, Gaudio, Gaur,
+  Gayathri, Gehrels, Gemme, Genin, Gennai, George, George, Gergely, Germain,
+  Ghonge, Ghosh, Ghosh, Ghosh, Giaime, Giardina, Giazotto, Gill, Glover, Goetz,
+  Goetz, Gomes, Goncharov, Gonz\'alez, Gonzalez~Castro, Gopakumar, Gorodetsky,
+  Gossan, Gosselin, Gouaty, Grado, Graef, Granata, Grant, Gras, Gray, Greco,
+  Green, Gretarsson, Groot, Grote, Grunewald, Gruning, Guidi, Guo, Gupta,
+  Gupta, Gushwa, Gustafson, Gustafson, Halim, Hall, Hall, Hamilton, Hammond,
+  Haney, Hanke, Hanks, Hanna, Hannam, Hannuksela, Hanson, Hardwick, Harms,
+  Harry, Harry, Hart, Haster, Haughian, Healy, Heidmann, Heintze, Heitmann,
+  Hello, Hemming, Hendry, Heng, Hennig, Heptonstall, Heurs, Hild, Hinderer, Ho,
+  Hoak, Hofman, Holt, Holz, Hopkins, Horst, Hough, Houston, Howell, Hreibi, Hu,
+  Huerta, Huet, Hughey, Husa, Huttner, Huynh-Dinh, Indik, Inta, Intini, Isa,
+  Isac, Isi, Iyer, Izumi, Jacqmin, Jani, Jaranowski, Jawahar,
+  Jim\'enez-Forteza, Johnson, Johnson-McDaniel, Jones, Jones, Jonker, Ju,
+  Junker, Kalaghatgi, Kalogera, Kamai, Kandhasamy, Kang, Kanner, Kapadia,
+  Karki, Karvinen, Kasprzack, Kastaun, Katolik, Katsavounidis, Katzman, Kaufer,
+  Kawabe, K\'ef\'elian, Keitel, Kemball, Kennedy, Kent, Key, Khalili, Khan,
+  Khan, Khan, Khazanov, Kijbunchoo, Kim, Kim, Kim, Kim, Kim, Kim, Kimbrell,
+  King, King, Kinley-Hanlon, Kirchhoff, Kissel, Kleybolte, Klimenko, Knowles,
+  Koch, Koehlenbeck, Koley, Kondrashov, Kontos, Korobko, Korth, Kowalska,
+  Kozak, Kr\"amer, Kringel, Krishnan, Kr\'olak, Kuehn, Kumar, Kumar, Kumar,
+  Kuo, Kutynia, Kwang, Lackey, Lai, Landry, Lang, Lange, Lantz, Lanza, Larson,
+  Lartaux-Vollard, Lasky, Laxen, Lazzarini, Lazzaro, Leaci, Leavey, Lee, Lee,
+  Lee, Lee, Lee, Lehmann, Lenon, Leon, Leonardi, Leroy, Letendre, Levin, Li,
+  Linker, Littenberg, Liu, Liu, Lo, Lockerbie, London, Lord, Lorenzini,
+  Loriette, Lormand, Losurdo, Lough, Lousto, Lovelace, L\"uck, Lumaca,
+  Lundgren, Lynch, Ma, Macas, Macfoy, Machenschalk, MacInnis, Macleod, Maga\~na
+  Hernandez, Maga\~na Sandoval, Maga\~na Zertuche, Magee, Majorana, Maksimovic,
+  Man, Mandic, Mangano, Mansell, Manske, Mantovani, Marchesoni, Marion,
+  M\'arka, M\'arka, Markakis, Markosyan, Markowitz, Maros, Marquina, Marsh,
+  Martelli, Martellini, Martin, Martin, Martynov, Marx, Mason, Massera,
+  Masserot, Massinger, Masso-Reid, Mastrogiovanni, Matas, Matichard, Matone,
+  Mavalvala, Mazumder, McCarthy, McClelland, McCormick, McCuller, McGuire,
+  McIntyre, McIver, McManus, McNeill, McRae, McWilliams, Meacher, Meadors,
+  Mehmet, Meidam, Mejuto-Villa, Melatos, Mendell, Mercer, Merilh, Merzougui,
+  Meshkov, Messenger, Messick, Metzdorff, Meyers, Miao, Michel, Middleton,
+  Mikhailov, Milano, Miller, Miller, Miller, Millhouse, Milovich-Goff,
+  Minazzoli, Minenkov, Ming, Mishra, Mitra, Mitrofanov, Mitselmakher,
+  Mittleman, Moffa, Moggi, Mogushi, Mohan, Mohapatra, Molina, Montani, Moore,
+  Moraru, Moreno, Morisaki, Morriss, Mours, Mow-Lowry, Mueller, Muir,
+  Mukherjee, Mukherjee, Mukherjee, Mukund, Mullavey, Munch, Mu\~niz, Muratore,
+  Murray, Nagar, Napier, Nardecchia, Naticchioni, Nayak, Neilson, Nelemans,
+  Nelson, Nery, Neunzert, Nevin, Newport, Newton, Ng, Nguyen, Nguyen, Nichols,
+  Nielsen, Nissanke, Nitz, Noack, Nocera, Nolting, North, Nuttall, Oberling,
+  O'Dea, Ogin, Oh, Oh, Ohme, Okada, Oliver, Oppermann, Oram, O'Reilly,
+  Ormiston, Ortega, O'Shaughnessy, Ossokine, Ottaway, Overmier, Owen, Pace,
+  Page, Page, Pai, Pai, Palamos, Palashov, Palomba, Pal-Singh, Pan, Pan, Pang,
+  Pang, Pankow, Pannarale, Pant, Paoletti, Paoli, Papa, Parida, Parker,
+  Pascucci, Pasqualetti, Passaquieti, Passuello, Patil, Patricelli, Pearlstone,
+  Pedraza, Pedurand, Pekowsky, Pele, Penn, Perez, Perreca, Perri, Pfeiffer,
+  Phelps, Piccinni, Pichot, Piergiovanni, Pierro, Pillant, Pinard, Pinto,
+  Pirello, Pitkin, Poe, Poggiani, Popolizio, Porter, Post, Powell, Prasad,
+  Pratt, Pratten, Predoi, Prestegard, Prijatelj, Principe, Privitera, Prix,
+  Prodi, Prokhorov, Puncken, Punturo, Puppo, P\"urrer, Qi, Quetschke, Quintero,
+  Quitzow-James, Raab, Rabeling, Radkins, Raffai, Raja, Rajan, Rajbhandari,
+  Rakhmanov, Ramirez, Ramos-Buades, Rapagnani, Raymond, Razzano, Read,
+  Regimbau, Rei, Reid, Reitze, Ren, Reyes, Ricci, Ricker, Rieger, Riles, Rizzo,
+  Robertson, Robie, Robinet, Rocchi, Rolland, Rollins, Roma, Romano, Romano,
+  Romel, Romie, Rosi\ifmmode~\acute{n}\else \'{n}\fi{}ska, Ross, Rowan,
+  R\"udiger, Ruggi, Rutins, Ryan, Sachdev, Sadecki, Sadeghian, Sakellariadou,
+  Salconi, Saleem, Salemi, Samajdar, Sammut, Sampson, Sanchez, Sanchez,
+  Sanchis-Gual, Sandberg, Sanders, Sassolas, Sathyaprakash, Saulson, Sauter,
+  Savage, Sawadsky, Schale, Scheel, Scheuer, Schmidt, Schmidt, Schnabel,
+  Schofield, Sch\"onbeck, Schreiber, Schuette, Schulte, Schutz, Schwalbe,
+  Scott, Scott, Seidel, Sellers, Sengupta, Sentenac, Sequino, Sergeev,
+  Shaddock, Shaffer, Shah, Shahriar, Shaner, Shao, Shapiro, Shawhan, Sheperd,
+  Shoemaker, Shoemaker, Siellez, Siemens, Sieniawska, Sigg, Silva, Singer,
+  Singh, Singhal, Sintes, Slagmolen, Smith, Smith, Smith, Somala, Son,
+  Sonnenberg, Sorazu, Sorrentino, Souradeep, Spencer, Srivastava, Staats,
+  Staley, Steinke, Steinlechner, Steinlechner, Steinmeyer, Stevenson, Stone,
+  Stops, Strain, Stratta, Strigin, Strunk, Sturani, Stuver, Summerscales, Sun,
+  Sunil, Suresh, Sutton, Swinkels, Szczepa\ifmmode~\acute{n}\else
+  \'{n}\fi{}czyk, Tacca, Tait, Talbot, Talukder, Tanner, T\'apai, Taracchini,
+  Tasson, Taylor, Taylor, Tewari, Theeg, Thies, Thomas, Thomas, Thomas, Thorne,
+  Thorne, Thrane, Tiwari, Tiwari, Tokmakov, Toland, Tonelli, Tornasi,
+  Torres-Forn\'e, Torrie, T\"oyr\"a, Travasso, Traylor, Trinastic, Tringali,
+  Trozzo, Tsang, Tse, Tso, Tsukada, Tsuna, Tuyenbayev, Ueno, Ugolini,
+  Unnikrishnan, Urban, Usman, Vahlbruch, Vajente, Valdes, Vallisneri, van
+  Bakel, van Beuzekom, van~den Brand, Van Den~Broeck, Vander-Hyde, van~der
+  Schaaf, van Heijningen, van Veggel, Vardaro, Varma, Vass, Vas\'uth, Vecchio,
+  Vedovato, Veitch, Veitch, Venkateswara, Venugopalan, Verkindt, Vetrano,
+  Vicer\'e, Viets, Vinciguerra, Vine, Vinet, Vitale, Vo, Vocca, Vorvick,
+  Vyatchanin, Wade, Wade, Wade, Walet, Walker, Wallace, Walsh, Wang, Wang,
+  Wang, Wang, Wang, Ward, Warner, Was, Watchi, Weaver, Wei, Weinert, Weinstein,
+  Weiss, Wen, Wessel, We\ss{}els, Westerweck, Westphal, Wette, Whelan,
+  Whitcomb, Whiting, Whittle, Wilken, Williams, Williams, Williamson, Willis,
+  Willke, Wimmer, Winkler, Wipf, Wittel, Woan, Woehler, Wofford, Wong, Worden,
+  Wright, Wu, Wysocki, Xiao, Yamamoto, Yancey, Yang, Yap, Yazback, Yu, Yu,
+  Yvert, Zadro\ifmmode~\dot{z}\else \.{z}\fi{}ny, Zanolin, Zelenova, Zendri,
+  Zevin, Zhang, Zhang, Zhang, Zhang, Zhao, Zhou, Zhou, Zhu, Zhu, Zimmerman,
+  Zucker, \& Zweizig}]{ligo}
+Abbott, B.~P., Abbott, R., Abbott, T.~D., {et~al.} 2017, Phys. Rev. Lett., 119,
+  161101
+
+\bibitem[{Chiosi \& Maeder(1986)}]{Chiosi86}
+Chiosi, C. \& Maeder, A. 1986, Annual Review of Astronomy and Astrophysics, 24,
+  329
 
 \bibitem[{Clayton(1968)}]{Clayton}
 Clayton, D. 1968, Principles of Stellar Evolution and Nucleosynthesis
   (McGraw-Hill)
 
+\bibitem[{Eggleton(2006)}]{Eggleton_book}
+Eggleton, P. 2006, Evolutionary Processes in Binary and Multiple Stars
+  (Cambridge University Press)
+
+\bibitem[{{Han} {et~al.}(2003){Han}, {Podsiadlowski}, {Maxted}, \&
+  {Marsh}}]{Han2003}
+{Han}, Z., {Podsiadlowski}, P., {Maxted}, P.~F.~L., \& {Marsh}, T.~R. 2003,
+  Monthly Notices of the Royal Astronomical Society, 341, 669
+
+\bibitem[{Han {et~al.}(2002)Han, Podsiadlowski, Maxted, Marsh, \&
+  Ivanova}]{Han2002}
+Han, Z., Podsiadlowski, P., Maxted, P. F.~L., Marsh, T.~R., \& Ivanova, N.
+  2002, Monthly Notices of the Royal Astronomical Society, 336, 449
+
+\bibitem[{Heber(2009)}]{Heber2009}
+Heber, U. 2009, Annual Review of Astronomy and Astrophysics, 47, 211
+
 \bibitem[{Kippenhahn {et~al.}(2012)Kippenhahn, Weigert, \& Weiss}]{Kipp_book}
 Kippenhahn, R., Weigert, A., \& Weiss, A. 2012, Stellar Structure and
   Evolution, 2nd edn. (Springer)
 
-\bibitem[{{Tauris} \& {van den Heuvel}(2006)}]{Tauris_2006}
-{Tauris}, T.~M. \& {van den Heuvel}, E.~P.~J. 2006, in Compact stellar X-ray
-  sources, ed. W.~H.~G. {Lewin} \& M.~{van der Klis}, 623--665
+\bibitem[{Langer(2012)}]{langer12}
+Langer, N. 2012, Annual Review of Astronomy and Astrophysics, 50, 107
+
+\bibitem[{Prialnik(2000)}]{Prialnik}
+Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
+  Evolution (Cambridge University Press)
+
+\bibitem[{Sweigart(1997)}]{Sweigart}
+Sweigart, A.~V. 1997, The Astrophysical Journal, 427, L23
 
 \end{thebibliography}

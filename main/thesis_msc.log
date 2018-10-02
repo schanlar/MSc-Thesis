@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.27)  2 OCT 2018 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.27)  2 OCT 2018 20:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1360,38 +1360,12 @@ LaTeX Font Warning: Font shape `LGR/cmr/m/n' in size <28.45274> not available
 
 ] [10
 
-] (./thesis_msc.toc
-
-! LaTeX Error: Encoding scheme `TU' unknown.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ...encoding {TU}\selectfont xiii}}{section*.4}
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Encoding scheme `TU' unknown.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...ntencoding {TU}\selectfont xv}}{section*.6}
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-)
+] (./thesis_msc.toc)
 \tf@toc=\write6
 \openout6 = `thesis_msc.toc'.
 
- [11] [12
+
+[11] [12
 
 ] (./thesis_msc.lof)
 \tf@lof=\write7
@@ -1413,39 +1387,33 @@ Chapter 1.
 [1
 
 
-]) (../chapters/chapter2/chapter2.tex [2]
-Chapter 2.
-) (../chapters/chapter3/chapter3.tex [3
+] [2]) (../chapters/chapter2/chapter2.tex [3] [4
 
-] [4
+]
+Chapter 2.
+) (../chapters/chapter3/chapter3.tex [5] [6
 
 ]
 Chapter 3.
-) (../chapters/chapter4/chapter4.tex [5] [6
+) (../chapters/chapter4/chapter4.tex [7] [8
 
 ]
 Chapter 4.
-) (../chapters/chapter5/chapter5.tex [7] [8
+) (../chapters/chapter5/chapter5.tex [9] [10
 
 ]
 Chapter 5.
-) (./thesis_msc.bbl [9] [10
+) (./thesis_msc.bbl [11] [12
 
-]) [11]
+]) [13]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 326.
  (./thesis_msc.xwm) (./thesis_msc.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
+Package rerunfilecheck Info: File `thesis_msc.out' has not changed.
+(rerunfilecheck)             Checksum: DD4437F5AE1C0992B952781583A7F3A6;1817.
 
-
-Package rerunfilecheck Warning: File `thesis_msc.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis_msc.out':
-(rerunfilecheck)             Before: F8D89B58B3791E2623C5D51B201E4529;1949
-(rerunfilecheck)             After:  DD4437F5AE1C0992B952781583A7F3A6;1817.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.40726pt have occurred.
@@ -1455,13 +1423,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 38055 strings out of 493104
- 883514 string characters out of 6139413
- 1130181 words of memory out of 5000000
- 40790 multiletter control sequences out of 15000+600000
+ 38089 strings out of 493104
+ 884017 string characters out of 6139413
+ 1172896 words of memory out of 5000000
+ 40814 multiletter control sequences out of 15000+600000
  23265 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,13n,92p,815b,1018s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,13n,92p,9876b,1018s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/bitstrea/charter/bchbi8a.pfb></usr/share/texlive/texmf-dist/fo
@@ -1472,10 +1440,10 @@ sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grmi1095.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grmn2986.pfb>
-Output written on thesis_msc.pdf (27 pages, 194760 bytes).
+Output written on thesis_msc.pdf (29 pages, 202951 bytes).
 PDF statistics:
- 342 PDF objects out of 1000 (max. 8388607)
- 297 compressed objects within 3 object streams
- 68 named destinations out of 1000 (max. 500000)
+ 383 PDF objects out of 1000 (max. 8388607)
+ 335 compressed objects within 4 object streams
+ 78 named destinations out of 1000 (max. 500000)
  247 words of extra memory for PDF output out of 10000 (max. 10000000)
 
