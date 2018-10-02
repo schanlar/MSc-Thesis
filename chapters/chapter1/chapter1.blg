@@ -1,11 +1,11 @@
-This is BibTeX, Version 0.99d (TeX Live 2017)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: chapter1.aux
 I found no \bibdata command---while reading file chapter1.aux
 I found no \bibstyle command---while reading file chapter1.aux
-You've used 2 entries,
+You've used 8 entries,
             0 wiz_defined-function locations,
-            87 strings with 522 characters,
+            97 strings with 610 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
