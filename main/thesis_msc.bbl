@@ -1,4 +1,4 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{18}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -139,6 +139,12 @@
 Abbott, B.~P., Abbott, R., Abbott, T.~D., {et~al.} 2017, Phys. Rev. Lett., 119,
   161101
 
+\bibitem[{{Cantiello, M.} \& {Langer, N.}(2010)}]{Cantiello}
+{Cantiello, M.} \& {Langer, N.} 2010, Astronomy and Astrophysics, 521, A9
+
+\bibitem[{{Charbonnel, C.} \& {Zahn, J.-P.}(2007)}]{Charbonnel}
+{Charbonnel, C.} \& {Zahn, J.-P.} 2007, Astronomy and Astrophysics, 467, L15
+
 \bibitem[{Chiosi \& Maeder(1986)}]{Chiosi86}
 Chiosi, C. \& Maeder, A. 1986, Annual Review of Astronomy and Astrophysics, 24,
   329
@@ -150,6 +156,12 @@ Clayton, D. 1968, Principles of Stellar Evolution and Nucleosynthesis
 \bibitem[{Eggleton(2006)}]{Eggleton_book}
 Eggleton, P. 2006, Evolutionary Processes in Binary and Multiple Stars
   (Cambridge University Press)
+
+\bibitem[{Habets(1986{\natexlab{a}})}]{Habets_a}
+Habets, G. 1986{\natexlab{a}}, Astronomy and Astrophysics, 165, 95
+
+\bibitem[{Habets(1986{\natexlab{b}})}]{Habets_b}
+Habets, G. 1986{\natexlab{b}}, Astronomy and Astrophysics, 167, 61
 
 \bibitem[{{Han} {et~al.}(2003){Han}, {Podsiadlowski}, {Maxted}, \&
   {Marsh}}]{Han2003}
@@ -168,12 +180,21 @@ Heber, U. 2009, Annual Review of Astronomy and Astrophysics, 47, 211
 Kippenhahn, R., Weigert, A., \& Weiss, A. 2012, Stellar Structure and
   Evolution, 2nd edn. (Springer)
 
+\bibitem[{{Langer}(1991)}]{Langer1991}
+{Langer}, N. 1991, Astronomy and Astrophysics, 252, 669
+
 \bibitem[{Langer(2012)}]{langer12}
 Langer, N. 2012, Annual Review of Astronomy and Astrophysics, 50, 107
+
+\bibitem[{{Nomoto}(1987)}]{Nomoto1987}
+{Nomoto}, K. 1987, The Astrophysical Journal, 322, 206
 
 \bibitem[{Prialnik(2000)}]{Prialnik}
 Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
   Evolution (Cambridge University Press)
+
+\bibitem[{{Spruit}(2013)}]{Spruit2013}
+{Spruit}, H. 2013, Astronomy and Astrophysics, 552, A76
 
 \bibitem[{Sweigart(1997)}]{Sweigart}
 Sweigart, A.~V. 1997, The Astrophysical Journal, 427, L23
