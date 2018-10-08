@@ -42,7 +42,7 @@
 				%A small section explaining the evolution of single helium stars 
 				Once the He-star progenitor has been stripped from its Hydrogen envelope during its RGB phase, the compression of the core continues until it reaches the necessary conditions for Helium to ignite at its centre. The ignition of core Helium burning signifies the transition to the Helium main sequence (He-MS) as a He-ZAMS star (see \hyperref[fig:T_rho_plane_ch1]{Fig 1.1}). The last two concepts are defined in a similar way to the (Hydrogen) main sequence and ZAMS respectively.
 				
-				During the He-MS stage, the star burns its $^4$He supplies via the triple-alpha process producing Carbon ($^{12}$C) and the stable Oxygen isotope $^{16}$O, as a byproduct. When the Helium in the core is depleted, the contraction/expansion process we described above is repeated; the idle metal core that has been formed, consists mainly by Carbon, Oxygen, Neon, and Magnesium and it is surrounded by a He-rich envelope. This whole structure will contract until Helium is ignited in a shell at the bottom of the envelope, followed by the ignition of Carbon in the centre (given that the star is massive enough). The fate of the He-star at this point depends on its mass; if it has not retain enough mass for Carbon ignition, it will gradually cool off and end its life as a Carbon/Oxygen white dwarf (CO WD). On the other hand, if it is massive enough to ignite Carbon, either on or off centre, its fate could be an Oxygen/Neon/Magnesium white dwarf (ONeMg WD), a hybrid white dwarf (CONeMg WD), or even collapse as a supernova.
+				During the He-MS stage, the star burns its $^4$He supplies via the triple-alpha process producing Carbon ($^{12}$C) and the stable Oxygen isotope $^{16}$O, as a byproduct. When the Helium in the core is depleted, the contraction/expansion process we described above is repeated; the idle metal core that has been formed, consists mainly of Carbon, Oxygen, Neon, and Magnesium and it is surrounded by a He-rich envelope. This whole structure will contract until Helium is ignited in a shell at the bottom of the envelope, followed by the ignition of Carbon in the centre (given that the star is massive enough). The fate of the He-star at this point depends on its mass; if it has not retain enough mass for Carbon ignition, it will gradually cool off and end its life as a Carbon/Oxygen white dwarf (CO WD). On the other hand, if it is massive enough to ignite Carbon, either on or off centre, its fate could be an Oxygen/Neon/Magnesium white dwarf (ONeMg WD), a hybrid white dwarf (CONeMg WD), or even collapse as a supernova.
 				
 				\begin{figure}[t]
 					\centering
@@ -72,19 +72,19 @@
 					\subsubsection{Mixing mechanisms}
 					
 						%convection, overshooting, thermohaline
-						Although protostars begin their life with, a more or less, uniform elemental composition which is the same as the composition of the cloud they originated from, the ongoing nuclear reactions transform and creates new elements that are not necessarily distributed uniformly throughout the stellar interior. This is because there are several ways for a star to stir and mix its material. These mixing mechanisms are usually caused by various instabilities and can contribute on different levels based on specific conditions. In this section we will briefly explain four major mixing processes leaving the effects of rotation for a later discussion.
+						Although protostars begin their life with, a more or less, uniform elemental composition which is the same as the composition of the cloud they originated from, the ongoing nuclear reactions transform and create new elements that are not necessarily distributed uniformly throughout the stellar interior. This is because there are several ways for a star to stir and mix its material. These mixing mechanisms are usually caused by various instabilities and can contribute on different levels based on specific conditions. In this section we will briefly explain four major mixing processes leaving the effects of rotation for later discussion.
 						
 						Maybe the most effective way to transfer material is with \emph{convection}. Thermal variations across different shells of the star will lead to density variations and, consequently, to buoyancy driven flows of the fluid. Essentially, what this means is that a hot parcel of fluid will rise due to buoyancy forces and a colder parcel will sink. This process is very efficient for transporting more heavy elements produced in the deep interior of the star towards the surface via bulk motions (dredge-up) and vice versa. The stability of a layer against convection is given by the \emph{Ledoux} criterion
 						
 						\begin{eqnarray}
-							\nabla_{\text{rad}} < \nabla_{\text{ad}} - \frac{\chi_{\mu}}{\chi_{T}} \nabla_{\mu}
+							\nabla_{\text{rad}} < \nabla_{\text{ad}} - \frac{\phi}{\delta} \nabla_{\mu}
 						\end{eqnarray}
 						which, in the case of chemically homogeneous layers ($\nabla_{\mu} = 0$), reduces to the \emph{Schwartzschild} criterion
 						
 						\begin{eqnarray}
 							\nabla_{\text{rad}} < \nabla_{\text{ad}}
 						\end{eqnarray}
-						For a detailed explanation of the symbols and the implications of those criteria, see \cite{Kipp_book}.
+						For a detailed explanation of the symbols and the implications of those criteria, see \cite[pp.~49-51]{Kipp_book}.
 						
 						The composition gradient in the Ledoux criterion acts as a stabilizing agent in weakly, thermally unstable regions leading to a slower mixing rate. These zones are not mixed by convection but rather by another process, called \emph{semi-convection} \citep[see][]{Spruit2013, Langer1991}.
 						
@@ -98,16 +98,24 @@
 						
 					\subsubsection{Effects of rotation}
 					
-						Rotational mixing 
+						%Rotational mixing 
+						The evolution of stars can be significantly altered if they are rotating. This is true for most -if not all- stars found in nature, since they inherit angular momentum during the collapse of the already turbulent molecular cloud they originated from. Rotation can influence the shape of stars, their lifetimes since the centrifugal force lowers the internal pressure that is necessary to balance gravity, and their abundance profiles. The latter is a result of several rotation-induced instabilities like the Eddington-Sweet circulation, the dynamical shear instability, and the secular shear instability, to name a few. Especially the Eddington-Sweet circulation and the shear instability play an important role to the transportation of angular momentum between different layers of the star. 
+						
+						The importance of rotational mixing is difficult to be overstated. As an example, we mention the results of \cite{Maeder1987} who found that, for massive stars, a bifurcation of the evolutionary tracks in the Hertzprung-Russel diagram appears around a critical rotation. This is caused by the inability of the composition gradient ($\nabla_{\mu}$) to prevent turbulent diffusion above this critical rotation, thus the diffusive mixing leads to an almost chemically homogeneous evolution, i.e. the star exhibits the same composition everywhere. These homogeneous models are likely to result to the formation of WR stars before the end of their Hydrogen-burning phase, which increases the WR lifetime, and potentially lead to the formation of gamma-ray bursts in low-metallicity environments \citep{Yoon2005}.
+						
+						A detailed coverage of the effects of rotation in stellar evolution is offered by \cite{Langer1997, Heger2000, Hirschi, Maeder2006, langer12, Palacios}. More on the rotation-driven transportation of anglular momentum and associated mechanisms can be found in \cite{Heger2005, langer12} as well as in the work of \cite{Spruit2002} where a discussion on the importance of dynamo-generated magnetic fields takes place.
 						
 						
-					\subsubsection{Transportation of angular momentum}
+					\subsubsection{Stellar winds and mass loss}
 					
-						Eddington-Sweet circulation etc
+						%Importance of mass loss in the evolution of stellar winds and Wolf-Rayet stars + magnetic braking --> connection to angular momentum losses.
+						It has been long since we first discovered that stars experience a continuous outflow of material from their surface causing them to gradually lose a significant fraction of their initial mass. This ejection of material is called \emph{stellar wind} and several mechanisms trying to explain its origin have been proposed over the years.
 						
-					\subsubsection{Winds and mass loss}
-					
-						Importance of mass loss in the evolution of stellar winds and Wolf-Rayet stars + magnetic braking --> connection to angular momentum losses.
+						Stellar winds do not affect all stars in the same way; it depends on the mass of the star and its current evolutionary stage. Low-mass stars that are in the MS phase, like our Sun, are hardly influenced from the generated winds. However, more massive and post-MS stars experience strong, usually radiation accelerated \footnote{These winds can be driven either by radiation pressure on dust condensations that have been formed in the upper atmosphere of stars, or by radiaton pressure on the resonance absorption lines of metals such as carbon and nitrogen.}, winds that peel off large quantities of mass, and changing this way their surface chemical composition. The mass loss rates and the terminal velocities of these winds appear to vary significantly with luminosity, temperature, metallicity, and other global stellar parameters such as the radius \citep{Hamann1982, deJager1988, Nugis2000, yoon17}.
+						
+						Observations of spectral features have allowed us to establish several empirical relations and constraints for the mass loss rates; especially in the case of WR stars which are known for their strong optically thick winds, the mass loss rates have been revised downwards by almost an order of magnitude \citep{Nugis2000} compared to earlier estimations \citep{Hamann1995, Langer1989} due to the influence of clumping and the asymmetrical structure of the winds. The prescription of \cite{Nugis2000} is currently the most popular for the mass loss rate of WR stars, although \cite{yoon17} raises a word of caution since in the aforementioned prescription, the considered metallicity dependece is not related to the initial metallicity, but rather to the self-enrichment of Carbon and Oxygen at the surface due to mass loss.
+						
+						Finally, it should be mentioned that in the case of rotating stars, stellar winds will also carry away some of the specific angular momentum of the star along with the ejecta material. Additionally, magnetic fields coupled to the wind plasma in a co-rotation, will slow down the spin of the star which, in turn, will affect the mass loss rate and the angular momentum losses of the system. This is known as \emph{magnetic braking} and plays an important role in stellar evolution, especially in the case of binary systems. For a complete review of our current understanding of stellar winds see \cite{Lamers, smith14}.
 						
 					
 				
