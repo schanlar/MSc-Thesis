@@ -1,4 +1,4 @@
-\begin{thebibliography}{18}
+\begin{thebibliography}{35}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -153,6 +153,11 @@ Chiosi, C. \& Maeder, A. 1986, Annual Review of Astronomy and Astrophysics, 24,
 Clayton, D. 1968, Principles of Stellar Evolution and Nucleosynthesis
   (McGraw-Hill)
 
+\bibitem[{{de Jager} {et~al.}(1988){de Jager}, {Nieuwenhuijzen}, \& {van der
+  Hucht}}]{deJager1988}
+{de Jager}, C., {Nieuwenhuijzen}, H., \& {van der Hucht}, K.~A. 1988, Astronomy
+  and Astrophysics Supplement Series, 72, 259
+
 \bibitem[{Eggleton(2006)}]{Eggleton_book}
 Eggleton, P. 2006, Evolutionary Processes in Binary and Multiple Stars
   (Cambridge University Press)
@@ -162,6 +167,16 @@ Habets, G. 1986{\natexlab{a}}, Astronomy and Astrophysics, 165, 95
 
 \bibitem[{Habets(1986{\natexlab{b}})}]{Habets_b}
 Habets, G. 1986{\natexlab{b}}, Astronomy and Astrophysics, 167, 61
+
+\bibitem[{{Hamann} {et~al.}(1995){Hamann}, {Koesterke}, \&
+  {Wessolowski}}]{Hamann1995}
+{Hamann}, W.~R., {Koesterke}, L., \& {Wessolowski}, U. 1995, Astronomy and
+  Astrophysics, 299, 151
+
+\bibitem[{{Hamann} {et~al.}(1982){Hamann}, {Schoenberner}, \&
+  {Heber}}]{Hamann1982}
+{Hamann}, W.-R., {Schoenberner}, D., \& {Heber}, U. 1982, Astronomy and
+  Astrophysics, 116, 273
 
 \bibitem[{{Han} {et~al.}(2003){Han}, {Podsiadlowski}, {Maxted}, \&
   {Marsh}}]{Han2003}
@@ -176,9 +191,28 @@ Han, Z., Podsiadlowski, P., Maxted, P. F.~L., Marsh, T.~R., \& Ivanova, N.
 \bibitem[{Heber(2009)}]{Heber2009}
 Heber, U. 2009, Annual Review of Astronomy and Astrophysics, 47, 211
 
+\bibitem[{{Heger} {et~al.}(2000){Heger}, {Langer}, \& {Woosley}}]{Heger2000}
+{Heger}, A., {Langer}, N., \& {Woosley}, S.~E. 2000, The Astrophysical Journal,
+  528, 368
+
+\bibitem[{{Heger} {et~al.}(2005){Heger}, {Woosley}, \& {Spruit}}]{Heger2005}
+{Heger}, A., {Woosley}, S.~E., \& {Spruit}, H.~C. 2005, The Astrophysical
+  Journal, 626, 350
+
+\bibitem[{Hirschi {et~al.}(2004)Hirschi, Meyne, \& Maeder}]{Hirschi}
+Hirschi, R., Meyne, G., \& Maeder, A. 2004, Astronomy and Astrophysics, 425,
+  649
+
 \bibitem[{Kippenhahn {et~al.}(2012)Kippenhahn, Weigert, \& Weiss}]{Kipp_book}
 Kippenhahn, R., Weigert, A., \& Weiss, A. 2012, Stellar Structure and
   Evolution, 2nd edn. (Springer)
+
+\bibitem[{Lamers \& Cassinelli(1999)}]{Lamers}
+Lamers, H. \& Cassinelli, J. 1999, Introduction to Stellar Winds (Cambridge
+  University Press)
+
+\bibitem[{{Langer}(1989)}]{Langer1989}
+{Langer}, N. 1989, Astronomy and Astrophysics, 220, 135
 
 \bibitem[{{Langer}(1991)}]{Langer1991}
 {Langer}, N. 1991, Astronomy and Astrophysics, 252, 669
@@ -186,17 +220,50 @@ Kippenhahn, R., Weigert, A., \& Weiss, A. 2012, Stellar Structure and
 \bibitem[{Langer(2012)}]{langer12}
 Langer, N. 2012, Annual Review of Astronomy and Astrophysics, 50, 107
 
+\bibitem[{{Langer} {et~al.}(1997){Langer}, {Heger}, \& {Fliegner}}]{Langer1997}
+{Langer}, N., {Heger}, A., \& {Fliegner}, J. 1997, in IAU Symposium, Vol. 189,
+  IAU Symposium, ed. T.~R. {Bedding}, A.~J. {Booth}, \& J.~{Davis}, 343--348
+
+\bibitem[{{Maeder}(1987)}]{Maeder1987}
+{Maeder}, A. 1987, Astronomy and Astrophysics, 178, 159
+
+\bibitem[{{Maeder} {et~al.}(2006){Maeder}, {Meynet}, {Hirschi}, \&
+  {Ekstr{\"o}m}}]{Maeder2006}
+{Maeder}, A., {Meynet}, G., {Hirschi}, R., \& {Ekstr{\"o}m}, S. 2006,
+  {Rotational Mixing in Massive Stars and Its Many Consequences}, ed.
+  S.~{Randich} \& L.~{Pasquini}, 308
+
 \bibitem[{{Nomoto}(1987)}]{Nomoto1987}
 {Nomoto}, K. 1987, The Astrophysical Journal, 322, 206
+
+\bibitem[{{Nugis} \& {Lamers}(2000)}]{Nugis2000}
+{Nugis}, T. \& {Lamers}, H.~J.~G.~L.~M. 2000, Astronomy and Astrophysics, 360,
+  227
+
+\bibitem[{{Palacios}(2013)}]{Palacios}
+{Palacios}, A. 2013, in EAS Publications Series, Vol.~62, EAS Publications
+  Series, ed. P.~{Hennebelle} \& C.~{Charbonnel}, 227--287
 
 \bibitem[{Prialnik(2000)}]{Prialnik}
 Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
   Evolution (Cambridge University Press)
 
+\bibitem[{Smith(2014)}]{smith14}
+Smith, N. 2014, Annual Review of Astronomy and Astrophysics, 52, 487
+
 \bibitem[{{Spruit}(2013)}]{Spruit2013}
 {Spruit}, H. 2013, Astronomy and Astrophysics, 552, A76
 
+\bibitem[{{Spruit}(2002)}]{Spruit2002}
+{Spruit}, H.~C. 2002, Astronomy and Astrophysics, 381, 923
+
 \bibitem[{Sweigart(1997)}]{Sweigart}
 Sweigart, A.~V. 1997, The Astrophysical Journal, 427, L23
+
+\bibitem[{Yoon(2017)}]{yoon17}
+Yoon, S.-C. 2017, Monthly Notices of the Royal Astronomical Society, 470, 3970
+
+\bibitem[{{Yoon} \& {Langer}(2005)}]{Yoon2005}
+{Yoon}, S.-C. \& {Langer}, N. 2005, Astronomy and Astrophysics, 443, 643
 
 \end{thebibliography}

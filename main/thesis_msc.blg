@@ -1,5 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2017)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis_msc.aux
 The style file: ../bibliography/bibstyle_aa.bst.bst
 Database file #1: ../bibliography/bibfile_thesis.bib
@@ -8,6 +8,10 @@ while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
 Name 1 in "Kippenhahn, R., and Weigert, A., and Weiss, A." has a comma at the end for entry Kipp_book
 while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
 Name 2 in "Kippenhahn, R., and Weigert, A., and Weiss, A." has a comma at the end for entry Kipp_book
+while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
+Name 1 in "Lamers, Henny, and Cassinelli, Joseph" has a comma at the end for entry Lamers
+while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
+Name 1 in "Lamers, Henny, and Cassinelli, Joseph" has a comma at the end for entry Lamers
 while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Name 1 in "Kippenhahn, R., and Weigert, A., and Weiss, A." has a comma at the end for entry Kipp_book
@@ -18,45 +22,51 @@ Name 1 in "Kippenhahn, R., and Weigert, A., and Weiss, A." has a comma at the en
 while executing---line 1684 of file ../bibliography/bibstyle_aa.bst.bst
 Name 2 in "Kippenhahn, R., and Weigert, A., and Weiss, A." has a comma at the end for entry Kipp_book
 while executing---line 1684 of file ../bibliography/bibstyle_aa.bst.bst
-You've used 18 entries,
+Name 1 in "Lamers, Henny, and Cassinelli, Joseph" has a comma at the end for entry Lamers
+while executing---line 1684 of file ../bibliography/bibstyle_aa.bst.bst
+Name 1 in "Lamers, Henny, and Cassinelli, Joseph" has a comma at the end for entry Lamers
+while executing---line 1684 of file ../bibliography/bibstyle_aa.bst.bst
+Warning--can't use both author and editor fields in Maeder2006
+Warning--empty publisher in Maeder2006
+You've used 35 entries,
             3039 wiz_defined-function locations,
-            789 strings with 25982 characters,
-and the built_in function-call counts, 59534 in all, are:
-= -- 3947
-> -- 10426
-< -- 15
-+ -- 3484
-- -- 3459
-* -- 6109
-:= -- 11365
-add.period$ -- 18
-call.type$ -- 18
-change.case$ -- 1227
-chr.to.int$ -- 20
-cite$ -- 18
-duplicate$ -- 318
-empty$ -- 505
-format.name$ -- 3496
-if$ -- 11456
+            907 strings with 28705 characters,
+and the built_in function-call counts, 66864 in all, are:
+= -- 4580
+> -- 10839
+< -- 26
++ -- 3619
+- -- 3577
+* -- 6678
+:= -- 12681
+add.period$ -- 35
+call.type$ -- 35
+change.case$ -- 1332
+chr.to.int$ -- 37
+cite$ -- 37
+duplicate$ -- 658
+empty$ -- 1004
+format.name$ -- 3662
+if$ -- 12941
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 18
-newline$ -- 58
-num.names$ -- 72
-pop$ -- 1226
+missing$ -- 33
+newline$ -- 109
+num.names$ -- 143
+pop$ -- 1348
 preamble$ -- 1
-purify$ -- 1225
+purify$ -- 1330
 quote$ -- 0
-skip$ -- 298
+skip$ -- 602
 stack$ -- 0
-substring$ -- 346
-swap$ -- 4
-text.length$ -- 0
+substring$ -- 728
+swap$ -- 31
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 150
-warning$ -- 0
-while$ -- 69
+type$ -- 297
+warning$ -- 2
+while$ -- 141
 width$ -- 0
-write$ -- 183
-(There were 7 error messages)
+write$ -- 353
+(There were 11 error messages)
