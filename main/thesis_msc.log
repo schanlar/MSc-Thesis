@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.27)  11 OCT 2018 09:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.27)  11 OCT 2018 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1279,7 +1279,7 @@ LaTeX Info: Redefining \nameref on input line 142.
 \openout5 = `thesis_msc.out'.
 
 
-<../figures/aifa_logo.png, id=119, 96.36pt x 39.9894pt>
+<../figures/aifa_logo.png, id=123, 96.36pt x 39.9894pt>
 File: ../figures/aifa_logo.png Graphic file (type png)
 
 <use ../figures/aifa_logo.png>
@@ -1300,7 +1300,7 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 153.
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-<../figures/uni_logo.png, id=120, 1027.84pt x 396.48125pt>
+<../figures/uni_logo.png, id=124, 1027.84pt x 396.48125pt>
 File: ../figures/uni_logo.png Graphic file (type png)
 
 <use ../figures/uni_logo.png>
@@ -1387,14 +1387,14 @@ Chapter 1.
 [1
 
 
-] <../figures/T_rho_plane_ch1.png, id=282, 939.51pt x 650.43pt>
+] <../figures/T_rho_plane_ch1.png, id=287, 939.51pt x 650.43pt>
 File: ../figures/T_rho_plane_ch1.png Graphic file (type png)
 
 <use ../figures/T_rho_plane_ch1.png>
 Package pdftex.def Info: ../figures/T_rho_plane_ch1.png used on input line 49.
 (pdftex.def)             Requested size: 495.55226pt x 343.06882pt.
  [2]
-<../figures/Kippenhahn_3p0_ch1_with_text_magenta.png, id=306, 939.51pt x 650.43
+<../figures/Kippenhahn_3p0_ch1_with_text_magenta.png, id=311, 939.51pt x 650.43
 pt>
 File: ../figures/Kippenhahn_3p0_ch1_with_text_magenta.png Graphic file (type pn
 g)
@@ -1425,14 +1425,26 @@ Chapter 4.
 Chapter 5.
 ) (./thesis_msc.bbl [15] [16
 
-] [17]) [18]
+] [17]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ­ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¡ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+) [18]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 326.
  (./thesis_msc.xwm) (./thesis_msc.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
 Package rerunfilecheck Info: File `thesis_msc.out' has not changed.
-(rerunfilecheck)             Checksum: A58EEF5CE24319BF31CCBE17D3FC6FD3;1817.
+(rerunfilecheck)             Checksum: 54AD03703FB8616420EE6D3095EA964F;1898.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1443,10 +1455,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 38224 strings out of 493104
- 886328 string characters out of 6139413
- 1177963 words of memory out of 5000000
- 40910 multiletter control sequences out of 15000+600000
+ 38234 strings out of 493104
+ 886536 string characters out of 6139413
+ 1179044 words of memory out of 5000000
+ 40917 multiletter control sequences out of 15000+600000
  25258 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,14n,92p,9876b,1018s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1468,10 +1480,10 @@ t/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts
 public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /cbfonts/grmi1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts
 /grmn2986.pfb>
-Output written on thesis_msc.pdf (34 pages, 745230 bytes).
+Output written on thesis_msc.pdf (34 pages, 746625 bytes).
 PDF statistics:
- 550 PDF objects out of 1000 (max. 8388607)
- 484 compressed objects within 5 object streams
- 111 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 561 PDF objects out of 1000 (max. 8388607)
+ 495 compressed objects within 5 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 265 words of extra memory for PDF output out of 10000 (max. 10000000)
 

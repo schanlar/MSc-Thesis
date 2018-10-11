@@ -28,45 +28,46 @@ Name 1 in "Lamers, Henny, and Cassinelli, Joseph" has a comma at the end for ent
 while executing---line 1684 of file ../bibliography/bibstyle_aa.bst.bst
 Warning--can't use both author and editor fields in Maeder2006
 Warning--empty publisher in Maeder2006
-You've used 35 entries,
+Warning--can't use both author and editor fields in podsiadlowski_2014
+You've used 37 entries,
             3039 wiz_defined-function locations,
-            907 strings with 28705 characters,
-and the built_in function-call counts, 66864 in all, are:
-= -- 4580
-> -- 10839
-< -- 26
-+ -- 3619
-- -- 3577
-* -- 6678
-:= -- 12681
-add.period$ -- 35
-call.type$ -- 35
-change.case$ -- 1332
-chr.to.int$ -- 37
-cite$ -- 37
-duplicate$ -- 658
-empty$ -- 1004
-format.name$ -- 3662
-if$ -- 12941
+            920 strings with 29092 characters,
+and the built_in function-call counts, 67795 in all, are:
+= -- 4664
+> -- 10882
+< -- 28
++ -- 3637
+- -- 3589
+* -- 6741
+:= -- 12836
+add.period$ -- 37
+call.type$ -- 37
+change.case$ -- 1343
+chr.to.int$ -- 39
+cite$ -- 40
+duplicate$ -- 708
+empty$ -- 1071
+format.name$ -- 3681
+if$ -- 13139
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 33
-newline$ -- 109
-num.names$ -- 143
-pop$ -- 1348
+missing$ -- 35
+newline$ -- 115
+num.names$ -- 152
+pop$ -- 1363
 preamble$ -- 1
-purify$ -- 1330
+purify$ -- 1341
 quote$ -- 0
-skip$ -- 602
+skip$ -- 654
 stack$ -- 0
-substring$ -- 728
-swap$ -- 31
+substring$ -- 772
+swap$ -- 46
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 297
-warning$ -- 2
-while$ -- 141
+type$ -- 312
+warning$ -- 3
+while$ -- 150
 width$ -- 0
-write$ -- 353
+write$ -- 374
 (There were 11 error messages)
