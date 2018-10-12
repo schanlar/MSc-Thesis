@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.7.27)  11 OCT 2018 20:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  12 OCT 2018 13:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1456,8 +1456,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  38234 strings out of 493104
- 886536 string characters out of 6139413
- 1179044 words of memory out of 5000000
+ 886536 string characters out of 6139412
+ 1179041 words of memory out of 5000000
  40917 multiletter control sequences out of 15000+600000
  25258 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1480,10 +1480,10 @@ t/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts
 public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /cbfonts/grmi1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts
 /grmn2986.pfb>
-Output written on thesis_msc.pdf (34 pages, 746625 bytes).
+Output written on thesis_msc.pdf (34 pages, 746570 bytes).
 PDF statistics:
- 561 PDF objects out of 1000 (max. 8388607)
- 495 compressed objects within 5 object streams
+ 563 PDF objects out of 1000 (max. 8388607)
+ 497 compressed objects within 5 object streams
  114 named destinations out of 1000 (max. 500000)
  265 words of extra memory for PDF output out of 10000 (max. 10000000)
 
