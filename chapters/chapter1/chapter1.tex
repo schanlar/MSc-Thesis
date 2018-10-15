@@ -46,7 +46,7 @@
 				
 				\begin{figure}[t]
 					\centering
-					\includegraphics[width=\textwidth]{../figures/T_rho_plane_ch1.png}
+					\includegraphics[width=\textwidth]{../figures/chapter1/T_rho_plane_ch1.png}
 					\caption{The evolution of a $3.0 M_{\odot}$ He-star, with and without mass loss. The point where the star enters the He-MS as a He-ZAMS can be seen as a small hook inside the black circle. An analytic explanation of the letters along the evolutionary tracks, is provided in the text.}
 					\label{fig:T_rho_plane_ch1}
 				\end{figure}
@@ -57,7 +57,7 @@
 				
 				\begin{figure}[h]
 					\centering
-					\includegraphics[width=\textwidth]{../figures/Kippenhahn_3p0_ch1_with_text_magenta.png}
+					\includegraphics[width=\textwidth]{../figures/chapter1/Kippenhahn_3p0_ch1_with_text_magenta.png}
 					\caption{Kippenhahn diagramm for a $3.0 M_{\odot}$ He-star with mass loss. The green and gold hatched areas denote convective and thermohaline mixing respectively. Red solid lines represent areas with semi-convective mixing. The black, red, and green dotted lines show the build-up of Helium, Carbon, and Oxygen core mass respectively}
 					\label{fig:Kipp_3p0_ch1}
 				\end{figure}
@@ -124,16 +124,54 @@
 		%Few words about how most stars form in binary systems, detached, semi-detached and contact binaries
 		So far we have concerned ourselves with the evolution of single He-stars. However, the majority of stars are formed in binary systems, being gravitationally bound to each other, and exhibiting a variety of orbital periods that can range from minutes to millions of years. If the two stars are well separated, then the interaction between them should be minimal and both stars will evolve essentially as if they were isolated. Nevertheless, in the case of a close binary, strong interactions might initiate mass transfer from one star to another, altering significantly their structure, how they evolve, and subsequently, their final fate.
 		
-		In the next few pages, an attempt to briefly explain the basic concepts that govern any interacting binary system will be made. At the end, we will comment on the formation of double neutron star (DNS) binaries which is of particular interest for the aim of this thesis. For a more detailed coverage of the evolution of binary systems we refer to \cite{podsiadlowski_2014, Postnov2014, Eggleton_book}.
-
-			\subsection{Mass transfer}
-			
-				%Few words about mass transfer in binary systems (wind mass accretion + Roche lobe overflow)
-				
+		In the next few pages, an attempt to briefly explain the basic concepts that govern any interacting binary system will be made. At the end, we will comment on the formation of double neutron star (DNS) binaries which is of particular interest for the aim of this thesis. For a more detailed coverage of the evolution of binary systems we refer to \cite{podsiadlowski_2014, Postnov2014, Eggleton_book, Tauris_2006}.
 		
 			\subsection{Interaction and orbital parameters}
 			
-				Cases A/B/C etc
+				%Define Lagrangian points, equipotential surfaces, Roche lobe
+				In any multiple star system, the gravitational fields of all interacting components influence the motion of the whole system which is governed by the, well known, Newton's laws of motion. This is dubbed as \emph{n-body problem} and is one of the most notoriously difficult problems in physics since it exhibits a chaotic behaviour with no general analytical solution; for this reason, a numerical approach is required.
+
+				In the case of a binary system, the n-body problem is reduced to the \emph{restricted three-body problem} with the effective gravitational potential 
+					\begin{eqnarray}
+						\label{eq:eff_potential}
+						\Phi = -G \left( \frac{M_1}{r_1} + \frac{M_2}{r_2} \right) - \frac{1}{2} \Omega^2 r_3^2
+					\end{eqnarray}
+					where a full explanation of the symbols is given in \cite[p.~639]{Tauris_2006}. If we require the cumulative forces acting on a test mass, $m$, to vanish
+					\begin{eqnarray}
+						\label{eq:cum_force}
+						\pmb{F}_t = -m \nabla \Phi = 0
+					\end{eqnarray}
+				then \hyperref[eq:eff_potential]{eq(1.3)} yields five stationary solutions where the gravitational force cancels out the centrifugal force caused by the relative motion of the two stars around each other. The points where \hyperref[eq:cum_force]{eq(1.4)} holds true, are called \emph{Lagrangian points} or \emph{libration points}, \emph{$L_n$, $n=1,2,3,4,5$}. Hence, if a test mass was to be positioned in any of those five equilibrium points, it would maintain its position relative to the two stars. More information on the stability of Lagrangian points, in the sense of what would happen if one applied a small perturbation on a test mass sitting in a libration point, can be found in \cite{Szebehely, Celletti1990, Schwarz2012}.
+				
+				\begin{figure}[h]
+					\centering
+					\includegraphics[scale=0.4]{../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png}
+					\caption{Equipotential surfaces on the plane of the orbit of a rotating binary with a reduced mass ratio of $\mu = 0.316$. The inner equipotential surface that passes from the $L_1$ Lagrangian point, defines the "teardrop"-shaped Roche-lobes, one for each star. The image was created using a \texttt{python} script, courtesy of \cite{Zingale}.}
+					\label{fig:eq_sur}
+				\end{figure}
+				
+				From the five Lagrangian points, the $L_1$ plays a key role in the evolution of binary systems since the equipotential surface \footnote{An equipotential surface is defined as the collection of all points in the system that share the same value of the effective gravitational potential, $\Phi$.} passing through that inner point, defines the \emph{Roche-lobe}. The shape of the equipotential surfaces is illustrated in \hyperref[fig:eq_sur]{Fig 1.3}; they assume a concentric spherical shape in proximity to the two stars whilst, as a result of the combined gravitational influence of the two masses, they get distorded when we move further away.
+				
+				During the various evolutionary stages, the star might increase its radius to such a degree that the volume of the star exceeds the volume defined by its Roche-lobe. This will cause a transfer of surface material from that star to its companion via the $L_1$ point triggered by the unbalanced pressure in that direction; this process is known as \emph{Roche-lobe overflow} (RLOF) and the donor star can lose a substantial amount of its total mass. Unfortunatelly, there is no analytical expression for the size of a Roche-lobe in a given binary. However, \cite{Eggleton1983} has proposed a numerical approximation of the radius of the Roche-lobe given by \hyperref[eq:rl_radius]{eq(1.5)}
+				
+				\begin{eqnarray}
+					\label{eq:rl_radius}
+					R_L = \frac{0.49 q^{2/3}}{0.6 q^{2/3} + \ln(1 + q^{1/3})} \alpha 
+				\end{eqnarray}				 
+				where $\alpha$ is the orbital separation, and $q \equiv M_{\text{donor}} / M_{\text{accretor}}$ is the mass ratio of the binary components. These are the two most important orbital parameters that we need to know in order to follow the evolution of the binary.
+				
+				Based on which equipotential surfaces are filled, we can classify binary systems into three categories:
+					\begin{enumerate*}[label=(\roman*)]
+						\item \emph{detached binaries} where the radii of both stars are much smaller than their orbital separation; neither of the two stars fills its respective Roche-lobe, and they evolve almost independently of each other,
+						\item \emph{semi-detached binaries} where only one of the two stars fills its Roche-lobe leading to distortion of the equipotential surfaces from their spherical shape, and mass transfer occurs, and
+						\item \emph{contact binaries} where both stars fill their Roche-lobe. This situation results to a shared, common atmosphere that might be ejected, stripping the system from a significant amount of mass.
+					\end{enumerate*}									
+				
+
+					
+			\subsection{Mass transfer}
+			
+				%Cases A/B/C, (wind mass accretion + Roche lobe overflow) etc			
 				
 			\subsection{Common envelope}
 			
