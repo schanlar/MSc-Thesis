@@ -29,45 +29,46 @@ while executing---line 1684 of file ../bibliography/bibstyle_aa.bst.bst
 Warning--can't use both author and editor fields in Maeder2006
 Warning--empty publisher in Maeder2006
 Warning--can't use both author and editor fields in podsiadlowski_2014
-You've used 37 entries,
+Warning--empty publisher in Tauris_2006
+You've used 43 entries,
             3039 wiz_defined-function locations,
-            920 strings with 29092 characters,
-and the built_in function-call counts, 67795 in all, are:
-= -- 4664
-> -- 10882
-< -- 28
-+ -- 3637
-- -- 3589
-* -- 6741
-:= -- 12836
-add.period$ -- 37
-call.type$ -- 37
-change.case$ -- 1343
-chr.to.int$ -- 39
-cite$ -- 40
-duplicate$ -- 708
-empty$ -- 1071
-format.name$ -- 3681
-if$ -- 13139
+            962 strings with 30121 characters,
+and the built_in function-call counts, 70212 in all, are:
+= -- 4876
+> -- 11006
+< -- 33
++ -- 3678
+- -- 3624
+* -- 6914
+:= -- 13274
+add.period$ -- 43
+call.type$ -- 43
+change.case$ -- 1378
+chr.to.int$ -- 45
+cite$ -- 47
+duplicate$ -- 823
+empty$ -- 1248
+format.name$ -- 3733
+if$ -- 13630
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 35
-newline$ -- 115
-num.names$ -- 152
-pop$ -- 1363
+missing$ -- 39
+newline$ -- 133
+num.names$ -- 177
+pop$ -- 1400
 preamble$ -- 1
-purify$ -- 1341
+purify$ -- 1376
 quote$ -- 0
-skip$ -- 654
+skip$ -- 764
 stack$ -- 0
-substring$ -- 772
-swap$ -- 46
+substring$ -- 893
+swap$ -- 54
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 312
-warning$ -- 3
-while$ -- 150
+type$ -- 363
+warning$ -- 4
+while$ -- 174
 width$ -- 0
-write$ -- 374
+write$ -- 434
 (There were 11 error messages)

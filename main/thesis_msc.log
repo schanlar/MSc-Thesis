@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  12 OCT 2018 13:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  15 OCT 2018 22:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1198,46 +1198,52 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
  (./thesis_msc.xwm)
 \openout4 = `thesis_msc.xwm'.
 
-) (./thesis_msc.aux
+) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip67
+\enit@outerparindent=\dimen268
+\enit@toks=\toks40
+\enit@inbox=\box64
+\enitdp@description=\count183
+)
+(./thesis_msc.aux
 LaTeX Font Info:    Try loading font information for LGR+cmr on input line 23.
-
-(/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 ))
 \openout1 = `thesis_msc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 142.
-LaTeX Font Info:    ... okay on input line 142.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count183
-\scratchdimen=\dimen268
-\scratchbox=\box64
-\nofMPsegments=\count184
-\nofMParguments=\count185
-\everyMPshowfont=\toks40
-\MPscratchCnt=\count186
-\MPscratchDim=\dimen269
-\MPnumerator=\count187
-\makeMPintoPDFobject=\count188
-\everyMPtoPDFconversion=\toks41
+\scratchcounter=\count184
+\scratchdimen=\dimen269
+\scratchbox=\box65
+\nofMPsegments=\count185
+\nofMParguments=\count186
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count187
+\MPscratchDim=\dimen270
+\MPnumerator=\count188
+\makeMPintoPDFobject=\count189
+\everyMPtoPDFconversion=\toks42
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -1261,18 +1267,18 @@ ABD: EveryShipout initializing macros
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.13} (current compat level: 1.14).
 
-Package hyperref Info: Link coloring ON on input line 142.
+Package hyperref Info: Link coloring ON on input line 143.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count189
+\c@section@level=\count190
 )
-LaTeX Info: Redefining \ref on input line 142.
-LaTeX Info: Redefining \pageref on input line 142.
-LaTeX Info: Redefining \nameref on input line 142.
+LaTeX Info: Redefining \ref on input line 143.
+LaTeX Info: Redefining \pageref on input line 143.
+LaTeX Info: Redefining \nameref on input line 143.
 
 (./thesis_msc.out) (./thesis_msc.out)
 \@outlinefile=\write5
@@ -1283,19 +1289,19 @@ LaTeX Info: Redefining \nameref on input line 142.
 File: ../figures/aifa_logo.png Graphic file (type png)
 
 <use ../figures/aifa_logo.png>
-Package pdftex.def Info: ../figures/aifa_logo.png used on input line 152.
+Package pdftex.def Info: ../figures/aifa_logo.png used on input line 153.
 (pdftex.def)             Requested size: 154.17616pt x 63.9831pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 153.
+LaTeX Font Info:    Try loading font information for U+msa on input line 154.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 153.
+LaTeX Font Info:    Try loading font information for U+msb on input line 154.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 153.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 154.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -1304,20 +1310,20 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 File: ../figures/uni_logo.png Graphic file (type png)
 
 <use ../figures/uni_logo.png>
-Package pdftex.def Info: ../figures/uni_logo.png used on input line 155.
+Package pdftex.def Info: ../figures/uni_logo.png used on input line 156.
 (pdftex.def)             Requested size: 174.73048pt x 67.40091pt.
 
-Overfull \hbox (0.51958pt too wide) in paragraph at lines 155--156
+Overfull \hbox (0.51958pt too wide) in paragraph at lines 156--157
 []  [] 
  []
 
 
-Overfull \hbox (4.44774pt too wide) in paragraph at lines 163--163
+Overfull \hbox (4.44774pt too wide) in paragraph at lines 164--164
  | 
  []
 
 
-Overfull \hbox (4.44774pt too wide) in paragraph at lines 163--164
+Overfull \hbox (4.44774pt too wide) in paragraph at lines 164--165
  []| 
  []
 
@@ -1327,7 +1333,7 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-LaTeX Font Info:    Try loading font information for OT1+bch on input line 216.
+LaTeX Font Info:    Try loading font information for OT1+bch on input line 217.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
@@ -1340,17 +1346,17 @@ File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 ] [6
 
 ]
-LaTeX Font Info:    Try loading font information for LGR+bch on input line 269.
+LaTeX Font Info:    Try loading font information for LGR+bch on input line 270.
 
-LaTeX Font Info:    No file LGRbch.fd. on input line 269.
+LaTeX Font Info:    No file LGRbch.fd. on input line 270.
 
 
 LaTeX Font Warning: Font shape `LGR/bch/b/it' undefined
-(Font)              using `LGR/cmr/m/n' instead on input line 269.
+(Font)              using `LGR/cmr/m/n' instead on input line 270.
 
 
 LaTeX Font Warning: Font shape `LGR/cmr/m/n' in size <28.45274> not available
-(Font)              size <29.86> substituted on input line 269.
+(Font)              size <29.86> substituted on input line 270.
 
 [7
 
@@ -1387,31 +1393,45 @@ Chapter 1.
 [1
 
 
-] <../figures/T_rho_plane_ch1.png, id=287, 939.51pt x 650.43pt>
-File: ../figures/T_rho_plane_ch1.png Graphic file (type png)
+] <../figures/chapter1/T_rho_plane_ch1.png, id=297, 939.51pt x 650.43pt>
+File: ../figures/chapter1/T_rho_plane_ch1.png Graphic file (type png)
 
-<use ../figures/T_rho_plane_ch1.png>
-Package pdftex.def Info: ../figures/T_rho_plane_ch1.png used on input line 49.
+<use ../figures/chapter1/T_rho_plane_ch1.png>
+Package pdftex.def Info: ../figures/chapter1/T_rho_plane_ch1.png used on input 
+line 49.
 (pdftex.def)             Requested size: 495.55226pt x 343.06882pt.
  [2]
-<../figures/Kippenhahn_3p0_ch1_with_text_magenta.png, id=311, 939.51pt x 650.43
-pt>
-File: ../figures/Kippenhahn_3p0_ch1_with_text_magenta.png Graphic file (type pn
-g)
- <use ../figures/Kippenhahn_3p0_ch1_with_text_magenta.png>
-Package pdftex.def Info: ../figures/Kippenhahn_3p0_ch1_with_text_magenta.png us
-ed on input line 60.
+<../figures/chapter1/Kippenhahn_3p0_ch1_with_text_magenta.png, id=321, 939.51pt
+ x 650.43pt>
+File: ../figures/chapter1/Kippenhahn_3p0_ch1_with_text_magenta.png Graphic file
+ (type png)
+
+<use ../figures/chapter1/Kippenhahn_3p0_ch1_with_text_magenta.png>
+Package pdftex.def Info: ../figures/chapter1/Kippenhahn_3p0_ch1_with_text_magen
+ta.png used on input line 60.
 (pdftex.def)             Requested size: 495.55226pt x 343.06882pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <../figures/T_rho_plane_ch1.png>] [4 <../figures/Kippenhahn_3p0_ch1_with_tex
-t_magenta.png>] [5] [6]) (../chapters/chapter2/chapter2.tex [7] [8
+[3 <../figures/chapter1/T_rho_plane_ch1.png>] [4 <../figures/chapter1/Kippenhah
+n_3p0_ch1_with_text_magenta.png>] [5] [6]
+<../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png, id=452
+, 780.516pt x 780.516pt>
+File: ../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png Gr
+aphic file (type png)
 
-]
+<use ../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png>
+Package pdftex.def Info: ../figures/chapter1/equipotential_surfaces/equipotenti
+als_mu_0_316.png used on input line 148.
+(pdftex.def)             Requested size: 312.20087pt x 312.20087pt.
+
+[7 <../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png>])
+(../chapters/chapter2/chapter2.tex [8]
 Chapter 2.
-) (../chapters/chapter3/chapter3.tex [9] [10
+) (../chapters/chapter3/chapter3.tex [9
+
+] [10
 
 ]
 Chapter 3.
@@ -1425,7 +1445,17 @@ Chapter 4.
 Chapter 5.
 ) (./thesis_msc.bbl [15] [16
 
-] [17]
+]
+! Undefined control sequence.
+l.170 {Eggleton}, P.~P. 1983, \apj
+                                  , 268, 368
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[17]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ° in font cmr10!
 Missing character: There is no √ in font cmr10!
@@ -1438,13 +1468,13 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 ) [18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 326.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 327.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 327.
  (./thesis_msc.xwm) (./thesis_msc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 327.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 327.
 Package rerunfilecheck Info: File `thesis_msc.out' has not changed.
-(rerunfilecheck)             Checksum: 54AD03703FB8616420EE6D3095EA964F;1898.
+(rerunfilecheck)             Checksum: F5A0B10821F28BB2521CC34E100959EF;1898.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1455,11 +1485,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 38234 strings out of 493104
- 886536 string characters out of 6139412
- 1179041 words of memory out of 5000000
- 40917 multiletter control sequences out of 15000+600000
- 25258 words of font info for 78 fonts, out of 8000000 for 9000
+ 38579 strings out of 493104
+ 892827 string characters out of 6139412
+ 1186876 words of memory out of 5000000
+ 41240 multiletter control sequences out of 15000+600000
+ 25594 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,14n,92p,9876b,1018s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -1467,23 +1497,25 @@ e/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/bitstrea/charter/bchbi8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/cbfonts/grmi1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts
-/grmn2986.pfb>
-Output written on thesis_msc.pdf (34 pages, 746570 bytes).
+blic/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grmi1095.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grmn2986.pfb>
+Output written on thesis_msc.pdf (34 pages, 1083836 bytes).
 PDF statistics:
- 563 PDF objects out of 1000 (max. 8388607)
- 497 compressed objects within 5 object streams
- 114 named destinations out of 1000 (max. 500000)
- 265 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 625 PDF objects out of 1000 (max. 8388607)
+ 551 compressed objects within 6 object streams
+ 128 named destinations out of 1000 (max. 500000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
 

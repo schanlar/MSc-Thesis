@@ -1,4 +1,4 @@
-\begin{thebibliography}{37}
+\begin{thebibliography}{43}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -142,8 +142,12 @@ Abbott, B.~P., Abbott, R., Abbott, T.~D., {et~al.} 2017, Phys. Rev. Lett., 119,
 \bibitem[{{Cantiello, M.} \& {Langer, N.}(2010)}]{Cantiello}
 {Cantiello, M.} \& {Langer, N.} 2010, Astronomy and Astrophysics, 521, A9
 
-\bibitem[{{Charbonnel, C.} \& {Zahn, J.-P.}(2007)}]{Charbonnel}
-{Charbonnel, C.} \& {Zahn, J.-P.} 2007, Astronomy and Astrophysics, 467, L15
+\bibitem[{Celletti \& Giorgilli(1990)}]{Celletti1990}
+Celletti, A. \& Giorgilli, A. 1990, Celestial Mechanics and Dynamical
+  Astronomy, 50, 31
+
+\bibitem[{{Charbonnel, C.} \& {Zahn, J.P.}(2007)}]{Charbonnel}
+{Charbonnel, C.} \& {Zahn, J.P.} 2007, Astronomy and Astrophysics, 467, L15
 
 \bibitem[{Chiosi \& Maeder(1986)}]{Chiosi86}
 Chiosi, C. \& Maeder, A. 1986, Annual Review of Astronomy and Astrophysics, 24,
@@ -161,6 +165,9 @@ Clayton, D. 1968, Principles of Stellar Evolution and Nucleosynthesis
 \bibitem[{Eggleton(2006)}]{Eggleton_book}
 Eggleton, P. 2006, Evolutionary Processes in Binary and Multiple Stars
   (Cambridge University Press)
+
+\bibitem[{{Eggleton}(1983)}]{Eggleton1983}
+{Eggleton}, P.~P. 1983, \apj, 268, 368
 
 \bibitem[{Habets(1986{\natexlab{a}})}]{Habets_a}
 Habets, G. 1986{\natexlab{a}}, Astronomy and Astrophysics, 165, 95
@@ -256,6 +263,10 @@ Postnov, K.~A. \& Yungelson, L.~R. 2014, Living Reviews in Relativity, 17, 3
 Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
   Evolution (Cambridge University Press)
 
+\bibitem[{Schwarz {et~al.}(2012)Schwarz, Bazso, Erdi, \& Funk}]{Schwarz2012}
+Schwarz, R., Bazso, A., Erdi, B., \& Funk, B. 2012, Monthly Notices of the
+  Royal Astronomical Society, 427, 397
+
 \bibitem[{Smith(2014)}]{smith14}
 Smith, N. 2014, Annual Review of Astronomy and Astrophysics, 52, 487
 
@@ -268,10 +279,22 @@ Smith, N. 2014, Annual Review of Astronomy and Astrophysics, 52, 487
 \bibitem[{Sweigart(1997)}]{Sweigart}
 Sweigart, A.~V. 1997, The Astrophysical Journal, 427, L23
 
+\bibitem[{Szebehely(1967)}]{Szebehely}
+Szebehely, V. 1967, Theory of Orbits: The Restricted Problem of Three Bodies
+  (Academic Press, New York and London)
+
+\bibitem[{{Tauris} \& {van den Heuvel}(2006)}]{Tauris_2006}
+{Tauris}, T.~M. \& {van den Heuvel}, E.~P.~J. 2006, in Compact stellar X-ray
+  sources, ed. W.~H.~G. {Lewin} \& M.~{van der Klis}, 623--665
+
 \bibitem[{Yoon(2017)}]{yoon17}
 Yoon, S.-C. 2017, Monthly Notices of the Royal Astronomical Society, 470, 3970
 
 \bibitem[{{Yoon} \& {Langer}(2005)}]{Yoon2005}
 {Yoon}, S.-C. \& {Langer}, N. 2005, Astronomy and Astrophysics, 443, 643
+
+\bibitem[{Zingale(2016)}]{Zingale}
+Zingale, M. 2016, equipotentials.py,
+  \url{https://github.com/zingale/astro_animations/blob/master/binary_exoplanets/equipotentials/equipotentials.py}
 
 \end{thebibliography}
