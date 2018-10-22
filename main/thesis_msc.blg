@@ -14,6 +14,8 @@ while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
 Name 1 in "Lamers, Henny, and Cassinelli, Joseph" has a comma at the end for entry Lamers
 while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--can't use both author and editor fields in Ivanova2015
+Warning--empty publisher in Ivanova2015
 Name 1 in "Kippenhahn, R., and Weigert, A., and Weiss, A." has a comma at the end for entry Kipp_book
 while executing---line 1684 of file ../bibliography/bibstyle_aa.bst.bst
 Name 2 in "Kippenhahn, R., and Weigert, A., and Weiss, A." has a comma at the end for entry Kipp_book
@@ -30,45 +32,45 @@ Warning--can't use both author and editor fields in Maeder2006
 Warning--empty publisher in Maeder2006
 Warning--can't use both author and editor fields in podsiadlowski_2014
 Warning--empty publisher in Tauris_2006
-You've used 43 entries,
+You've used 45 entries,
             3039 wiz_defined-function locations,
-            962 strings with 30121 characters,
-and the built_in function-call counts, 70212 in all, are:
-= -- 4876
-> -- 11006
-< -- 33
-+ -- 3678
-- -- 3624
-* -- 6914
-:= -- 13274
-add.period$ -- 43
-call.type$ -- 43
-change.case$ -- 1378
-chr.to.int$ -- 45
-cite$ -- 47
-duplicate$ -- 823
-empty$ -- 1248
-format.name$ -- 3733
-if$ -- 13630
+            977 strings with 30432 characters,
+and the built_in function-call counts, 70975 in all, are:
+= -- 4939
+> -- 11038
+< -- 35
++ -- 3689
+- -- 3633
+* -- 6965
+:= -- 13414
+add.period$ -- 45
+call.type$ -- 45
+change.case$ -- 1388
+chr.to.int$ -- 47
+cite$ -- 51
+duplicate$ -- 863
+empty$ -- 1309
+format.name$ -- 3745
+if$ -- 13786
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 39
-newline$ -- 133
-num.names$ -- 177
-pop$ -- 1400
+missing$ -- 41
+newline$ -- 139
+num.names$ -- 186
+pop$ -- 1412
 preamble$ -- 1
-purify$ -- 1376
+purify$ -- 1386
 quote$ -- 0
-skip$ -- 764
+skip$ -- 803
 stack$ -- 0
-substring$ -- 893
-swap$ -- 54
+substring$ -- 928
+swap$ -- 61
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 363
-warning$ -- 4
-while$ -- 174
+type$ -- 378
+warning$ -- 6
+while$ -- 183
 width$ -- 0
-write$ -- 434
+write$ -- 454
 (There were 11 error messages)

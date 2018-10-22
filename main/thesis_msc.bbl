@@ -1,4 +1,4 @@
-\begin{thebibliography}{43}
+\begin{thebibliography}{45}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -210,6 +210,10 @@ Heber, U. 2009, Annual Review of Astronomy and Astrophysics, 47, 211
 Hirschi, R., Meyne, G., \& Maeder, A. 2004, Astronomy and Astrophysics, 425,
   649
 
+\bibitem[{{Ivanova}(2015)}]{Ivanova2015}
+{Ivanova}, N. 2015, {Binary Evolution: Roche Lobe Overflow and Blue
+  Stragglers}, ed. H.~M.~J. {Boffin}, G.~{Carraro}, \& G.~{Beccari}, 179
+
 \bibitem[{Kippenhahn {et~al.}(2012)Kippenhahn, Weigert, \& Weiss}]{Kipp_book}
 Kippenhahn, R., Weigert, A., \& Weiss, A. 2012, Stellar Structure and
   Evolution, 2nd edn. (Springer)
@@ -286,6 +290,10 @@ Szebehely, V. 1967, Theory of Orbits: The Restricted Problem of Three Bodies
 \bibitem[{{Tauris} \& {van den Heuvel}(2006)}]{Tauris_2006}
 {Tauris}, T.~M. \& {van den Heuvel}, E.~P.~J. 2006, in Compact stellar X-ray
   sources, ed. W.~H.~G. {Lewin} \& M.~{van der Klis}, 623--665
+
+\bibitem[{{Weigert}(1968)}]{Weigert1968}
+{Weigert}, A. 1968, Mitteilungen der Astronomischen Gesellschaft Hamburg, 25,
+  19
 
 \bibitem[{Yoon(2017)}]{yoon17}
 Yoon, S.-C. 2017, Monthly Notices of the Royal Astronomical Society, 470, 3970
