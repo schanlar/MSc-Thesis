@@ -124,7 +124,7 @@
 		%Few words about how most stars form in binary systems, detached, semi-detached and contact binaries
 		So far we have concerned ourselves with the evolution of single He-stars. However, the majority of stars are formed in binary systems, being gravitationally bound to each other, and exhibiting a variety of orbital periods that can range from minutes to millions of years. If the two stars are well separated, then the interaction between them should be minimal and both stars will evolve essentially as if they were isolated. Nevertheless, in the case of a close binary, strong interactions might initiate mass transfer from one star to another, altering significantly their structure, how they evolve, and subsequently, their final fate.
 		
-		In the next few pages, an attempt to briefly explain the basic concepts that govern any interacting binary system will be made. At the end, we will comment on the formation of double neutron star (DNS) binaries which is of particular interest for the aim of this thesis. For a more detailed coverage of the evolution of binary systems we refer to \cite{podsiadlowski_2014, Postnov2014, Eggleton_book, Tauris_2006}.
+		In the next few pages, an attempt to briefly explain the basic concepts that govern any interacting binary system will be made. At the end, we will comment on the formation of double neutron star (DNS) binaries which is of particular interest for the aim of this thesis. For a more detailed coverage of the evolution of binary systems we refer to \cite{Ivanova2015, podsiadlowski_2014, Postnov2014, Eggleton_book, Tauris_2006}.
 		
 			\subsection{Interaction and orbital parameters}
 			
@@ -152,15 +152,15 @@
 				
 				From the five Lagrangian points, the $L_1$ plays a key role in the evolution of binary systems since the equipotential surface \footnote{An equipotential surface is defined as the collection of all points in the system that share the same value of the effective gravitational potential, $\Phi$.} passing through that inner point, defines the \emph{Roche-lobe}. The shape of the equipotential surfaces is illustrated in \hyperref[fig:eq_sur]{Fig 1.3}; they assume a concentric spherical shape in proximity to the two stars whilst, as a result of the combined gravitational influence of the two masses, they get distorded when we move further away.
 				
-				During the various evolutionary stages, the star might increase its radius to such a degree that the volume of the star exceeds the volume defined by its Roche-lobe. This will cause a transfer of surface material from that star to its companion via the $L_1$ point triggered by the unbalanced pressure in that direction; this process is known as \emph{Roche-lobe overflow} (RLOF) and the donor star can lose a substantial amount of its total mass. Unfortunatelly, there is no analytical expression for the size of a Roche-lobe in a given binary. However, \cite{Eggleton1983} has proposed a numerical approximation of the radius of the Roche-lobe given by \hyperref[eq:rl_radius]{eq(1.5)}
+				During the various evolutionary stages, the star might inflate and increase its radius to such a degree that the volume of the star exceeds the volume defined by its Roche-lobe. This will cause a transfer of surface material from that star to its companion via the $L_1$ point triggered by the unbalanced pressure in that direction; this process is known as \emph{Roche-lobe overflow} (RLOF) and the donor star can lose a substantial amount of its total mass. Unfortunatelly, there is no analytical expression for the size of a Roche-lobe in a given binary. However, \cite{Eggleton1983} has proposed a numerical approximation of the radius of the Roche-lobe given by the following equation
 				
 				\begin{eqnarray}
 					\label{eq:rl_radius}
-					R_L = \frac{0.49 q^{2/3}}{0.6 q^{2/3} + \ln(1 + q^{1/3})} \alpha 
+					\frac{R_L}{\alpha} = \frac{0.49 q^{2/3}}{0.6 q^{2/3} + \ln(1 + q^{1/3})}
 				\end{eqnarray}				 
 				where $\alpha$ is the orbital separation, and $q \equiv M_{\text{donor}} / M_{\text{accretor}}$ is the mass ratio of the binary components. These are the two most important orbital parameters that we need to know in order to follow the evolution of the binary.
 				
-				Based on which equipotential surfaces are filled, we can classify binary systems into three categories:
+				Based on which equipotential surfaces are filled, we can classify binary systems into three categories \citep[see also][]{Weigert1968}:
 					\begin{enumerate*}[label=(\roman*)]
 						\item \emph{detached binaries} where the radii of both stars are much smaller than their orbital separation; neither of the two stars fills its respective Roche-lobe, and they evolve almost independently of each other,
 						\item \emph{semi-detached binaries} where only one of the two stars fills its Roche-lobe leading to distortion of the equipotential surfaces from their spherical shape, and mass transfer occurs, and
@@ -171,7 +171,10 @@
 					
 			\subsection{Mass transfer}
 			
-				%Cases A/B/C, (wind mass accretion + Roche lobe overflow) etc			
+				%Cases A/B/C, (wind mass accretion + Roche lobe overflow) etc		
+				From the discussion above, it becomes clear that the mass transfer rate via RLOF and its stability depends on the extent to which the donor star overfills its Roche-lobe. Especially the stability of the mass transfer depends on how the donor star responses to this sudden mass loss; for \emph{stable} mass transfer, the donor must remain within its Roche-lobe \citep[see][for discussion]{Ivanova2015, Postnov2014}.
+				
+				Based on the evolutionary status of the donor star when it fills its Roche-lobe, we can discern three cases of mass transfer:
 				
 			\subsection{Common envelope}
 			
