@@ -1,4 +1,4 @@
-\begin{thebibliography}{45}
+\begin{thebibliography}{48}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -214,6 +214,9 @@ Hirschi, R., Meyne, G., \& Maeder, A. 2004, Astronomy and Astrophysics, 425,
 {Ivanova}, N. 2015, {Binary Evolution: Roche Lobe Overflow and Blue
   Stragglers}, ed. H.~M.~J. {Boffin}, G.~{Carraro}, \& G.~{Beccari}, 179
 
+\bibitem[{{Kippenhahn} \& {Weigert}(1967)}]{Kipp1967}
+{Kippenhahn}, R. \& {Weigert}, A. 1967, Zeitschrift f\"ur Astrophysik, 65, 251
+
 \bibitem[{Kippenhahn {et~al.}(2012)Kippenhahn, Weigert, \& Weiss}]{Kipp_book}
 Kippenhahn, R., Weigert, A., \& Weiss, A. 2012, Stellar Structure and
   Evolution, 2nd edn. (Springer)
@@ -234,6 +237,9 @@ Langer, N. 2012, Annual Review of Astronomy and Astrophysics, 50, 107
 \bibitem[{{Langer} {et~al.}(1997){Langer}, {Heger}, \& {Fliegner}}]{Langer1997}
 {Langer}, N., {Heger}, A., \& {Fliegner}, J. 1997, in IAU Symposium, Vol. 189,
   IAU Symposium, ed. T.~R. {Bedding}, A.~J. {Booth}, \& J.~{Davis}, 343--348
+
+\bibitem[{{Lauterborn}(1970)}]{Lauterborn1970}
+{Lauterborn}, D. 1970, Astronomy and Astrophysics, 7, 150
 
 \bibitem[{{Maeder}(1987)}]{Maeder1987}
 {Maeder}, A. 1987, Astronomy and Astrophysics, 178, 159
@@ -273,6 +279,11 @@ Schwarz, R., Bazso, A., Erdi, B., \& Funk, B. 2012, Monthly Notices of the
 
 \bibitem[{Smith(2014)}]{smith14}
 Smith, N. 2014, Annual Review of Astronomy and Astrophysics, 52, 487
+
+\bibitem[{{Soberman} {et~al.}(1997){Soberman}, {Phinney}, \& {van den
+  Heuvel}}]{Soberman1997}
+{Soberman}, G.~E., {Phinney}, E.~S., \& {van den Heuvel}, E.~P.~J. 1997, \aap,
+  327, 620
 
 \bibitem[{{Spruit}(2013)}]{Spruit2013}
 {Spruit}, H. 2013, Astronomy and Astrophysics, 552, A76
