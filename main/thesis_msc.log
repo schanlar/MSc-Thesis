@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  30 OCT 2018 16:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  30 OCT 2018 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1401,21 +1401,20 @@ Package pdftex.def Info: ../figures/chapter1/T_rho_plane_ch1.png used on input
 line 49.
 (pdftex.def)             Requested size: 495.55226pt x 343.06882pt.
  [2]
-<../figures/chapter1/Kippenhahn_3p0_ch1_with_text_magenta.png, id=315, 939.51pt
- x 650.43pt>
-File: ../figures/chapter1/Kippenhahn_3p0_ch1_with_text_magenta.png Graphic file
- (type png)
-
-<use ../figures/chapter1/Kippenhahn_3p0_ch1_with_text_magenta.png>
-Package pdftex.def Info: ../figures/chapter1/Kippenhahn_3p0_ch1_with_text_magen
-ta.png used on input line 60.
+<../figures/chapter1/Kippenhahn_3p0_ch1_with_text_final.png, id=315, 939.51pt x
+ 650.43pt>
+File: ../figures/chapter1/Kippenhahn_3p0_ch1_with_text_final.png Graphic file (
+type png)
+ <use ../figures/chapter1/Kippenhahn_3p0_ch1_with_text_final.png>
+Package pdftex.def Info: ../figures/chapter1/Kippenhahn_3p0_ch1_with_text_final
+.png used on input line 60.
 (pdftex.def)             Requested size: 495.55226pt x 343.06882pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3 <../figures/chapter1/T_rho_plane_ch1.png>] [4 <../figures/chapter1/Kippenhah
-n_3p0_ch1_with_text_magenta.png>] [5] [6]
+n_3p0_ch1_with_text_final.png>] [5] [6]
 <../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png, id=450
 , 780.516pt x 780.516pt>
 File: ../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png Gr
@@ -1483,11 +1482,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
  38620 strings out of 493104
- 893496 string characters out of 6139412
- 1188903 words of memory out of 5000000
+ 893486 string characters out of 6139412
+ 1188904 words of memory out of 5000000
  41268 multiletter control sequences out of 15000+600000
  25594 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1512,7 +1514,7 @@ amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grmi1095.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/cbfonts/grmn2986.pfb>
-Output written on thesis_msc.pdf (37 pages, 1089193 bytes).
+Output written on thesis_msc.pdf (37 pages, 1089376 bytes).
 PDF statistics:
  668 PDF objects out of 1000 (max. 8388607)
  591 compressed objects within 6 object streams
