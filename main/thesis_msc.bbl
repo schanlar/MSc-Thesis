@@ -1,4 +1,4 @@
-\begin{thebibliography}{48}
+\begin{thebibliography}{51}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -167,7 +167,7 @@ Eggleton, P. 2006, Evolutionary Processes in Binary and Multiple Stars
   (Cambridge University Press)
 
 \bibitem[{{Eggleton}(1983)}]{Eggleton1983}
-{Eggleton}, P.~P. 1983, \apj, 268, 368
+{Eggleton}, P.~P. 1983, The Astrophysical Journal, 268, 368
 
 \bibitem[{Habets(1986{\natexlab{a}})}]{Habets_a}
 Habets, G. 1986{\natexlab{a}}, Astronomy and Astrophysics, 165, 95
@@ -213,6 +213,21 @@ Hirschi, R., Meyne, G., \& Maeder, A. 2004, Astronomy and Astrophysics, 425,
 \bibitem[{{Ivanova}(2015)}]{Ivanova2015}
 {Ivanova}, N. 2015, {Binary Evolution: Roche Lobe Overflow and Blue
   Stragglers}, ed. H.~M.~J. {Boffin}, G.~{Carraro}, \& G.~{Beccari}, 179
+
+\bibitem[{{Ivanova} {et~al.}(2013){Ivanova}, {Justham}, {Chen}, {De Marco},
+  {Fryer}, {Gaburov}, {Ge}, {Glebbeek}, {Han}, {Li}, {Lu}, {Marsh},
+  {Podsiadlowski}, {Potter}, {Soker}, {Taam}, {Tauris}, {van den Heuvel}, \&
+  {Webbink}}]{Ivanova_CE}
+{Ivanova}, N., {Justham}, S., {Chen}, X., {et~al.} 2013, The Astronomy and
+  Astrophysics Review, 21, 59
+
+\bibitem[{{Izzard} {et~al.}(2012){Izzard}, {Hall}, {Tauris}, \&
+  {Tout}}]{Izzard_CE}
+{Izzard}, R.~G., {Hall}, P.~D., {Tauris}, T.~M., \& {Tout}, C.~A. 2012, in IAU
+  Symposium, Vol. 283, IAU Symposium, 95--102
+
+\bibitem[{{Kalogera} \& {Webbink}(1996)}]{Kalogera1996}
+{Kalogera}, V. \& {Webbink}, R.~F. 1996, The Astrophysical Journal, 458, 301
 
 \bibitem[{{Kippenhahn} \& {Weigert}(1967)}]{Kipp1967}
 {Kippenhahn}, R. \& {Weigert}, A. 1967, Zeitschrift f\"ur Astrophysik, 65, 251
