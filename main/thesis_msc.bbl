@@ -1,4 +1,4 @@
-\begin{thebibliography}{51}
+\begin{thebibliography}{56}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -221,6 +221,9 @@ Hirschi, R., Meyne, G., \& Maeder, A. 2004, Astronomy and Astrophysics, 425,
 {Ivanova}, N., {Justham}, S., {Chen}, X., {et~al.} 2013, The Astronomy and
   Astrophysics Review, 21, 59
 
+\bibitem[{{Ivanova} \& {Taam}(2003)}]{Ivanova2003}
+{Ivanova}, N. \& {Taam}, R.~E. 2003, The Astrophysical Journal, 599, 516
+
 \bibitem[{{Izzard} {et~al.}(2012){Izzard}, {Hall}, {Tauris}, \&
   {Tout}}]{Izzard_CE}
 {Izzard}, R.~G., {Hall}, P.~D., {Tauris}, T.~M., \& {Tout}, C.~A. 2012, in IAU
@@ -276,6 +279,9 @@ Langer, N. 2012, Annual Review of Astronomy and Astrophysics, 50, 107
 {Palacios}, A. 2013, in EAS Publications Series, Vol.~62, EAS Publications
   Series, ed. P.~{Hennebelle} \& C.~{Charbonnel}, 227--287
 
+\bibitem[{Peters(1964)}]{Peters1964}
+Peters, P.~C. 1964, Phys. Rev., 136, B1224
+
 \bibitem[{Podsiadlowski(2014)}]{podsiadlowski_2014}
 Podsiadlowski, P. 2014, The evolution of binary systems, ed. I.~González
   Martínez-País, T.~Shahbaz, \& J.~Casares~Velázquez, Canary Islands Winter
@@ -287,6 +293,11 @@ Postnov, K.~A. \& Yungelson, L.~R. 2014, Living Reviews in Relativity, 17, 3
 \bibitem[{Prialnik(2000)}]{Prialnik}
 Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
   Evolution (Cambridge University Press)
+
+\bibitem[{{Rappaport} {et~al.}(1983){Rappaport}, {Verbunt}, \&
+  {Joss}}]{Rappaport1983}
+{Rappaport}, S., {Verbunt}, F., \& {Joss}, P.~C. 1983, The Astrophysical
+  Journal, 275, 713
 
 \bibitem[{Schwarz {et~al.}(2012)Schwarz, Bazso, Erdi, \& Funk}]{Schwarz2012}
 Schwarz, R., Bazso, A., Erdi, B., \& Funk, B. 2012, Monthly Notices of the
@@ -317,9 +328,16 @@ Szebehely, V. 1967, Theory of Orbits: The Restricted Problem of Three Bodies
 {Tauris}, T.~M. \& {van den Heuvel}, E.~P.~J. 2006, in Compact stellar X-ray
   sources, ed. W.~H.~G. {Lewin} \& M.~{van der Klis}, 623--665
 
+\bibitem[{van~der Sluijs(2006)}]{Sluijs}
+van~der Sluijs, M.~V. 2006, PhD thesis, Universiteit Utrecht
+
 \bibitem[{{Weigert}(1968)}]{Weigert1968}
 {Weigert}, A. 1968, Mitteilungen der Astronomischen Gesellschaft Hamburg, 25,
   19
+
+\bibitem[{{Yakut} {et~al.}(2008){Yakut}, {Kalomeni}, \& {Tout}}]{Yakut2008}
+{Yakut}, K., {Kalomeni}, B., \& {Tout}, C.~A. 2008, ArXiv e-prints
+  [\eprint[arXiv]{0811.0455}]
 
 \bibitem[{Yoon(2017)}]{yoon17}
 Yoon, S.-C. 2017, Monthly Notices of the Royal Astronomical Society, 470, 3970

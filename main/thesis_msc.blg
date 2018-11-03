@@ -1,5 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: thesis_msc.aux
 The style file: ../bibliography/bibstyle_aa.bst.bst
 Database file #1: ../bibliography/bibfile_thesis.bib
@@ -32,45 +32,45 @@ Warning--can't use both author and editor fields in Maeder2006
 Warning--empty publisher in Maeder2006
 Warning--can't use both author and editor fields in podsiadlowski_2014
 Warning--empty publisher in Tauris_2006
-You've used 51 entries,
+You've used 56 entries,
             3039 wiz_defined-function locations,
-            1020 strings with 31759 characters,
-and the built_in function-call counts, 74359 in all, are:
-= -- 5218
-> -- 11337
-< -- 39
-+ -- 3788
-- -- 3726
-* -- 7253
-:= -- 14029
-add.period$ -- 51
-call.type$ -- 51
-change.case$ -- 1443
-chr.to.int$ -- 53
-cite$ -- 57
-duplicate$ -- 983
-empty$ -- 1480
-format.name$ -- 3857
-if$ -- 14462
+            1053 strings with 32472 characters,
+and the built_in function-call counts, 76267 in all, are:
+= -- 5385
+> -- 11443
+< -- 42
++ -- 3823
+- -- 3756
+* -- 7401
+:= -- 14388
+add.period$ -- 56
+call.type$ -- 56
+change.case$ -- 1473
+chr.to.int$ -- 58
+cite$ -- 62
+duplicate$ -- 1073
+empty$ -- 1604
+format.name$ -- 3900
+if$ -- 14835
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 46
-newline$ -- 157
-num.names$ -- 210
-pop$ -- 1469
+missing$ -- 50
+newline$ -- 172
+num.names$ -- 230
+pop$ -- 1501
 preamble$ -- 1
-purify$ -- 1441
+purify$ -- 1471
 quote$ -- 0
-skip$ -- 909
+skip$ -- 983
 stack$ -- 0
-substring$ -- 1064
-swap$ -- 69
+substring$ -- 1155
+swap$ -- 70
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 432
+type$ -- 477
 warning$ -- 6
-while$ -- 208
+while$ -- 226
 width$ -- 0
-write$ -- 514
+write$ -- 564
 (There were 11 error messages)
