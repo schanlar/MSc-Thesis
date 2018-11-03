@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  3 NOV 2018 10:41
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  3 NOV 2018 18:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1338,7 +1338,7 @@ Chapter 5.
 
 ] [19]
 ! Undefined control sequence.
-l.311 ... \& {van den Heuvel}, E.~P.~J. 1997, \aap
+l.314 ... \& {van den Heuvel}, E.~P.~J. 1997, \aap
                                                   ,
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1348,7 +1348,7 @@ and I'll forget about whatever was undefined.
 
 [20]
 ! Undefined control sequence.
-l.340   [\eprint
+l.343   [\eprint
                 [arXiv]{0811.0455}]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1372,10 +1372,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 42096 strings out of 493005
- 952417 string characters out of 6134595
- 1249939 words of memory out of 5000000
- 45313 multiletter control sequences out of 15000+600000
+ 42099 strings out of 493005
+ 952468 string characters out of 6134595
+ 1249964 words of memory out of 5000000
+ 45316 multiletter control sequences out of 15000+600000
  29078 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,14n,111p,9876b,1083s stack positions out of 5000i,500n,10000p,200000b,80000s

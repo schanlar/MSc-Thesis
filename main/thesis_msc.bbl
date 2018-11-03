@@ -1,4 +1,4 @@
-\begin{thebibliography}{56}
+\begin{thebibliography}{57}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -298,6 +298,9 @@ Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
   {Joss}}]{Rappaport1983}
 {Rappaport}, S., {Verbunt}, F., \& {Joss}, P.~C. 1983, The Astrophysical
   Journal, 275, 713
+
+\bibitem[{{Riles}(2013)}]{Riles2013}
+{Riles}, K. 2013, Progress in Particle and Nuclear Physics, 68, 1
 
 \bibitem[{Schwarz {et~al.}(2012)Schwarz, Bazso, Erdi, \& Funk}]{Schwarz2012}
 Schwarz, R., Bazso, A., Erdi, B., \& Funk, B. 2012, Monthly Notices of the
