@@ -46,4 +46,4 @@ dot.edge_attr.update(arrowhead = 'none')
 
 
 dot.format = 'pdf'
-dot.render("SNeClass-output/SNeClass.gv", view = True)
+dot.render("SNeClass-output/SNeClass", view = True)
