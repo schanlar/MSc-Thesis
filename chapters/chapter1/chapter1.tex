@@ -106,6 +106,8 @@
 						A detailed coverage of the effects of rotation in stellar evolution is offered by \cite{Langer1997, Heger2000, Hirschi, Maeder2006, langer12, Palacios}. More on the rotation-driven transportation of angular momentum and associated mechanisms can be found in \cite{Heger2005, langer12} as well as in the work of \cite{Spruit2002} where a discussion on the importance of dynamo-generated magnetic fields takes place.
 						
 						
+						
+						
 					\subsubsection{Stellar winds and mass loss}
 					
 						%Importance of mass loss in the evolution of stellar winds and Wolf-Rayet stars + magnetic braking --> connection to angular momentum losses.
@@ -115,7 +117,7 @@
 						
 						Observations of spectral features have allowed us to establish several empirical relations and constraints for the mass loss rates; especially in the case of WR stars which are known for their strong optically thick winds, the mass loss rates have been revised downwards by almost an order of magnitude \citep{Nugis2000} compared to earlier estimations \citep{Hamann1995, Langer1989} due to the influence of clumping and the asymmetrical structure of the winds. The prescription of \cite{Nugis2000} is currently the most popular for the mass loss rate of WR stars, although \cite{yoon17} raises a word of caution since in the aforementioned prescription, the considered metallicity dependence is not related to the initial metallicity, but rather to the self-enrichment of Carbon and Oxygen at the surface due to mass loss.
 						
-						Finally, it should be mentioned that in the case of rotating stars, stellar winds will also carry away some of the specific angular momentum of the star along with the ejecta material. Additionally, magnetic fields coupled to the wind plasma in a co-rotation, will slow down the spin of the star which, in turn, will affect the mass loss rate and the angular momentum losses of the system. This is known as \emph{magnetic braking} and plays an important role in stellar evolution, especially in the case of binary systems. For a complete review of our current understanding of stellar winds see \cite{Lamers, smith14}.
+						Finally, it should be mentioned that in the case of rotating stars, stellar winds will also carry away some of the specific angular momentum of the star along with the ejecta material. Additionally, magnetic fields coupled to the wind plasma in a co-rotation, will slow down the spin of the star which, in turn, will affect the mass loss rate and the angular momentum losses of the system. This is known as \emph{magnetic braking} and plays an important role in stellar evolution, especially in the case of binary systems \citep[see][]{Ivanova2003}. For a complete review of our current understanding of stellar winds see \cite{Lamers, smith14}.
 						
 					
 				
@@ -144,10 +146,18 @@
 				then \hyperref[eq:eff_potential]{eq(1.3)} yields five stationary solutions where the gravitational force cancels out the centrifugal force caused by the relative motion of the two stars around each other. The points where \hyperref[eq:cum_force]{eq(1.4)} holds true, are called \emph{Lagrangian points} or \emph{libration points}, \emph{$L_n$, $n=1,2,3,4,5$}. Hence, if a test mass was to be positioned in any of those five equilibrium points, it would maintain its position relative to the two stars. More information on the stability of Lagrangian points, in the sense of what would happen if one applied a small perturbation on a test mass sitting in a libration point, can be found in \cite{Szebehely, Celletti1990, Schwarz2012}.
 				
 				\begin{figure}[h]
-					\centering
-					\includegraphics[scale=0.4]{../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png}
-					\caption{Equipotential surfaces in the x-y plane of orbit of a rotating binary with a reduced mass ratio of $\mu = 0.316$. The inner equipotential surface that passes from the $L_1$ Lagrangian point, defines the "teardrop"-shaped Roche-lobes, one for each star. The image was created using a \texttt{python} script, courtesy of \cite{Zingale}.}
-					\label{fig:eq_sur}
+   					\centering
+    				\begin{subfigure}[h]{0.45\textwidth}
+        				\centering
+       					 \includegraphics[width=\linewidth]{../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png} 
+    				\end{subfigure}
+    				\hspace{0.1cm}
+    				\begin{subfigure}[h]{0.45\textwidth}
+        				\centering
+        				\includegraphics[scale = 1.05]{../figures/chapter1/3Dequipotentials.png} 
+   					 \end{subfigure}
+   					 \caption{Left panel: Equipotential lines in the x-y plane of orbit of a rotating binary with a reduced mass ratio of $\mu = 0.316$. The inner equipotential surface that passes from the $L_1$ Lagrangian point, defines the "teardrop"-shaped Roche-lobes, one for each star. The image was created using a \texttt{python} script, courtesy of \cite{Zingale}. Right Panel: 3D representation of equipotential surfaces. The image was adopted from \cite{Sluijs}. }
+   					 \label{fig:eq_sur}
 				\end{figure}
 				
 				From the five Lagrangian points, the $L_1$ plays a key role in the evolution of binary systems since the equipotential surface \footnote{An equipotential surface is defined as the collection of all points in the system that share the same value of the effective gravitational potential, $\Phi$.} passing through that inner point, defines the \emph{Roche-lobe}. The shape of the equipotential surfaces is illustrated in \hyperref[fig:eq_sur]{Fig 1.3}; they assume a concentric spherical shape in proximity to the two stars whilst, as a result of the combined gravitational influence of the two masses, they get distorted when we move further away.
@@ -160,7 +170,7 @@
 				\end{eqnarray}				 
 				where $\alpha$ is the orbital separation, and $q \equiv M_{\text{donor}} / M_{\text{accretor}}$ is the mass ratio of the binary components. These are the two most important orbital parameters that we need to know in order to follow the evolution of the binary.
 				
-				It is maybe worth mentioning that as matter spills across the inner Lagrangian point, it forms an \emph{accretion disk} rather than falling directly onto the companion star. This happens simply because the accreted material possesses the same angular momentum as the donor star, and unless there are processes able to remove some of the angular momentum of the accreted gas, it will continue to orbit around the companion star.
+				It is maybe worth mentioning that as matter spills across the inner Lagrangian point, it forms an \emph{accretion disk} rather than falling directly onto the companion star. This happens simply because the accreted material possesses the same angular momentum as the donor star, and unless there are non-conservative processes able to remove some of the angular momentum of the accreted gas, it will continue to orbit around the companion star.
 				
 				Based on which equipotential surfaces are filled, we can classify binary systems into three categories \citep[see also][]{Weigert1968}:
 					\begin{enumerate*}[label=(\roman*)]
@@ -179,7 +189,7 @@
 				Based on the evolutionary status of the donor star when it fills its Roche-lobe, we can discern three cases of mass transfer \citep{Kipp1967, Lauterborn1970}:
 				
 				\begin{enumerate}[label=(\roman*)]
-					\item \emph{Case A}: mass transfer is initiated while the star is still in the MS, i.e. during core Hydrogen burning;
+					\item \emph{Case A}: mass transfer commences while the star is still in the MS, i.e. during core Hydrogen burning;
 					\item \emph{Case B}: the donor star fills its Roche-lobe after the Hygrogen has been depleted from its core but before Helium ignition;
 					\item \emph{Case C}: refers to RLOF after the exhaustion of Helium in the core, and includes all the subsequent stages.
 				\end{enumerate}
@@ -194,15 +204,23 @@
 				
 				Since the orbital plane of the two stars lies within the CE, a drag force will be developed due to friction, caused by the motion of the stars. The system then goes through a \emph{spiral-in} phase, during which a dissipation of orbital angular momentum leads to the decay of the orbit (i.e., a reduction of the orbital separation). This plunge phase occurs on an orbital timescale of a few years \citep{Izzard_CE}, and the energy lost from the orbit is being deposited in the surrounding envelope. The reaction of the envelope to this energy deposition is to expand and potentially ejected from the binary. The ultimate outcome of the CE stage is a more tight binary with a reduced total mass (assuming that the orbital shrinkage during the CE phase didn't result to a merging of the two cores). For this reason, although the physical background of the CE phase described above is still not well understood, it has been hypothized that it plays a crucial role in the formation of a wide variety of binary systems, including double neutron star systems. For a complete review of our current understanding of CE evolution, we refer to the work of \cite{Ivanova_CE}.
 				
-			\subsection{Angular momentum transfer}
+			\subsection{Angular momentum losses}
 			
-				Effects of angular momentum transfer + magnetic braking
+				%Effects of angular momentum transfer + magnetic braking
+				Orbital angular momentum variations, and the mechanisms via which this can occur play an important role in the evolution of a binary since it directly affects the orbital period of the system. Angular momentum can be extracted from a binary system on different timescales \citep{Yakut2008} mainly via the following processes:
 				
-			%\subsection{Gravitational waves}
-			
-				%The very basics for GWs and their impact on binary mergers
+				\begin{enumerate}[label=(\roman*)]
+				
+					\item \emph{Non-conservative mass transfer}: If during mass transfer, the companion star accretes only a fraction of the mass lost from the donor, the rest will carry away some of the specific angular momentum.
+					\item \emph{Magnetic braking}: As it was mentioned above, the differential rotation of stars is responsible for the production of magnetic fields and, subsequently, magnetized stellar winds. Interactions with the magnetic fields can give raise to tidal effects, causing a rotating star to sync and corotate with the orbit (tidally locked system). If the spin of the star is originally larger than the orbital period, this is essentially translated to angular momentum removal from the binary \citep[see also][]{Rappaport1983}.
+					\item \emph{Gravitational waves}:  These are perturbations of the space-time manifold caused by the rapid rotation of the components in a close binary. Like classical waves, gravitational waves carry energy (often dubbed as gravitational radiation) that is being lost from the system causing the angular momentum to decrease and the orbit to shrink \citep[see also][]{Peters1964}.
+				
+				\end{enumerate}
+				
 				
 			\subsection{Double neutron star systems}
+			
+				Since the aim of this thesis is to investigate the connection between progenitor and remnant masses in double neutron star binaries, it is considered appropriate to devote a subsection on the formation and the importance of these incredible systems.
 				
 	\section{Stellar transients}
 	
