@@ -13,7 +13,16 @@ Name 1 in "Lamers, Henny, and Cassinelli, Joseph" has a comma at the end for ent
 while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
 Name 1 in "Lamers, Henny, and Cassinelli, Joseph" has a comma at the end for entry Lamers
 while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
+Name 1 in "Branch, David, and Wheeler, J. Craig" has a comma at the end for entry SNe_book
+while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
+Name 1 in "Branch, David, and Wheeler, J. Craig" has a comma at the end for entry SNe_book
+while executing---line 1601 of file ../bibliography/bibstyle_aa.bst.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Name 1 in "Branch, David, and Wheeler, J. Craig" has a comma at the end for entry SNe_book
+while executing---line 1684 of file ../bibliography/bibstyle_aa.bst.bst
+Name 1 in "Branch, David, and Wheeler, J. Craig" has a comma at the end for entry SNe_book
+while executing---line 1684 of file ../bibliography/bibstyle_aa.bst.bst
+Warning--empty journal in Couch2017
 Warning--can't use both author and editor fields in Ivanova2015
 Warning--empty publisher in Ivanova2015
 Name 1 in "Kippenhahn, R., and Weigert, A., and Weiss, A." has a comma at the end for entry Kipp_book
@@ -32,45 +41,45 @@ Warning--can't use both author and editor fields in Maeder2006
 Warning--empty publisher in Maeder2006
 Warning--can't use both author and editor fields in podsiadlowski_2014
 Warning--empty publisher in Tauris_2006
-You've used 57 entries,
+You've used 66 entries,
             3039 wiz_defined-function locations,
-            1061 strings with 32610 characters,
-and the built_in function-call counts, 76580 in all, are:
-= -- 5413
-> -- 11454
-< -- 43
-+ -- 3827
-- -- 3759
-* -- 7421
-:= -- 14450
-add.period$ -- 57
-call.type$ -- 57
-change.case$ -- 1478
-chr.to.int$ -- 59
-cite$ -- 63
-duplicate$ -- 1090
-empty$ -- 1628
-format.name$ -- 3904
-if$ -- 14896
+            1125 strings with 34028 characters,
+and the built_in function-call counts, 80587 in all, are:
+= -- 5748
+> -- 11724
+< -- 51
++ -- 3920
+- -- 3841
+* -- 7732
+:= -- 15191
+add.period$ -- 66
+call.type$ -- 66
+change.case$ -- 1541
+chr.to.int$ -- 68
+cite$ -- 73
+duplicate$ -- 1259
+empty$ -- 1882
+format.name$ -- 4006
+if$ -- 15694
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 51
-newline$ -- 175
-num.names$ -- 234
-pop$ -- 1505
+missing$ -- 59
+newline$ -- 202
+num.names$ -- 271
+pop$ -- 1569
 preamble$ -- 1
-purify$ -- 1476
+purify$ -- 1539
 quote$ -- 0
-skip$ -- 997
+skip$ -- 1151
 stack$ -- 0
-substring$ -- 1170
-swap$ -- 70
-text.length$ -- 3
+substring$ -- 1348
+swap$ -- 78
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 486
-warning$ -- 6
-while$ -- 230
+type$ -- 564
+warning$ -- 7
+while$ -- 266
 width$ -- 0
-write$ -- 574
-(There were 11 error messages)
+write$ -- 663
+(There were 15 error messages)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{57}
+\begin{thebibliography}{66}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -139,6 +139,9 @@
 Abbott, B.~P., Abbott, R., Abbott, T.~D., {et~al.} 2017, Phys. Rev. Lett., 119,
   161101
 
+\bibitem[{Branch \& Wheeler(2017)}]{SNe_book}
+Branch, D. \& Wheeler, J.~C. 2017, Supernova Explosions (Springer)
+
 \bibitem[{{Cantiello, M.} \& {Langer, N.}(2010)}]{Cantiello}
 {Cantiello, M.} \& {Langer, N.} 2010, Astronomy and Astrophysics, 521, A9
 
@@ -157,6 +160,9 @@ Chiosi, C. \& Maeder, A. 1986, Annual Review of Astronomy and Astrophysics, 24,
 Clayton, D. 1968, Principles of Stellar Evolution and Nucleosynthesis
   (McGraw-Hill)
 
+\bibitem[{Couch(2017)}]{Couch2017}
+Couch, S.~M. 2017, 375
+
 \bibitem[{{de Jager} {et~al.}(1988){de Jager}, {Nieuwenhuijzen}, \& {van der
   Hucht}}]{deJager1988}
 {de Jager}, C., {Nieuwenhuijzen}, H., \& {van der Hucht}, K.~A. 1988, Astronomy
@@ -168,6 +174,9 @@ Eggleton, P. 2006, Evolutionary Processes in Binary and Multiple Stars
 
 \bibitem[{{Eggleton}(1983)}]{Eggleton1983}
 {Eggleton}, P.~P. 1983, The Astrophysical Journal, 268, 368
+
+\bibitem[{Filippenko(1997)}]{Filippenko1997}
+Filippenko, A.~V. 1997, Annual Review of Astronomy and Astrophysics, 35, 309
 
 \bibitem[{Habets(1986{\natexlab{a}})}]{Habets_a}
 Habets, G. 1986{\natexlab{a}}, Astronomy and Astrophysics, 165, 95
@@ -205,6 +214,10 @@ Heber, U. 2009, Annual Review of Astronomy and Astrophysics, 47, 211
 \bibitem[{{Heger} {et~al.}(2005){Heger}, {Woosley}, \& {Spruit}}]{Heger2005}
 {Heger}, A., {Woosley}, S.~E., \& {Spruit}, H.~C. 2005, The Astrophysical
   Journal, 626, 350
+
+\bibitem[{{Hillebrandt} \& {Niemeyer}(2000)}]{Hillebrandt2000}
+{Hillebrandt}, W. \& {Niemeyer}, J.~C. 2000, Annual Review of Astronomy and
+  Astrophysics, 38, 191
 
 \bibitem[{Hirschi {et~al.}(2004)Hirschi, Meyne, \& Maeder}]{Hirschi}
 Hirschi, R., Meyne, G., \& Maeder, A. 2004, Astronomy and Astrophysics, 425,
@@ -268,6 +281,11 @@ Langer, N. 2012, Annual Review of Astronomy and Astrophysics, 50, 107
   {Rotational Mixing in Massive Stars and Its Many Consequences}, ed.
   S.~{Randich} \& L.~{Pasquini}, 308
 
+\bibitem[{{M{\"u}ller} {et~al.}(2016){M{\"u}ller}, {Heger}, {Liptai}, \&
+  {Cameron}}]{Muller2016}
+{M{\"u}ller}, B., {Heger}, A., {Liptai}, D., \& {Cameron}, J.~B. 2016, Monthly
+  Notices of the Royal Astronomical Society, 460, 742
+
 \bibitem[{{Nomoto}(1987)}]{Nomoto1987}
 {Nomoto}, K. 1987, The Astrophysical Journal, 322, 206
 
@@ -306,6 +324,9 @@ Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
 Schwarz, R., Bazso, A., Erdi, B., \& Funk, B. 2012, Monthly Notices of the
   Royal Astronomical Society, 427, 397
 
+\bibitem[{Smartt(2009)}]{Smartt2009}
+Smartt, S.~J. 2009, Annual Review of Astronomy and Astrophysics, 47, 63
+
 \bibitem[{Smith(2014)}]{smith14}
 Smith, N. 2014, Annual Review of Astronomy and Astrophysics, 52, 487
 
@@ -327,12 +348,25 @@ Sweigart, A.~V. 1997, The Astrophysical Journal, 427, L23
 Szebehely, V. 1967, Theory of Orbits: The Restricted Problem of Three Bodies
   (Academic Press, New York and London)
 
+\bibitem[{{Tauris} {et~al.}(2017){Tauris}, {Kramer}, {Freire}, {Wex}, {Janka},
+  {Langer}, {Podsiadlowski}, {Bozzo}, {Chaty}, {Kruckow}, {van den Heuvel},
+  {Antoniadis}, {Breton}, \& {Champion}}]{Tauris2017}
+{Tauris}, T.~M., {Kramer}, M., {Freire}, P.~C.~C., {et~al.} 2017, The
+  Astrophysical Journal, 846, 170
+
 \bibitem[{{Tauris} \& {van den Heuvel}(2006)}]{Tauris_2006}
 {Tauris}, T.~M. \& {van den Heuvel}, E.~P.~J. 2006, in Compact stellar X-ray
   sources, ed. W.~H.~G. {Lewin} \& M.~{van der Klis}, 623--665
 
+\bibitem[{{Turatto}(2003)}]{Turatto2003}
+{Turatto}, M. 2003, in Lecture Notes in Physics, Berlin Springer Verlag, Vol.
+  598, Supernovae and Gamma-Ray Bursters, ed. K.~{Weiler}, 21--36
+
 \bibitem[{van~der Sluijs(2006)}]{Sluijs}
 van~der Sluijs, M.~V. 2006, PhD thesis, Universiteit Utrecht
+
+\bibitem[{{Wang}(2018)}]{Wang2018}
+{Wang}, B. 2018, Research in Astronomy and Astrophysics, 18, 049
 
 \bibitem[{{Weigert}(1968)}]{Weigert1968}
 {Weigert}, A. 1968, Mitteilungen der Astronomischen Gesellschaft Hamburg, 25,
