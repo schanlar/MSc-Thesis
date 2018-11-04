@@ -58,7 +58,7 @@
 				\begin{figure}[h]
 					\centering
 					\includegraphics[width=\textwidth]{../figures/chapter1/Kippenhahn_3p0_ch1_with_text_final.png}
-					\caption{Kippenhahn diagramm for a $3.0 M_{\odot}$ He-star with mass loss. The green and gold hatched areas denote convective and thermohaline mixing respectively. Red solid lines represent areas with semi-convective mixing. The black, red, and green dotted lines show the build-up of Helium, Carbon, and Oxygen core mass respectively}
+					\caption{Kippenhahn diagramm for a $3.0 M_{\odot}$ He-star with mass loss. The green and gold hatched areas denote convective and thermohaline mixing respectively. Red solid lines represent areas with semi-convective mixing. The black, red, and green dotted lines show the build-up of Helium, Carbon, and Oxygen core mass respectively.}
 					\label{fig:Kipp_3p0_ch1}
 				\end{figure}
 				
@@ -156,7 +156,7 @@
         				\centering
         				\includegraphics[width = \linewidth]{../figures/chapter1/3Dequipotentials_transparent.png} 
    					 \end{subfigure}
-   					 \caption{Left panel: Equipotential lines in the x-y plane of orbit of a rotating binary with a reduced mass ratio of $\mu = 0.316$. The inner equipotential surface that passes from the $L_1$ Lagrangian point, defines the "teardrop"-shaped Roche-lobes, one for each star. Contour lines passing through the Lagrange points are marked with blue colour. The image was created using a \texttt{python} script, courtesy of \cite{Zingale}. Right Panel: 3D representation of equipotential surfaces. The image was adopted from \cite{Sluijs}. }
+   					 \caption{Left panel: Equipotential lines in the x-y plane of orbit of a rotating binary with a reduced mass ratio of $\mu = 0.316$. The inner equipotential surface that passes from the $L_1$ Lagrangian point, defines the "teardrop"-shaped Roche-lobes, one for each star. Contour lines passing through the Lagrange points are marked with blue colour. The image was created using a \texttt{python} script, courtesy of \cite{Zingale}. Right Panel: 3D representation of equipotential surfaces. The image was adapted from \cite{Sluijs}. }
    					 \label{fig:eq_sur}
 				\end{figure}
 				
@@ -222,17 +222,50 @@
 			
 				Since the aim of this thesis is to investigate the connection between progenitor and remnant masses in double neutron star binaries, it is considered appropriate to devote a subsection on the formation and the importance of these incredible systems.
 				
+				\begin{figure}[h]
+					\centering
+					\includegraphics[scale = 0.85]{../figures/chapter1/DNS_formation_transparent.png}
+					\caption{Illustration of the formation of a DNS system which merges within a Hubble time and produces a single. Image taken from \cite{Tauris2017}.}
+					\label{fig:DNS}
+				\end{figure}
+				
 	\section{Stellar transients}
 	
-		Couple of words for the different types of stellar transients and how can we observe them
+		%Couple of words for the different types of stellar transients and how can we observe them
+		Transient stars are defined as objects which experience a strong variation in their brightness, that can be observed within a human lifetime, due to various instabilities ranging from magnetic-powered flares in small, dim red dwarfs (M-dwarfs) to thermonuclear shell/core flashes, and gravitational collapse of iron cores. Transients can be non-periodic and/or non-recurring events depending on the nature of the underlying instability. Generally, unstable processes like magnetic reconnection, accretion instabilities, and shell flashes have a tendency not to disrupt the star so they might occur a number of times during the lifetime of the star. On the other hand, known disruptions include supernovae and merging events. Here we will briefly discuss the latter scenario of explosive transients.
 		
-			\subsection{Classification of Supernovae}
+			\subsection{Types of Supernovae}
 			
-				Explain in details the difference between core collapse SNe and type Ia and different subdivision
+				%Explain in details the difference between core collapse SNe and type Ia and different subdivision
+				Massive stars will end their short lives in an extremely luminous supernova (SN) explosion leaving behind a compact object which is either a neutron star or a black hole, depending on the initial mass of the progenitor star, and enriching their host galaxy with all the elements they forged during their lifetime. Classification of supernovae has been traditionally done by their observational characteristics like spectral features, and properties of their light curves as seen in \hyperref[fig:SNe_classification]{Fig 1.5} \citep[see][]{Filippenko1997, Turatto2003}. 
+				
+				\begin{figure}[h]
+					\centering
+					\includegraphics[width = \textwidth]{../figures/chapter1/SNeClass.pdf}
+					\caption{Basic classification of supernovae based on their spectra lines. Further sub-groups can be identified if we take into consideration the behavior of their light curves. Type Ia (here marked with a blue circle) is associated with thermonuclear runaway reactions rather than core collapse (red circles).}
+					\label{fig:SNe_classification}
+				\end{figure}
+				
+				Whilst there are many physical mechanisms that could potentially lead to a supernova, the connection between the progenitor of the explosion and the type of supernova we eventually observe is still unclear. However, we can differentiate between core collapse SNe (CCSNe) where pressure support is being removed from the core of the star via numerous processes, and thermonuclear explosions of mass-accreting white dwarfs. We will not discuss here the latter case, the associated exploding mechanisms, or how it is related to the type-Ia but the interested reader can refer to the work of \cite{Hillebrandt2000, Wang2018, SNe_book}.
+				
+				For the case of a star that experiences a gravitational core collapse, there are several channels that could remove pressure support from the core; next, we discuss a few aspects of these channels and -to a certain degree- the underlying exploding mechanism.
+				
+				\subsubsection{Iron core collapse SNe (Fe-CCSNe)}
+					
+					During the final stages of evolution, if the star is massive enough it will develop an inert iron core. As temperature increases in the core, the energy of the photons becomes sufficiently high to start photodisintegration on the $^{56}$Fe nuclei. This process removes pressure from the core, forcing it to contract until electrons and protons fuse together in a process called \emph{neutronization}. As a weak interaction, neutronization is accompanied by the production of neutrinos that do not contribute to the pressure support against gravity since they escape the star much faster than photons, and effectively acts as a cooling mechanism carrying energy away. Depending on the mass of the core, the degeneracy pressure provided by the neutrons might be sufficient to cease the collapse leading to the formation of a neutron star. Following \cite{Muller2016}, the infalling material will bounce on the surface of the neutron star sending back a shock wave that quickly stalls due to photodisintegration of heavy nuclei and neutrino losses; this is the \emph{pre-explosion phase} and it becomes clear that another energy source is needed in order to have a successful explosion. This source is believed to be a (gain) region behind of the shock where energy deposition of neutrinos leads to heating. The shock revival occurs once the accreted material spends sufficient time in the gain region to receive enough energy from neutrinos to negate its binding energy. At this point we have entered the \emph{explosion phase}.
+
+				\subsubsection{Electron capture SNe (ECSNe)}
+				
+				
+				
+				\subsubsection{Pair instability SNe (PISNe)}
+				
+					More on the progenitors of CCSNe and relevant exploding mechanisms can be found in \cite{Smartt2009, Couch2017}.
+				
 				
 			\subsection{Type Ib/c Supernovae}
 			
-				Explain in details this particular branch
+				Explain in details this particular branch + ultra stripped SNe
 				
 			\subsection{X-ray binaries}
 			
