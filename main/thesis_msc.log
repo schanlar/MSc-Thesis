@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  3 NOV 2018 20:04
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  4 NOV 2018 10:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1303,13 +1303,11 @@ type QTm)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [3] [4] [5] [6]
-File: ../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png Gr
-aphic file (type QTm)
-
-<use  "../figures/chapter1/equipotential_surfaces/equipotentials_mu_0_316.png" 
->
+File: ../figures/chapter1/equipotentials_mu_0.316.png Graphic file (type QTm)
+ <use  "../figures/chapter1/equipotentials_mu_0.316.png" >
 File: ../figures/chapter1/3Dequipotentials.png Graphic file (type QTm)
- <use  "../figures/chapter1/3Dequipotentials.png" >
+
+<use  "../figures/chapter1/3Dequipotentials.png" >
 Overfull \hbox (50.18425pt too wide) in paragraph at lines 157--158
  [][] 
  []
@@ -1372,10 +1370,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 42099 strings out of 493005
- 952468 string characters out of 6134595
+ 42100 strings out of 493005
+ 952438 string characters out of 6134595
  1249964 words of memory out of 5000000
- 45316 multiletter control sequences out of 15000+600000
+ 45317 multiletter control sequences out of 15000+600000
  29078 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,14n,111p,9876b,1083s stack positions out of 5000i,500n,10000p,200000b,80000s
