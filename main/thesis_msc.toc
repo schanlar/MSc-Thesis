@@ -22,9 +22,9 @@
 \contentsline {subsection}{\numberline {1.3.1}Types of Supernovae}{10}{subsection.1.3.1}
 \contentsline {subsubsection}{Iron core collapse SNe (Fe-CCSNe)}{10}{subsubsection*.16}
 \contentsline {subsubsection}{Electron capture SNe (ECSNe)}{11}{subsubsection*.17}
-\contentsline {subsubsection}{Pair instability SNe (PISNe)}{11}{subsubsection*.18}
-\contentsline {subsection}{\numberline {1.3.2}Type Ib/c Supernovae}{11}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}X-ray binaries}{11}{subsection.1.3.3}
+\contentsline {subsubsection}{Pair instability SNe (PISNe)}{12}{subsubsection*.18}
+\contentsline {subsection}{\numberline {1.3.2}Type Ib/c Supernovae}{12}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}X-ray binaries}{12}{subsection.1.3.3}
 \contentsline {chapter}{\numberline {2}Methods}{13}{chapter.2}
 \contentsline {section}{\numberline {2.1}Modules for Experiments in Stellar Astrophysics}{13}{section.2.1}
 \contentsline {section}{\numberline {2.2}Physical assumptions}{13}{section.2.2}
@@ -35,4 +35,4 @@
 \contentsline {section}{\numberline {3.2}Neutron star + Helium star binaries}{15}{section.3.2}
 \contentsline {chapter}{\numberline {4}Conclusions}{17}{chapter.4}
 \contentsline {chapter}{\numberline {5}Discussion}{19}{chapter.5}
-\contentsline {chapter}{Bibliography}{23}{appendix*.19}
+\contentsline {chapter}{Bibliography}{24}{appendix*.19}

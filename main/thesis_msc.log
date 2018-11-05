@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  5 NOV 2018 00:32
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  5 NOV 2018 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1322,11 +1322,11 @@ File: ../figures/chapter1/SNeClass.pdf Graphic file (type QTm)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10]) (../chapters/chapter2/chapter2.tex [11] [12
-
-]
+[10] [11]) (../chapters/chapter2/chapter2.tex [12]
 Chapter 2.
-) (../chapters/chapter3/chapter3.tex [13] [14
+) (../chapters/chapter3/chapter3.tex [13
+
+] [14
 
 ]
 Chapter 3.
@@ -1342,7 +1342,7 @@ Chapter 5.
 
 ] [21] [22]
 ! Undefined control sequence.
-l.335 ... \& {van den Heuvel}, E.~P.~J. 1997, \aap
+l.374 ... \& {van den Heuvel}, E.~P.~J. 1997, \aap
                                                   ,
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1351,7 +1351,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.377   [\eprint
+l.419   [\eprint
                 [arXiv]{0811.0455}]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1359,14 +1359,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) [23]
+[23]) [24]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 328.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 328.
- (./thesis_msc.xwm)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-(./thesis_msc.aux)
+ (./thesis_msc.xwm) (./thesis_msc.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 328.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 328.
 
@@ -1377,17 +1373,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 42135 strings out of 493005
- 953147 string characters out of 6134595
- 1251383 words of memory out of 5000000
- 45350 multiletter control sequences out of 15000+600000
+ 42163 strings out of 493005
+ 953674 string characters out of 6134595
+ 1254306 words of memory out of 5000000
+ 45378 multiletter control sequences out of 15000+600000
  29078 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  71i,14n,111p,9876b,1083s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis_msc.pdf (39 pages).
+Output written on thesis_msc.pdf (40 pages).
