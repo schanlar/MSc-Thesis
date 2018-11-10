@@ -220,9 +220,9 @@ def make_plot(mu):
 
     plt.axis([eq.xmin, eq.xmax, eq.ymin, eq.ymax])
 
-    plt.title(r"Equipotentials, $\mu = M_2/(M_1 + M_2) = {:5.3f}$".format(mu) ,fontsize=12)
-    plt.xlabel("$x/(a + b)$")
-    plt.ylabel("$y/(a + b)$")
+    plt.title(r"Equipotentials, $\mu = M_2/(M_1 + M_2) = {:5.3f}$".format(mu) ,fontsize = 14)
+    plt.xlabel("$x/(a + b)$", fontsize = 14)
+    plt.ylabel("$y/(a + b)$", fontsize = 14)
 
     f = plt.gcf()
     f.set_size_inches(10.8,10.8)
