@@ -1,4 +1,4 @@
-\begin{thebibliography}{75}
+\begin{thebibliography}{82}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -168,6 +168,10 @@ Couch, S.~M. 2017, 375
 {de Jager}, C., {Nieuwenhuijzen}, H., \& {van der Hucht}, K.~A. 1988, Astronomy
   and Astrophysics Supplement Series, 72, 259
 
+\bibitem[{{Dewi} \& {Pols}(2003)}]{Dewi_DNS}
+{Dewi}, J.~D.~M. \& {Pols}, O.~R. 2003, Monthly Notice of the Royal
+  Astronomical Society, 344, 629
+
 \bibitem[{Eggleton(2006)}]{Eggleton_book}
 Eggleton, P. 2006, Evolutionary Processes in Binary and Multiple Stars
   (Cambridge University Press)
@@ -177,6 +181,10 @@ Eggleton, P. 2006, Evolutionary Processes in Binary and Multiple Stars
 
 \bibitem[{Filippenko(1997)}]{Filippenko1997}
 Filippenko, A.~V. 1997, Annual Review of Astronomy and Astrophysics, 35, 309
+
+\bibitem[{{Giacobbo} \& {Mapelli}(2018)}]{Giacobbo2018}
+{Giacobbo}, N. \& {Mapelli}, M. 2018, Monthly Notices of the Royal Astronomical
+  Society [\eprint[arXiv]{1805.11100}]
 
 \bibitem[{{Gilmer} {et~al.}(2017){Gilmer}, {Kozyreva}, {Hirschi},
   {Fr{\"o}hlich}, \& {Yusof}}]{Gilmer2017}
@@ -231,6 +239,11 @@ Hirschi, R., Meyne, G., \& Maeder, A. 2004, Astronomy and Astrophysics, 425,
 \bibitem[{{Ivanova}(2015)}]{Ivanova2015}
 {Ivanova}, N. 2015, {Binary Evolution: Roche Lobe Overflow and Blue
   Stragglers}, ed. H.~M.~J. {Boffin}, G.~{Carraro}, \& G.~{Beccari}, 179
+
+\bibitem[{{Ivanova} {et~al.}(2003){Ivanova}, {Belczynski}, {Kalogera}, {Rasio},
+  \& {Taam}}]{Ivanova_DNS}
+{Ivanova}, N., {Belczynski}, K., {Kalogera}, V., {Rasio}, F.~A., \& {Taam},
+  R.~E. 2003, The Astrophysical Journal, 592, 475
 
 \bibitem[{{Ivanova} {et~al.}(2013){Ivanova}, {Justham}, {Chen}, {De Marco},
   {Fryer}, {Gaburov}, {Ge}, {Glebbeek}, {Han}, {Li}, {Lu}, {Marsh},
@@ -301,6 +314,12 @@ Langer, N. 2012, Annual Review of Astronomy and Astrophysics, 50, 107
 {Maeder}, A., {Meynet}, G., {Hirschi}, R., \& {Ekstr{\"o}m}, S. 2006,
   {Rotational Mixing in Massive Stars and Its Many Consequences}, ed.
   S.~{Randich} \& L.~{Pasquini}, 308
+
+\bibitem[{{Moriya} {et~al.}(2017){Moriya}, {Mazzali}, {Tominaga}, {Hachinger},
+  {Blinnikov}, {Tauris}, {Takahashi}, {Tanaka}, {Langer}, \&
+  {Podsiadlowski}}]{Moriya2017}
+{Moriya}, T.~J., {Mazzali}, P.~A., {Tominaga}, N., {et~al.} 2017, Monthly
+  Notices of the Royal Astronomical Society, 466, 2085
 
 \bibitem[{{M{\"u}ller} {et~al.}(2016){M{\"u}ller}, {Heger}, {Liptai}, \&
   {Cameron}}]{Muller2016}
@@ -393,6 +412,16 @@ Szebehely, V. 1967, Theory of Orbits: The Restricted Problem of Three Bodies
 {Tauris}, T.~M., {Kramer}, M., {Freire}, P.~C.~C., {et~al.} 2017, The
   Astrophysical Journal, 846, 170
 
+\bibitem[{{Tauris} {et~al.}(2013){Tauris}, {Langer}, {Moriya}, {Podsiadlowski},
+  {Yoon}, \& {Blinnikov}}]{Tauris2013}
+{Tauris}, T.~M., {Langer}, N., {Moriya}, T.~J., {et~al.} 2013, The
+  Astrophysical Journal Letters, 778, L23
+
+\bibitem[{{Tauris} {et~al.}(2015){Tauris}, {Langer}, \&
+  {Podsiadlowski}}]{Tauris_ultra}
+{Tauris}, T.~M., {Langer}, N., \& {Podsiadlowski}, P. 2015, Monthly Notices of
+  the Royal Astronomical Society, 451, 2123
+
 \bibitem[{{Tauris} \& {van den Heuvel}(2006)}]{Tauris_2006}
 {Tauris}, T.~M. \& {van den Heuvel}, E.~P.~J. 2006, in Compact stellar X-ray
   sources, ed. W.~H.~G. {Lewin} \& M.~{van der Klis}, 623--665
@@ -423,6 +452,10 @@ Yoon, S.-C. 2017, Monthly Notices of the Royal Astronomical Society, 470, 3970
 
 \bibitem[{{Yoon} \& {Langer}(2005)}]{Yoon2005}
 {Yoon}, S.-C. \& {Langer}, N. 2005, Astronomy and Astrophysics, 443, 643
+
+\bibitem[{{Yoon} {et~al.}(2010){Yoon}, {Woosley}, \& {Langer}}]{Yoon2010}
+{Yoon}, S.-C., {Woosley}, S.~E., \& {Langer}, N. 2010, The Astrophysical
+  Journal, 725, 940
 
 \bibitem[{Zingale(2016)}]{Zingale}
 Zingale, M. 2016, equipotentials.py,
