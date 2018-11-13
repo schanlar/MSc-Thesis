@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  12 NOV 2018 16:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  13 NOV 2018 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1450,11 +1450,11 @@ ex [13]
 
 ]
 Chapter 2.
-) (../chapters/chapter3/chapter3.tex [15] [16
-
-]
+[15]) (../chapters/chapter3/chapter3.tex [16]
 Chapter 3.
-) (../chapters/chapter4/chapter4.tex [17] [18
+) (../chapters/chapter4/chapter4.tex [17
+
+] [18
 
 ]
 Chapter 4.
@@ -1488,7 +1488,7 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
  [25]
 ! Undefined control sequence.
-l.471   [\eprint
+l.474   [\eprint
                 [arXiv]{0811.0455}]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1506,10 +1506,10 @@ Package rerunfilecheck Info: File `thesis_msc.out' has not changed.
 (rerunfilecheck)             Checksum: D5D606B2236882556F62434673C72473;1974.
  ) 
 Here is how much of TeX's memory you used:
- 38764 strings out of 493104
- 896457 string characters out of 6139412
- 1191925 words of memory out of 5000000
- 41366 multiletter control sequences out of 15000+600000
+ 38775 strings out of 493104
+ 896595 string characters out of 6139412
+ 1192412 words of memory out of 5000000
+ 41374 multiletter control sequences out of 15000+600000
  21254 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,11n,92p,9876b,705s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1531,10 +1531,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/cbfonts/grmi1095.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/symbols/msam10.pfb>
-Output written on thesis_msc.pdf (42 pages, 2199886 bytes).
+Output written on thesis_msc.pdf (42 pages, 2207311 bytes).
 PDF statistics:
- 874 PDF objects out of 1000 (max. 8388607)
- 780 compressed objects within 8 object streams
- 195 named destinations out of 1000 (max. 500000)
+ 886 PDF objects out of 1000 (max. 8388607)
+ 792 compressed objects within 8 object streams
+ 198 named destinations out of 1000 (max. 500000)
  293 words of extra memory for PDF output out of 10000 (max. 10000000)
 

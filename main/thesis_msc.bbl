@@ -1,4 +1,4 @@
-\begin{thebibliography}{86}
+\begin{thebibliography}{87}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -462,6 +462,9 @@ van~der Sluijs, M.~V. 2006, PhD thesis, Universiteit Utrecht
 \bibitem[{{Weigert}(1968)}]{Weigert1968}
 {Weigert}, A. 1968, Mitteilungen der Astronomischen Gesellschaft Hamburg, 25,
   19
+
+\bibitem[{{Wilson}(1981)}]{Wilson1981}
+{Wilson}, R.~E. 1981, Astronomy and Astrophysics, 99, 43
 
 \bibitem[{{Woosley}(2017)}]{Woosley_PISNe}
 {Woosley}, S.~E. 2017, The Astrophysical Journal, 836, 244
