@@ -17,7 +17,26 @@
     		\section{Modules for Experiments in Stellar Astrophysics}
     		
     			%Write 2-3 pages of the MESA basics and how it works (Newton iterations etc). Consider possible subsections
+    			\texttt{MESA} is an open-source stellar evolution code which provides a modular approach to stellar modelling. Each of the available modules is responsible for the delivery of a specific aspect of the required physics (e.g. microphysics modules provide necessary equations of state and nuclear networks, utilization of macrophysics modules to treat mixing processes etc) in order to succesfully construct a computational stellar model.
     			
+    			For a spherically symmetric star in hydrostatic equilibrium the structure of the star is governed by the following four differential equations
+    			
+    			\begin{eqnarray}
+    				\frac{\partial r}{\partial m} &=& \frac{1}{4 \pi r^2 \rho} \label{eq:2.1} \\ \nonumber \\
+    				\frac{\partial P}{\partial m} &=& - \frac{G m}{4 \pi r^4} \label{eq:2.2 }\\ \nonumber \\
+    				\frac{\partial l}{\partial m} &=& \epsilon - \epsilon_{\nu} + \epsilon_g \label{eq:2.3} \\ \nonumber \\
+    				\frac{\partial T}{\partial m} &=& - \frac{T}{P} \frac{G m}{4 \pi r^4} \nabla = \frac{T}{P} \frac{\partial P}{\partial m} \nabla \label{eq:2.4}
+    			\end{eqnarray}
+    			and its evolution by the composition equations
+    			
+    			\begin{eqnarray}
+    				\frac{\partial X_i}{\partial t} = \frac{m_i}{\rho} \left( \sum_j r_{ji} - \sum_k r_{ik} \right) \text{, i = 1,$\dots$, I.} \label{eq:2.5}
+    			\end{eqnarray}
+    			where a full explanation of the symbols used here is given in \cite[][p. 89]{Kipp_book}. 
+    			
+    			\texttt{MESA} is able to simultaneously solve the coupled structure and composition equations \hyperref[eq:2.1]{(2.1)-(2.5)} without the need of operator splitting, where we alternately solve the spatial (structure) and temporal (evolution) equations. This is achieved by exploiting a generalized Newton-Raphson iterative solution which is most commonly referred to as the \emph{Henyey method} \citep[][p. 106]{Wilson1981, Kipp_book}; a grid of finite mesh points has to be set up, essentially dividing the structure into a large number of discrete mass cells where the differential equations need to be calculated. Assuming appropriate boundary conditions, a trial solution has to be guessed in advance which will be later improved after a number of consecutive iterations, and until the required degree of accuracy has been reached in order for the code to converge on a final solution. If after a specified number of iterations the model fails to converge, \texttt{MESA} will retry the calculation using a smaller timestep; this process will be repeated until the code finds an acceptable model to converge or until it reaches a limit in the timestep reduction.
+    			
+    			Finally, during the star's evolution, \texttt{MESA} will automatically adjust the mesh and redistribute it based on the structure and composition profiles of the model at the beginning of each timestep. For a proper insight into timestep selection and mesh refinement see \cite{Paxton2011}.
     			
     		\section{Physical assumptions}
     		
