@@ -3,8 +3,8 @@
 \select@language {english}
 \select@language {greek}
 \select@language {english}
-\contentsline {chapter}{List of Figures}{\textlatin {xiii}}{section*.4}
-\contentsline {chapter}{List of Tables}{\textlatin {xv}}{section*.6}
+\contentsline {chapter}{List of Figures}{{\fontencoding {TU}\selectfont xiii}}{section*.4}
+\contentsline {chapter}{List of Tables}{{\fontencoding {TU}\selectfont xv}}{section*.6}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Helium stars}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Formation of helium stars}{2}{subsection.1.1.1}
