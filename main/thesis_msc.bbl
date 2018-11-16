@@ -1,4 +1,4 @@
-\begin{thebibliography}{87}
+\begin{thebibliography}{96}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -191,6 +191,11 @@ Filippenko, A.~V. 1997, Annual Review of Astronomy and Astrophysics, 35, 309
 {Gilmer}, M.~S., {Kozyreva}, A., {Hirschi}, R., {Fr{\"o}hlich}, C., \& {Yusof},
   N. 2017, The Astrophysical Journal, 846, 100
 
+\bibitem[{{Glebbeek} {et~al.}(2009){Glebbeek}, {Gaburov}, {de Mink}, {Pols}, \&
+  {Portegies Zwart}}]{Dutch}
+{Glebbeek}, E., {Gaburov}, E., {de Mink}, S.~E., {Pols}, O.~R., \& {Portegies
+  Zwart}, S.~F. 2009, Astronomy and Astrophysics, 497, 255
+
 \bibitem[{Habets(1986{\natexlab{a}})}]{Habets_a}
 Habets, G. 1986{\natexlab{a}}, Astronomy and Astrophysics, 165, 95
 
@@ -228,6 +233,11 @@ Heber, U. 2009, Annual Review of Astronomy and Astrophysics, 47, 211
 {Heger}, A., {Woosley}, S.~E., \& {Spruit}, H.~C. 2005, The Astrophysical
   Journal, 626, 350
 
+\bibitem[{{Henyey} {et~al.}(1965){Henyey}, {Vardya}, \&
+  {Bodenheimer}}]{MLT_Henyey}
+{Henyey}, L., {Vardya}, M.~S., \& {Bodenheimer}, P. 1965, The Astrophysical
+  Journal, 142, 841
+
 \bibitem[{{Hillebrandt} \& {Niemeyer}(2000)}]{Hillebrandt2000}
 {Hillebrandt}, W. \& {Niemeyer}, J.~C. 2000, Annual Review of Astronomy and
   Astrophysics, 38, 191
@@ -235,6 +245,11 @@ Heber, U. 2009, Annual Review of Astronomy and Astrophysics, 47, 211
 \bibitem[{Hirschi {et~al.}(2004)Hirschi, Meyne, \& Maeder}]{Hirschi}
 Hirschi, R., Meyne, G., \& Maeder, A. 2004, Astronomy and Astrophysics, 425,
   649
+
+\bibitem[{{Itoh} {et~al.}(2002){Itoh}, {Tomizawa}, {Tamamura}, {Wanajo}, \&
+  {Nozawa}}]{Itoh2002}
+{Itoh}, N., {Tomizawa}, N., {Tamamura}, M., {Wanajo}, S., \& {Nozawa}, S. 2002,
+  The Astrophysical Journal, 579, 380
 
 \bibitem[{{Ivanova}(2015)}]{Ivanova2015}
 {Ivanova}, N. 2015, {Binary Evolution: Roche Lobe Overflow and Blue
@@ -268,6 +283,11 @@ Hirschi, R., Meyne, G., \& Maeder, A. 2004, Astronomy and Astrophysics, 425,
 \bibitem[{{Kalogera} \& {Webbink}(1996)}]{Kalogera1996}
 {Kalogera}, V. \& {Webbink}, R.~F. 1996, The Astrophysical Journal, 458, 301
 
+\bibitem[{{Kippenhahn} {et~al.}(1980){Kippenhahn}, {Ruschenplatt}, \&
+  {Thomas}}]{Kipp_thermohaline}
+{Kippenhahn}, R., {Ruschenplatt}, G., \& {Thomas}, H.-C. 1980, Astronomy and
+  Astrophysics, 91, 175
+
 \bibitem[{{Kippenhahn} \& {Weigert}(1967)}]{Kipp1967}
 {Kippenhahn}, R. \& {Weigert}, A. 1967, Zeitschrift f\"ur Astrophysik, 65, 251
 
@@ -293,6 +313,11 @@ Lamers, H. \& Cassinelli, J. 1999, Introduction to Stellar Winds (Cambridge
 
 \bibitem[{Langer(2012)}]{langer12}
 Langer, N. 2012, Annual Review of Astronomy and Astrophysics, 50, 107
+
+\bibitem[{{Langer} {et~al.}(1983){Langer}, {Fricke}, \&
+  {Sugimoto}}]{Langer1983}
+{Langer}, N., {Fricke}, K.~J., \& {Sugimoto}, D. 1983, Astronomy and
+  Astrophysics, 126, 207
 
 \bibitem[{{Langer} {et~al.}(1997){Langer}, {Heger}, \& {Fliegner}}]{Langer1997}
 {Langer}, N., {Heger}, A., \& {Fliegner}, J. 1997, in IAU Symposium, Vol. 189,
@@ -386,6 +411,9 @@ Podsiadlowski, P. 2014, The evolution of binary systems, ed. I.~González
 \bibitem[{Postnov \& Yungelson(2014)}]{Postnov2014}
 Postnov, K.~A. \& Yungelson, L.~R. 2014, Living Reviews in Relativity, 17, 3
 
+\bibitem[{Potekhin {et~al.}(2009)Potekhin, Chabrier, \& Rogers}]{PCR2009}
+Potekhin, A.~Y., Chabrier, G., \& Rogers, F.~J. 2009, Phys. Rev. E, 79, 016411
+
 \bibitem[{Prialnik(2000)}]{Prialnik}
 Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
   Evolution (Cambridge University Press)
@@ -397,6 +425,15 @@ Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
 
 \bibitem[{{Riles}(2013)}]{Riles2013}
 {Riles}, K. 2013, Progress in Particle and Nuclear Physics, 68, 1
+
+\bibitem[{{Roxburgh}(1998)}]{Roxburgh1998}
+{Roxburgh}, I.~W. 1998, in Astronomical Society of the Pacific Conference
+  Series, Vol. 138, 1997 Pacific Rim Conference on Stellar Astrophysics, ed.
+  K.~L. {Chan}, K.~S. {Cheng}, \& H.~P. {Singh}, 411
+
+\bibitem[{{Saslaw} \& {Schwarzschild}(1965)}]{Saslaw1965}
+{Saslaw}, W.~C. \& {Schwarzschild}, M. 1965, The Astrophysical Journal, 142,
+  1468
 
 \bibitem[{Schwarz {et~al.}(2012)Schwarz, Bazso, Erdi, \& Funk}]{Schwarz2012}
 Schwarz, R., Bazso, A., Erdi, B., \& Funk, B. 2012, Monthly Notices of the
@@ -421,6 +458,9 @@ Smith, N. 2014, Annual Review of Astronomy and Astrophysics, 52, 487
 
 \bibitem[{{Spruit}(2002)}]{Spruit2002}
 {Spruit}, H.~C. 2002, Astronomy and Astrophysics, 381, 923
+
+\bibitem[{Stothers \& Chin(1990)}]{Stothers1990}
+Stothers, R.~B. \& Chin, C.-W. 1990, The Astrophysical Journal, 348, L21
 
 \bibitem[{Sweigart(1997)}]{Sweigart}
 Sweigart, A.~V. 1997, The Astrophysical Journal, 427, L23
