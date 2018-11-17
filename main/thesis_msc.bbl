@@ -1,4 +1,4 @@
-\begin{thebibliography}{96}
+\begin{thebibliography}{97}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -237,6 +237,9 @@ Heber, U. 2009, Annual Review of Astronomy and Astrophysics, 47, 211
   {Bodenheimer}}]{MLT_Henyey}
 {Henyey}, L., {Vardya}, M.~S., \& {Bodenheimer}, P. 1965, The Astrophysical
   Journal, 142, 841
+
+\bibitem[{{Herwig}(2000)}]{Herwig2000}
+{Herwig}, F. 2000, Astronomy and Astrophysics, 360, 952
 
 \bibitem[{{Hillebrandt} \& {Niemeyer}(2000)}]{Hillebrandt2000}
 {Hillebrandt}, W. \& {Niemeyer}, J.~C. 2000, Annual Review of Astronomy and
