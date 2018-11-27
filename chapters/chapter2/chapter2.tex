@@ -44,25 +44,30 @@
     			
     				\subsection{Single stars}
     				
-    					In order to study the generic behaviour of the model stars before putting them in a binary configuration, we evolved non-rotating, non-magnetic helium stars in the mass range $2.0$ M$_{\odot}$ - $9.0$ M$_{\odot}$. In all cases, the calculations are continued until the core collapse phase, where the core reaches an infall speed limit of $1000$ km s$^{-1}$, or until the code cannot find another acceptable model to continue. For the nuclear reactions network we chose the \texttt{approx21\_cr60\_plus\_co56.net} that is included in \texttt{MESA} and considers twenty-two nuclear species. Moreover, we considered ion and electron screening corrections as described in \cite{PCR2009} and \cite{Itoh2002} respectively.
+    					In order to study the generic behaviour of our models before putting them in a binary configuration, we evolved non-rotating, non-magnetic helium stars in the mass range $2.0$ - $9.0$ M$_{\odot}$. This mass grid is more dense in the range $2.0$ - $3.5$ M$_{\odot}$, with a spacing of $0.1$ in order to resolve the uncertainties in this region, and find a defining line between the initial mass of our models and their final fate. In the range $3.5$ - $9.0$ M$_{\odot}$, the mass grid becomes more sparse with a spacing of $0.5$.
     					
-    					Convection was treated according to the mixing-length theory prescription of \cite{MLT_Henyey} with a mixing-length parameter of $\alpha_{\text{ML}} = 2.0$. Furthermore, we used the Ledoux criterion for convective instability adopting an efficiency parameter of $\alpha_{\text{SEM}} = 1.0$ for semiconvection \citep{Langer1991}, and a diffusion coefficient $D_{\text{TH}} = 1.0$ for thermohaline mixing. Both semiconvection and thermohaline mixing are treated by \texttt{MESA} as diffusive processes \citep{Langer1983, Kipp_thermohaline}. Convective core overshooting was not applied in any of our models since, as noted by \cite{Tauris_ultra}, mixing can be hampered in core helium-burning stars due to mass growth of the convective core with time. Nevertheless, for the non-burning convective regions, we adopted a $f_{\text{ov}} = 0.0005$ value where the latter parameter is defined in \cite{Herwig2000} as a fraction of the local pressure scale height $H_p$, and is connected to the diffusion coefficient $D_{\text{OV}}$ via the relation
+    					In all cases, the calculations are continued until the core collapse phase, where the core reaches an infall speed limit of $1000$ km s$^{-1}$, or until the code cannot find another acceptable model to continue. For the nuclear reactions network we chose the \texttt{approx21\_cr60\_plus\_co56.net} that is included in \texttt{MESA} and considers twenty-two nuclear species. Moreover, we considered ion and electron screening corrections as described in \cite{PCR2009} and \cite{Itoh2002} respectively. To account for an enhanced carbon-oxygen mixture as a result of helium burning, we used the Type-2 OPAL Rosseland mean opacity tables \citep{OPAL}.
+    					
+    					Convection was treated according to the mixing-length theory prescription of \cite{MLT_Henyey} with a mixing-length parameter of $\alpha_{\text{ML}} = 2.0$. Furthermore, we used the Ledoux criterion for convective instability adopting an efficiency parameter of $\alpha_{\text{SEM}} = 1.0$ for semiconvection \citep{Langer1991}, and a diffusion coefficient $D_{\text{TH}} = 1.0$ for thermohaline mixing. Both semiconvection and thermohaline mixing are treated by \texttt{MESA} as diffusive processes \citep{Langer1983, Kipp_thermohaline}. Convective core overshooting was not applied in any of our models since, as noted by \cite{Tauris_ultra}, mixing can be hampered in core helium-burning stars due to mass growth of the convective core over time. In spite of that, for the non-burning convective regions, we adopted a value of $f_{\text{ov}} = 0.0005$; the latter parameter is defined in \cite{Herwig2000} as a fraction of the local pressure scale height, $H_p$, and is connected to the diffusion coefficient, $D_{\text{OV}}$, via the relation given by \hyperref[eq:OV_diff]{eq (2.6)}, where $z$ is the geometric distance from the edge of the convective zone.
     					
     					\begin{eqnarray}
     						\label{eq:OV_diff}
     						D_{\text{OV}} = D_0 \exp \left( - \frac{2z}{H_v} \right), \hspace{0.5cm} H_v = f_{\text{ov}} \cdot H_p
     					\end{eqnarray}
     					
-    					Mass loss rates due to stellar winds were implemented using the "\texttt{Dutch}" wind scheme \citep{Dutch}. In our case, this implies two different rates depending on the effective temperature of the star; for $T_{\text{eff}} > 10^4$ K and a surface abundance of hydrogen $X < 0.4$ by mass fraction (which is always satisfied for the models we developed), we apply the prescription of \cite{Nugis2000} with a scaling factor of $\eta = 0.8$. However, we also calculated some models using the canonical value of $\eta = 1$, and some models with an enhanced scaling factor of $\eta = 1.58$ as proposed by \cite{yoon17}. For $T_{\text{eff}} < 10^4$ K the mass loss rate follows the prescription of \cite{deJager1988}. All the baseline parameters we adopted above are summarized in \hyperref[tab:parameters_single]{Table 2.1}. Finally, we should mention that in most cases the spatial ($\delta_{\text{mesh}}$) and temporal resolution ($\sigma_t$) were kept constant unless otherwise stated.
+    					Mass loss rates due to stellar winds were implemented using the "\texttt{Dutch}" wind scheme \citep{Dutch}. In our case, this implies two different rates depending on the effective temperature of the star; for $T_{\text{eff}} > 10^4$ K and a surface abundance of hydrogen $X < 0.4$ by mass fraction (which is always satisfied for the models we developed), we apply the prescription of \cite{Nugis2000} with a scaling factor of $\eta = 0.8$. For $T_{\text{eff}} < 10^4$ K the mass loss rate follows the prescription of \cite{deJager1988}.
+    					Nevertheless, we also calculated several models using the canonical value of $\eta = 1$, and some models with an enhanced scaling factor of $\eta = 1.58$, as proposed by \cite{yoon17}, for the intermediate to high-mass range. The reason behind this choice is that we expect to see a large discrepancy in the final masses only for more massive stars since, assuming a new efficiency parameter for the wind scheme would have a more profound impact on the higher-end of our mass grid.
+    					 All the baseline parameters we adopted above are summarized in \hyperref[tab:parameters_single]{Table 2.1}. Finally, we should mention that in most cases the spatial ($\delta_{\text{mesh}}$) and temporal resolution ($\sigma_t$) were kept constant unless otherwise stated.
     					
     					\begin{table} [!h]
-    						\begin{center}
-    							\caption{Physical parameters for single helium stars}
+    						%\begin{center}
+    							\caption{Baseline parameters for single helium stars}
     							\label{tab:parameters_single}
-    						\end{center}
+    						%\end{center}
     						\centering
+    						\resizebox{0.7\columnwidth}{!}{%
     						\begingroup
-    							\setlength{\tabcolsep}{0.1\textwidth}
+    							\setlength{\tabcolsep}{0.15\textwidth}
     							\begin{tabular}{cc}
     								\hline \hline \\
     							
@@ -82,8 +87,9 @@
     								
     								Variance Control Target ($\sigma_t$) & $10^{-16}$ \\\\
     								\hline \hline
-    							\end{tabular}
+    							\end{tabular}%
     						\endgroup
+    						}
     					\end{table}
     					
     				\subsection{Binary systems}
