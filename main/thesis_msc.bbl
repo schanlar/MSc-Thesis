@@ -1,4 +1,4 @@
-\begin{thebibliography}{97}
+\begin{thebibliography}{98}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Abbott {et~al.}(2017)Abbott, Abbott, Abbott, Acernese, Ackley, Adams,
@@ -248,6 +248,9 @@ Heber, U. 2009, Annual Review of Astronomy and Astrophysics, 47, 211
 \bibitem[{Hirschi {et~al.}(2004)Hirschi, Meyne, \& Maeder}]{Hirschi}
 Hirschi, R., Meyne, G., \& Maeder, A. 2004, Astronomy and Astrophysics, 425,
   649
+
+\bibitem[{{Iglesias} \& {Rogers}(1996)}]{OPAL}
+{Iglesias}, C.~A. \& {Rogers}, F.~J. 1996, The Astrophysical Journal, 464, 943
 
 \bibitem[{{Itoh} {et~al.}(2002){Itoh}, {Tomizawa}, {Tamamura}, {Wanajo}, \&
   {Nozawa}}]{Itoh2002}
