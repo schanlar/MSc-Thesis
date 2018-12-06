@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  4 DEC 2018 20:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  6 DEC 2018 01:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1290,7 +1290,7 @@ LaTeX Info: Redefining \nameref on input line 144.
 \openout5 = `thesis_msc.out'.
 
 
-<../figures/aifa_logo.png, id=131, 96.36pt x 39.9894pt>
+<../figures/aifa_logo.png, id=135, 96.36pt x 39.9894pt>
 File: ../figures/aifa_logo.png Graphic file (type png)
 
 <use ../figures/aifa_logo.png>
@@ -1311,7 +1311,7 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 155.
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-<../figures/uni_logo.png, id=132, 1027.84pt x 396.48125pt>
+<../figures/uni_logo.png, id=136, 1027.84pt x 396.48125pt>
 File: ../figures/uni_logo.png Graphic file (type png)
 
 <use ../figures/uni_logo.png>
@@ -1384,7 +1384,7 @@ Chapter 1.
 
 
 ]
-<../figures/chapter1/T_rho_plane_ch1_shaded.png, id=324, 783.8886pt x 585.387pt
+<../figures/chapter1/T_rho_plane_ch1_shaded.png, id=329, 783.8886pt x 585.387pt
 >
 File: ../figures/chapter1/T_rho_plane_ch1_shaded.png Graphic file (type png)
  <use ../figures/chapter1/T_rho_plane_ch1_shaded.png>
@@ -1395,7 +1395,7 @@ Package pdftex.def Info: ../figures/chapter1/T_rho_plane_ch1_shaded.png used on
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-<../figures/chapter1/equipotentials_mu_0_316.png, id=483, 780.516pt x 780.516pt
+<../figures/chapter1/equipotentials_mu_0_316.png, id=488, 780.516pt x 780.516pt
 >
 File: ../figures/chapter1/equipotentials_mu_0_316.png Graphic file (type png)
  <use ../figures/chapter1/equipotentials_mu_0_316.png>
@@ -1403,7 +1403,7 @@ Package pdftex.def Info: ../figures/chapter1/equipotentials_mu_0_316.png used o
 n input line 158.
 (pdftex.def)             Requested size: 222.997pt x 222.99721pt.
 
-<../figures/chapter1/3Dequipotentials_transparent.png, id=484, 1063.975pt x 106
+<../figures/chapter1/3Dequipotentials_transparent.png, id=489, 1063.975pt x 106
 3.975pt>
 File: ../figures/chapter1/3Dequipotentials_transparent.png Graphic file (type p
 ng)
@@ -1417,7 +1417,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6] [7 <../figures/chapter1/equipotentials_mu_0_316.png> <../figures/chapter1/3
 Dequipotentials_transparent.png>] [8]
-<../figures/chapter1/DNS_formation_transparent.png, id=570, 240.4182pt x 294.37
+<../figures/chapter1/DNS_formation_transparent.png, id=575, 240.4182pt x 294.37
 98pt>
 File: ../figures/chapter1/DNS_formation_transparent.png Graphic file (type png)
 
@@ -1429,7 +1429,7 @@ Package pdftex.def Info: ../figures/chapter1/DNS_formation_transparent.png used
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9] <../figures/chapter1/SNeClass.pdf, id=599, 739.76375pt x 279.0425pt>
+[9] <../figures/chapter1/SNeClass.pdf, id=605, 739.76375pt x 279.0425pt>
 File: ../figures/chapter1/SNeClass.pdf Graphic file (type pdf)
 
 <use ../figures/chapter1/SNeClass.pdf>
@@ -1450,7 +1450,7 @@ Chapter 2.
 ]
 Chapter 3.
 
-<../figures/chapter3/radius_evolution_gradient.png, id=796, 1084.05pt x 794.97p
+<../figures/chapter3/radius_evolution_gradient.png, id=801, 1084.05pt x 794.97p
 t>
 File: ../figures/chapter3/radius_evolution_gradient.png Graphic file (type png)
 
@@ -1512,13 +1512,13 @@ Package atveryend Info: Executing hook `AfterLastShipout' on input line 328.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 328.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 328.
 Package rerunfilecheck Info: File `thesis_msc.out' has not changed.
-(rerunfilecheck)             Checksum: 118EFCB940AC4DC3C62C0AB66FF2E25F;2043.
+(rerunfilecheck)             Checksum: 2FDDAC4477AED911C2FB64767033F204;2085.
  ) 
 Here is how much of TeX's memory you used:
- 38830 strings out of 493104
- 897583 string characters out of 6139412
- 1193264 words of memory out of 5000000
- 41412 multiletter control sequences out of 15000+600000
+ 38832 strings out of 493104
+ 897617 string characters out of 6139412
+ 1193273 words of memory out of 5000000
+ 41413 multiletter control sequences out of 15000+600000
  21254 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,14n,92p,9876b,703s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1541,10 +1541,10 @@ t/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/cbfonts/grmi1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/symbols/msam10.pfb>
-Output written on thesis_msc.pdf (44 pages, 2295950 bytes).
+Output written on thesis_msc.pdf (44 pages, 2295903 bytes).
 PDF statistics:
- 959 PDF objects out of 1000 (max. 8388607)
- 861 compressed objects within 9 object streams
- 214 named destinations out of 1000 (max. 500000)
- 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 964 PDF objects out of 1000 (max. 8388607)
+ 866 compressed objects within 9 object streams
+ 215 named destinations out of 1000 (max. 500000)
+ 309 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -31,12 +31,13 @@
 \contentsline {subsection}{\numberline {2.2.2}Binary systems}{17}{subsection.2.2.2}
 \contentsline {chapter}{\numberline {3}Results}{19}{chapter.3}
 \contentsline {section}{\numberline {3.1}Single helium stars}{19}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Core boundaries - core growth}{19}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.1}Core sizes}{19}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Internal structure}{19}{subsection.3.1.2}
 \contentsline {subsubsection}{Evolution in the mass range $2.0$ M$_{\odot }$ to $2.8$ M$_{\odot }$}{19}{subsubsection*.19}
 \contentsline {subsubsection}{Evolution in the mass range $2.9$ M$_{\odot }$ and above}{19}{subsubsection*.20}
 \contentsline {subsection}{\numberline {3.1.3}Radius evolution}{19}{subsection.3.1.3}
 \contentsline {subsection}{\numberline {3.1.4}Abundance profiles}{20}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Summary}{20}{subsection.3.1.5}
 \contentsline {section}{\numberline {3.2}Neutron star + helium star binaries}{20}{section.3.2}
 \contentsline {chapter}{\numberline {4}Discussion}{21}{chapter.4}
 \contentsline {chapter}{\numberline {5}Conclusions}{23}{chapter.5}
