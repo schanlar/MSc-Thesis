@@ -4,12 +4,17 @@
 \begin{document}
 
 	\chapter{Results}
+		This chapter is dedicated in the presentation of our results. Since it would be impractical, and quite cumbersome for the reader to follow a detailed analysis of every single case, we divide the results into different categories based on similar evolutionary characteristics; moreover, we choose a fiducial model as a representative for a specific mass range. Additional information about the rest of our models can be found in the appendices.
 	
 		
 		
 			\section{Single helium stars}
+				As it was stated above, we evolved twenty-seven non-rotating, non-magnetic helium stars in the mass range $2.0$ - $9.0$ M$_{\odot}$ in order to understand the evolution of such systems in isolation. In the following sections we present the structure and evolution of helium stars firstly in the mass range $2.0$ - $2.8$ M$_{\odot}$ where carbon is ignited off-centre, and secondy in the mass range $2.9$ - $9.0$ M$_{\odot}$ where carbon is ignited in the centre of the star. Before that, we take a look at the core sizes and we define the core boundaries where this is necessary. Lastly, the evolution of radii along with the final chemical composition are being discussed.
 			
 				\subsection{Core sizes}
+					In \texttt{MESA} the size of the carbon core is calculated based on the abundance of helium. Specifically, the outer boundary of the carbon core is defined as the outermost location where the abundance of helium is below $1 \%$. This signifies the minimum mass of the metal core which, as we shall see later, can grow in mass due to shell burning, and occupy a larger volume. However, this definition turns out to be problematic for He-stars in the lower end of our mass-range. The reason is that for those models, the envelope does not contain enough helium for \texttt{MESA} to differentiate between what is a metal core and what a metal-rich envelope which is counted as belonging to the core.
+					
+					In order to bypass this core-boundary ``crisis'', and to rigorously define the final mass of the metal core, we perform a qualitative examination of several physical properties such as the electron degeneracy parameter ($\eta_{\text{deg}}$), the pressure, and the density profile.
 			
 				\subsection{Internal structure}
 				
@@ -32,7 +37,7 @@
 					
 					When core helium burning comes to an end, the main source of energy comes from a He-burning shell surrounding the inert core which resumes its contraction phase until the on-centre carbon ignition; this happens for all stellar models depicted in \hyperref[fig:radii_singles]{Fig 3.1}, with the exception of the lowest mass model (M$_{i} = 2.0$ M$_{\odot}$) for which carbon is ignited off-centre. During the He-shell burning phase, and the subsequent core carbon burning phase, the radius of the stars increases until the carbon in the centre is consumed.
 					
-					As expected, the more massive stars exhaust their nuclear fuel supply and reach advanced burning stages more rapidly than lower mass stars; this is clearly illustrated in \hyperref[fig:radii_singles]{Fig 3.1}. However, by taking a closer look at this figure, we observe a more important behaviour that is related to the mass of the helium stars: the degree at which the radius expands has a tendency to increase as the initial mass of the star decreases. This has important consequences when it comes to helium stars that are part of a binary system, since it indicates that lower mass stars can fill their Roche-lobe and initiate mass transfer at larger orbital separations compared to the more massive ones. Additionally, the inflated envelope is more loosely bound to the core making these stars prone to sub-surface thermal instabilities such as thin-shell burning, or opacity-driven instabilities that could potentially cause the star to shed a significan amount of its surface material. % Last sentence needs reconsideration
+					As expected, the more massive stars exhaust their nuclear fuel supply and reach advanced burning stages more rapidly than lower mass stars; this is clearly illustrated in \hyperref[fig:radii_singles]{Fig 3.1}. However, by taking a closer look at this figure, we observe a more important behaviour that is related to the mass of the helium stars: the degree at which the radius expands has a tendency to increase as the initial mass of the star decreases. This has important consequences when it comes to helium stars that are part of a binary system, since it indicates that lower mass stars can fill their Roche-lobe and initiate mass transfer at larger orbital separations compared to the more massive ones. Additionally, the extended envelope is more loosely bound to the core making these stars prone to sub-surface thermal instabilities such as thin-shell burning, or opacity-driven instabilities that could potentially cause the star to shed a significan amount of its surface material. % Last sentence needs reconsideration
 				
 				
 				\subsection{Abundance profiles}	
