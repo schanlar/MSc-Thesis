@@ -24,6 +24,7 @@
 \contentsline {subsubsection}{Electron capture SNe (ECSNe)}{11}{subsubsection*.16}
 \contentsline {subsubsection}{Pair instability SNe (PISNe)}{12}{subsubsection*.17}
 \contentsline {subsection}{\numberline {1.3.2}Type Ib/c Supernovae}{12}{subsection.1.3.2}
+\contentsline {section}{\numberline {1.4}Thesis Outline}{13}{section.1.4}
 \contentsline {chapter}{\numberline {2}Methods}{15}{chapter.2}
 \contentsline {section}{\numberline {2.1}Modules for Experiments in Stellar Astrophysics}{15}{section.2.1}
 \contentsline {section}{\numberline {2.2}Physical assumptions}{16}{section.2.2}
