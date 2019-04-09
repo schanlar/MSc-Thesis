@@ -37,12 +37,12 @@ for tag, path in enumerate(model_paths, start = 1):
         os.chdir(logs_path)
         print('Processing...')
         os.system('cp history.data ' + new_model_path)
-        print('History file #'+ str(historyCounter) + ' in:', folder_name, 'created!')
+        print('History file #'+ str(tag) + ' in:', folder_name, 'created!')
 
 
     else:
         
-        print('History file #'+ str(historyCounter) + ' from:', folder_name, 'was not found!')
+        print('History file #'+ str(tag) + ' from:', folder_name, 'was not found!')
 
 
 
@@ -52,12 +52,12 @@ for tag, path in enumerate(model_paths, start = 1):
 
         os.chdir(path)
         os.system('cp final_profile.data ' + new_model_path)
-        print('Final profile #' + str(profileCounter) + ' in:', folder_name, 'created')
+        print('Final profile #' + str(tag) + ' in:', folder_name, 'created')
 
 
     else:
        
-        print('Final profile #' + str(profileCounter) + ' from:', folder_name, 'was not found!')
+        print('Final profile #' + str(tag) + ' from:', folder_name, 'was not found!')
 
 
 
