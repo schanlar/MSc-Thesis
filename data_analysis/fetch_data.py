@@ -17,17 +17,16 @@ if not os.path.exists(out_dir):
 # Fetch from original path
 model_paths = [path for path in glob.glob(grid_dir + '/*')]
 
-historyCounter = 0
+
 historyExists = 0
-profileCounter = 0
 profileExists = 0
 
 
-for path in model_paths:
+for tag, path in enumerate(model_paths, start = 1):
 
     logs_path = os.path.join(path,'LOGS')
     if os.path.isfile(logs_path + '/history.data'):
-        historyCounter += 1
+       
         historyExists += 1
 
         folder_name = path[-20:]
@@ -42,13 +41,13 @@ for path in model_paths:
 
 
     else:
-        historyCounter += 1
+        
         print('History file #'+ str(historyCounter) + ' from:', folder_name, 'was not found!')
 
 
 
     if os.path.isfile(path + '/final_profile.data'):
-        profileCounter += 1
+        
         profileExists += 1
 
         os.chdir(path)
@@ -57,12 +56,12 @@ for path in model_paths:
 
 
     else:
-        profileCounter += 1
+       
         print('Final profile #' + str(profileCounter) + ' from:', folder_name, 'was not found!')
 
 
 
-print(str(historyExists), 'history files ' + 'out of ' + str(historyCounter) + ' were copied from', grid_dir)
-print(str(profileExists), 'profile files ' + 'out of ' + str(profileCounter) + ' were copied from', grid_dir)
+print(str(historyExists), 'history files ' + 'out of ' + str(tag) + ' were copied from', grid_dir)
+print(str(profileExists), 'profile files ' + 'out of ' + str(tag) + ' were copied from', grid_dir)
 
 sys.stdout.close()
