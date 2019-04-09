@@ -61,7 +61,7 @@ for tag, path in enumerate(model_paths, start = 1):
 
 
 
-print(str(historyExists), 'history files ' + 'out of ' + str(tag) + ' were copied from', grid_dir)
-print(str(profileExists), 'profile files ' + 'out of ' + str(tag) + ' were copied from', grid_dir)
+print(str(historyExists), 'history files ' + 'out of ' + str(len(model_paths)) + ' were copied from', grid_dir)
+print(str(profileExists), 'profile files ' + 'out of ' + str(len(model_paths)) + ' were copied from', grid_dir)
 
 sys.stdout.close()
