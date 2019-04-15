@@ -7,11 +7,9 @@ from file_read_backwards import FileReadBackwards
 
 # PATHS
 grid_dir = '/vol/hal/halraid/jantoniadis/HeCores/Condor/full_grid'
+#out_dir = '/vol/aibn1107/data2/schanlar/HeCoresCondor/small_data'
 #out_dir = '/vol/aibn1107/data2/schanlar/HeCoresCondor/full_data'
-#out_dir = '/vol/aibn1107/data2/schanlar/HeCoresCondor/full_big_data'
 #fetchAll = False
-
-
 
 
 
@@ -134,6 +132,11 @@ def main():
 
     out_dir = sys.argv[1]
     fetchAll = sys.argv[2]
+
+    if fetchAll == 'False' or fetchAll == 'false':
+        fetchAll = False
+    else:
+        fetchAll = True 
 
     start = time.time()
     fetch(grid_dir = grid_dir, out_dir = out_dir, fetchAll = fetchAll)
