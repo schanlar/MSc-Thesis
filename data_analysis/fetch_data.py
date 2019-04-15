@@ -141,7 +141,7 @@ def main():
 
     time_elapsed = end - start
 
-    print(f'Elapsed time: {time_elapsed}')
+    print(f'Elapsed time: {round(time_elapsed, 2)}')
 
 
 if __name__ == '__main__':
