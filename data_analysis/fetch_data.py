@@ -121,10 +121,10 @@ def fetch(grid_dir, out_dir, fetchAll = False):
 
 
 
-        print(str(historyExists), 'history files ' + 'out of ' + str(len(model_paths)) + ' were copied from', grid_dir)
-        print(str(profileExists), 'final profiles ' + 'out of ' + str(len(model_paths)) + ' were copied from', grid_dir)
+    print(str(historyExists), 'history files ' + 'out of ' + str(len(model_paths)) + ' were copied from', grid_dir)
+    print(str(profileExists), 'final profiles ' + 'out of ' + str(len(model_paths)) + ' were copied from', grid_dir)
 
-    sys.stdout.close()
+    #sys.stdout.close()
 
 
 
@@ -135,8 +135,10 @@ def main():
 
     if fetchAll == 'False' or fetchAll == 'false':
         fetchAll = False
+    elif fetchAll == 'True' or fetchAll == 'true':
+        fetchAll = True
     else:
-        fetchAll = True 
+        raise ValueError('Unrecognized argument!')
 
     start = time.time()
     fetch(grid_dir = grid_dir, out_dir = out_dir, fetchAll = fetchAll)
@@ -144,7 +146,7 @@ def main():
 
     time_elapsed = end - start
 
-    print(f'Elapsed time: {round(time_elapsed, 2)}')
+    print(f'Elapsed time: {round(time_elapsed, 2)} seconds.')
 
 
 if __name__ == '__main__':
