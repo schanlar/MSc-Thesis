@@ -1,3 +1,27 @@
+'''
+###############################################################
+			HOW TO
+###############################################################
+
+Step 1: Define the path to the server where
+the data are stored -> grid_dir
+
+Step2: Execute the script from the command
+line as follows
+
+	$ python fetch_data.py /path/to/local/folder/name True
+
+if you want all of the data to be copied, or
+
+	$ python fetch_data.py /path/to/local/folder/name False
+
+if you want to obtain only a copy of the history file, and the
+final/last saved profile
+
+###############################################################
+'''
+
+
 import glob
 import os, sys
 import time
@@ -7,6 +31,7 @@ from file_read_backwards import FileReadBackwards
 
 # PATHS
 grid_dir = '/vol/hal/halraid/jantoniadis/HeCores/Condor/full_grid'
+
 #out_dir = '/vol/aibn1107/data2/schanlar/HeCoresCondor/small_data'
 #out_dir = '/vol/aibn1107/data2/schanlar/HeCoresCondor/full_data'
 #fetchAll = False
