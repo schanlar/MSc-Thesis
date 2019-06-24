@@ -19,28 +19,32 @@
     			%Write 2-3 pages of the MESA basics and how it works (Newton iterations etc). Consider possible subsections
     			\texttt{MESA} is an open-source stellar evolution code which provides a modular approach to stellar modelling. Each of the available modules is responsible for the delivery of a specific aspect of the required physics (e.g. microphysics modules provide necessary equations of state and nuclear networks, utilization of macrophysics modules to treat mixing processes etc) in order to succesfully construct a computational stellar model.
     			
-    			For a spherically symmetric star in hydrostatic equilibrium the structure of the star is governed by the following four differential equations
+    			For a spherically symmetric star in hydrostatic equilibrium the structure of the star is governed by the following four differential equations, in Lagrangian form
     			
-    			\begin{eqnarray}
-    				\frac{\partial r}{\partial m} &=& \frac{1}{4 \pi r^2 \rho} \label{eq:2.1} \\ \nonumber \\
-    				\frac{\partial P}{\partial m} &=& - \frac{G m}{4 \pi r^4} \label{eq:2.2 }\\ \nonumber \\
-    				\frac{\partial l}{\partial m} &=& \epsilon - \epsilon_{\nu} + \epsilon_g \label{eq:2.3} \\ \nonumber \\
-    				\frac{\partial T}{\partial m} &=& - \frac{T}{P} \frac{G m}{4 \pi r^4} \nabla = \frac{T}{P} \frac{\partial P}{\partial m} \nabla \label{eq:2.4}
-    			\end{eqnarray}
-    			and its evolution by the composition equations
+    			\begin{align} 
+    				&\textrm{Mass conservation:} &\quad \frac{\partial r}{\partial m} &= \frac{1}{4 \pi r^2 \rho} \label{eq:2.1} \\ \nonumber \\
+					&\textrm{Hydrostatic equilibrium:} &\quad \frac{\partial P}{\partial m} &= - \frac{G m}{4 \pi r^4} \\ \nonumber \\
+					&\textrm{Energy conservation:} &\quad \frac{\partial l}{\partial m} &= \epsilon - \epsilon_{\nu} + \epsilon_g \\ \nonumber \\
+					&\textrm{Energy transport:} &\quad \frac{\partial T}{\partial m} &= - \frac{T}{P} \frac{G m}{4 \pi r^4} \nabla  = \frac{T}{P} \frac{\partial P}{\partial m} \nabla \label{eq:2.4}
+				\end{align}
+				and its evolution by the composition equations (eq. \ref{eq:composition})
+				
+				\begin{align} \label{eq:composition}
+					 \frac{\partial X_i}{\partial t} = \frac{m_i}{\rho} \left( \sum_j r_{ji} - \sum_k r_{ik} \right), \hspace{0.5cm} \text{i = 1, $\dots$, n}
+				\end{align}
+				where $X_i$ is the mass fraction of all relevant nuclei $i = 1, \dots , n$ with mass $m_i$ \cite[][p. 89]{Kipp_book}.
+				
     			
-    			\begin{eqnarray}
-    				\frac{\partial X_i}{\partial t} = \frac{m_i}{\rho} \left( \sum_j r_{ji} - \sum_k r_{ik} \right), \hspace{0.5cm} \text{i = 1, $\dots$, I.} \label{eq:2.5}
-    			\end{eqnarray}
-    			where a full explanation of the symbols used here is given in \cite[][p. 89]{Kipp_book}. 
-    			
-    			\texttt{MESA} is able to simultaneously solve the coupled structure and composition equations \hyperref[eq:2.1]{(2.1)-(2.5)} without the need of operator splitting, where we alternately solve the spatial (structure) and temporal (evolution) equations. This is achieved by exploiting a generalized Newton-Raphson iterative solution which is most commonly referred to as the \emph{Henyey method} \citep[][p. 106]{Wilson1981, Kipp_book}; a grid of finite mesh points has to be set up, essentially dividing the structure into a large number of discrete mass cells where the differential equations need to be calculated. Assuming appropriate boundary conditions, a trial solution has to be guessed in advance which will be later improved after a number of consecutive iterations, and until the required degree of accuracy has been reached in order for the code to converge on a final solution. If after a specified number of iterations the model fails to converge, \texttt{MESA} will retry the calculation using a smaller timestep; this process will be repeated until the code finds an acceptable model to converge or until it reaches a limit in the timestep reduction.
+    			\texttt{MESA} is able to simultaneously solve the coupled structure and composition equations without the need of operator splitting, where we alternately solve the spatial (structure) and temporal (evolution) equations. This is achieved by exploiting a generalized Newton-Raphson iterative solution which is most commonly referred to as the \emph{Henyey method} \citep[][p. 106]{Wilson1981, Kipp_book}; a grid of finite mesh points has to be set up, essentially dividing the structure into a large number of discrete mass cells where the differential equations need to be calculated. Assuming appropriate boundary conditions, a trial solution has to be guessed in advance which will be later improved after a number of consecutive iterations, and until the required degree of accuracy has been reached in order for the code to converge on a final solution. If after a specified number of iterations the model fails to converge, \texttt{MESA} will retry the calculation using a smaller timestep; this process will be repeated until the code finds an acceptable model to converge or until it reaches a limit in the timestep reduction.
     			
     			Finally, during the star's evolution, \texttt{MESA} will automatically adjust the mesh and redistribute it based on the structure and composition profiles of the model at the beginning of each timestep. For a proper insight into timestep selection and mesh refinement see \cite{Paxton2011}.
     			
+    		
+\begin{comment}
     		\section{Physical assumptions}
     		
     			All helium stars were created with \texttt{MESA} (version - r10398) in single star evolution by starting with a non-rotating ZAMS star of $30$ M$_{\odot}$ and solar composition ($X = 0.70$, $Y = 0.28$, $Z = 0.02$). The star was left to evolve until hydrogen depletion in its centre, at which point the hydrogen envelope was artificially removed exposing a naked helium core of $\sim 9$ M$_{\odot}$ with homogeneous composition ($Y = 0.98$, $Z = 0.02$). Lower mass helium stars were created by artificially removing the outer layers of the aforementioned helium core.
+    			
     			
     				\subsection{Single stars}
     				
@@ -96,7 +100,7 @@
     				
     					For the binary systems
     
-    
+\end{comment}
     
     
 \end{document}

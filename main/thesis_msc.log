@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  4 JUN 2019 00:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  24 JUN 2019 12:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1290,7 +1290,7 @@ LaTeX Info: Redefining \nameref on input line 145.
 \openout5 = `thesis_msc.out'.
 
 
-<../figures/aifa_logo.png, id=139, 96.36pt x 39.9894pt>
+<../figures/aifa_logo.png, id=127, 96.36pt x 39.9894pt>
 File: ../figures/aifa_logo.png Graphic file (type png)
 
 <use ../figures/aifa_logo.png>
@@ -1311,7 +1311,7 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 156.
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-<../figures/uni_logo.png, id=140, 1027.84pt x 396.48125pt>
+<../figures/uni_logo.png, id=128, 1027.84pt x 396.48125pt>
 File: ../figures/uni_logo.png Graphic file (type png)
 
 <use ../figures/uni_logo.png>
@@ -1359,16 +1359,17 @@ Missing character: There is no ù in font cmr12!
 ]) [11] [12
 
 ]
-(./thesis_msc.toc [13])
+(./thesis_msc.toc)
 \tf@toc=\write6
 \openout6 = `thesis_msc.toc'.
 
- [14] (./thesis_msc.lof)
+ [13] [14
+
+] (./thesis_msc.lof)
 \tf@lof=\write7
 \openout7 = `thesis_msc.lof'.
 
  [15
-
 
 ] [16
 
@@ -1385,7 +1386,7 @@ Chapter 1.
 
 
 ]
-<../figures/chapter1/T_rho_plane_ch1_shaded.png, id=350, 905.784pt x 632.6034pt
+<../figures/chapter1/T_rho_plane_ch1_shaded.png, id=333, 905.784pt x 632.6034pt
 >
 File: ../figures/chapter1/T_rho_plane_ch1_shaded.png Graphic file (type png)
  <use ../figures/chapter1/T_rho_plane_ch1_shaded.png>
@@ -1396,7 +1397,7 @@ Package pdftex.def Info: ../figures/chapter1/T_rho_plane_ch1_shaded.png used on
 Underfull \vbox (badness 1496) has occurred while \output is active []
 
  [3 <../figures/chapter1/T_rho_plane_ch1_shaded.png>]
-<../figures/chapter1/Kippenhahn_intro.png, id=378, 850.8588pt x 573.5829pt>
+<../figures/chapter1/Kippenhahn_intro.png, id=361, 850.8588pt x 573.5829pt>
 File: ../figures/chapter1/Kippenhahn_intro.png Graphic file (type png)
 
 <use ../figures/chapter1/Kippenhahn_intro.png>
@@ -1410,7 +1411,7 @@ Underfull \vbox (badness 1596) has occurred while \output is active []
 Underfull \vbox (badness 2591) has occurred while \output is active []
 
  [6]
-<../figures/chapter1/equipotentials_mu_0_316.png, id=520, 605.3817pt x 596.9502
+<../figures/chapter1/equipotentials_mu_0_316.png, id=503, 605.3817pt x 596.9502
 pt>
 File: ../figures/chapter1/equipotentials_mu_0_316.png Graphic file (type png)
  <use ../figures/chapter1/equipotentials_mu_0_316.png>
@@ -1418,7 +1419,7 @@ Package pdftex.def Info: ../figures/chapter1/equipotentials_mu_0_316.png used o
 n input line 157.
 (pdftex.def)             Requested size: 222.997pt x 219.88437pt.
 
-<../figures/chapter1/3Dequipotentials_transparent.png, id=521, 1063.975pt x 106
+<../figures/chapter1/3Dequipotentials_transparent.png, id=504, 1063.975pt x 106
 3.975pt>
 File: ../figures/chapter1/3Dequipotentials_transparent.png Graphic file (type p
 ng)
@@ -1432,7 +1433,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7] [8 <../figures/chapter1/equipotentials_mu_0_316.png> <../figures/chapter1/3
 Dequipotentials_transparent.png>] [9]
-<../figures/chapter1/DNS_formation_transparent.png, id=611, 240.4182pt x 294.37
+<../figures/chapter1/DNS_formation_transparent.png, id=594, 240.4182pt x 294.37
 98pt>
 File: ../figures/chapter1/DNS_formation_transparent.png Graphic file (type png)
 
@@ -1444,7 +1445,7 @@ Package pdftex.def Info: ../figures/chapter1/DNS_formation_transparent.png used
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10] <../figures/chapter1/SNeClass.pdf, id=635, 739.76375pt x 279.0425pt>
+[10] <../figures/chapter1/SNeClass.pdf, id=618, 739.76375pt x 279.0425pt>
 File: ../figures/chapter1/SNeClass.pdf Graphic file (type pdf)
 
 <use ../figures/chapter1/SNeClass.pdf>
@@ -1460,12 +1461,12 @@ r1/SNeClass.pdf>]) (../chapters/chapter2/chapter2.tex [13] [14]
 Chapter 2.
 [15
 
-] [16]) (../chapters/chapter3/chapter3.tex [17] [18
+]) (../chapters/chapter3/chapter3.tex [16]
+Chapter 3.
+[17
 
 ]
-Chapter 3.
-[19]
-<../figures/chapter3/radius_evolution_gradient.png, id=831, 1084.05pt x 794.97p
+<../figures/chapter3/radius_evolution_gradient.png, id=770, 1084.05pt x 794.97p
 t>
 File: ../figures/chapter3/radius_evolution_gradient.png Graphic file (type png)
 
@@ -1477,15 +1478,15 @@ Package pdftex.def Info: ../figures/chapter3/radius_evolution_gradient.png used
 (../chapters/chapter4/chapter4.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20 <../figures/chapter3/radius_evolution_gradient.png>] [21] [22
+ [18 <../figures/chapter3/radius_evolution_gradient.png>] [19] [20
 
 ]
 Chapter 4.
-) (../chapters/chapter5/chapter5.tex [23] [24
+) (../chapters/chapter5/chapter5.tex [21] [22
 
 ]
 Chapter 5.
-) (./thesis_msc.bbl [25] [26
+) (./thesis_msc.bbl [23] [24
 
 ]
 ! Undefined control sequence.
@@ -1497,7 +1498,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[27] [28]
+[25] [26]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ° in font cmr10!
 Missing character: There is no √ in font cmr10!
@@ -1509,7 +1510,7 @@ Missing character: There is no ° in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
- [29]
+ [27]
 ! Undefined control sequence.
 l.520   [\eprint
                 [arXiv]{0811.0455}]
@@ -1519,47 +1520,46 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) [30]
+) [28]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 329.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 329.
  (./thesis_msc.xwm) (./thesis_msc.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 329.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 329.
 Package rerunfilecheck Info: File `thesis_msc.out' has not changed.
-(rerunfilecheck)             Checksum: AD6B1D516C7E22266F8D88D8ABCBC610;2146.
+(rerunfilecheck)             Checksum: A1DA3573734CA16FCA4A21319CDD036E;1945.
  ) 
 Here is how much of TeX's memory you used:
- 38858 strings out of 493104
- 898147 string characters out of 6139412
- 1194920 words of memory out of 5000000
- 41425 multiletter control sequences out of 15000+600000
+ 38843 strings out of 493104
+ 897932 string characters out of 6139412
+ 1194732 words of memory out of 5000000
+ 41414 multiletter control sequences out of 15000+600000
  21555 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,14n,92p,9876b,705s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,13n,92p,9876b,705s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/cbfonts/grmi1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/symbols/msam10.pfb>
-Output written on thesis_msc.pdf (48 pages, 2365579 bytes).
+ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/cbfonts/grmi1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/symbols/msam10.pfb>
+Output written on thesis_msc.pdf (46 pages, 2342251 bytes).
 PDF statistics:
- 1005 PDF objects out of 1200 (max. 8388607)
- 900 compressed objects within 9 object streams
- 223 named destinations out of 1000 (max. 500000)
- 322 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 948 PDF objects out of 1000 (max. 8388607)
+ 846 compressed objects within 9 object streams
+ 219 named destinations out of 1000 (max. 500000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
 
