@@ -6,12 +6,13 @@
 
 \usepackage{titlesec}
 
+
 \titleformat{\chapter}[display]
   {\normalfont\bfseries\huge}
   {\begin{flushright}
   \chaptertitlename~\thechapter
   \end{flushright}}{1pc}
-  {{\color{Brown}\titlerule[2pt]}\vspace{1pc}\MakeUppercase}
+  {{\color{RoyalBlue}\titlerule[2pt]}\vspace{1pc}\MakeUppercase}
 \titleformat{name=\chapter,numberless}[display]
   {\normalfont\bfseries\LARGE}{}{1pc}
   {\MakeUppercase}
@@ -140,7 +141,9 @@
 
 % Inline enumerated lists
 \usepackage[inline]{enumitem}
-
+\usepackage{pdfpages}
+%\includepdfset{offset=0.7cm -0cm}
+%\usepackage[fulladjust]{marginnote}
 
 \begin{document}
     \frontmatter  % front and main matter to make roman numbers in between.
@@ -267,7 +270,7 @@
     \vspace{1.5cm}
     When Pythagoras was asked [about the purpose \\
     for which humans were created], he said, \\
-    "To look upon the heavens"
+    ``To look upon the heavens"
     \end{flushright}
     \end{mygreek}
 
@@ -311,7 +314,7 @@
     \subfile{../chapters/chapter2/chapter2}
     \subfile{../chapters/chapter3/chapter3}
     \subfile{../chapters/chapter4/chapter4}
-    \subfile{../chapters/chapter5/chapter5}
+    %\subfile{../chapters/chapter5/chapter5}
 
     % APPENDICES
     \appendix
