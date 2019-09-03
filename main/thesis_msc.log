@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  12 AUG 2019 01:10
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.10.17)  3 SEP 2019 15:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1360,7 +1360,7 @@ Chapter 2.
 Chapter 3.
 [17
 
-] [18]
+] [18] [19]
 File: Supernovae.pdf Graphic file (type QTm)
  <use  "Supernovae.pdf" >
 File: Supernovae.pdf Graphic file (type QTm)
@@ -1377,14 +1377,14 @@ File: Supernovae.pdf Graphic file (type QTm)
  <use  "Supernovae.pdf"  page1>
 File: Supernovae.pdf Graphic file (type QTm)
 
-<use  "Supernovae.pdf"  page1> [19]
+<use  "Supernovae.pdf"  page1> [20]
 File: Supernovae.pdf Graphic file (type QTm)
  <use  "Supernovae.pdf"  page2>
 File: Supernovae.pdf Graphic file (type QTm)
 
 <use  "Supernovae.pdf"  page2>
 File: Supernovae.pdf Graphic file (type QTm)
- <use  "Supernovae.pdf"  page2> [20]
+ <use  "Supernovae.pdf"  page2> [21]
 File: Supernovae.pdf Graphic file (type QTm)
 
 <use  "Supernovae.pdf"  page3>
@@ -1392,14 +1392,14 @@ File: Supernovae.pdf Graphic file (type QTm)
  <use  "Supernovae.pdf"  page3>
 File: Supernovae.pdf Graphic file (type QTm)
 
-<use  "Supernovae.pdf"  page3> [21]
+<use  "Supernovae.pdf"  page3> [22]
 File: Supernovae.pdf Graphic file (type QTm)
  <use  "Supernovae.pdf"  page4>
 File: Supernovae.pdf Graphic file (type QTm)
 
 <use  "Supernovae.pdf"  page4>
 File: Supernovae.pdf Graphic file (type QTm)
- <use  "Supernovae.pdf"  page4> [22]
+ <use  "Supernovae.pdf"  page4> [23]
 File: Supernovae.pdf Graphic file (type QTm)
 
 <use  "Supernovae.pdf"  page5>
@@ -1407,17 +1407,32 @@ File: Supernovae.pdf Graphic file (type QTm)
  <use  "Supernovae.pdf"  page5>
 File: Supernovae.pdf Graphic file (type QTm)
 
-<use  "Supernovae.pdf"  page5> [23]
+<use  "Supernovae.pdf"  page5> [24]
 File: Supernovae.pdf Graphic file (type QTm)
  <use  "Supernovae.pdf"  page6>
 File: Supernovae.pdf Graphic file (type QTm)
 
 <use  "Supernovae.pdf"  page6>
 File: Supernovae.pdf Graphic file (type QTm)
- <use  "Supernovae.pdf"  page6> [24] [25]
-File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
+ <use  "Supernovae.pdf"  page6> [25]
+File: Supernovae.pdf Graphic file (type QTm)
 
-<use  "HeliumStars_SNeIa.pdf" >
+<use  "Supernovae.pdf"  page7>
+File: Supernovae.pdf Graphic file (type QTm)
+ <use  "Supernovae.pdf"  page7>
+File: Supernovae.pdf Graphic file (type QTm)
+
+<use  "Supernovae.pdf"  page7> [26]
+File: Supernovae.pdf Graphic file (type QTm)
+ <use  "Supernovae.pdf"  page8>
+File: Supernovae.pdf Graphic file (type QTm)
+
+<use  "Supernovae.pdf"  page8>
+File: Supernovae.pdf Graphic file (type QTm)
+ <use  "Supernovae.pdf"  page8> [27] [28]
+[29]
+File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
+ <use  "HeliumStars_SNeIa.pdf" >
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
  <use  "HeliumStars_SNeIa.pdf" >
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
@@ -1432,7 +1447,7 @@ File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
  <use  "HeliumStars_SNeIa.pdf"  page1>
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
-<use  "HeliumStars_SNeIa.pdf"  page1> [26]
+<use  "HeliumStars_SNeIa.pdf"  page1> [30]
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
 <use  "HeliumStars_SNeIa.pdf"  page2>
@@ -1440,7 +1455,7 @@ File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
  <use  "HeliumStars_SNeIa.pdf"  page2>
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
-<use  "HeliumStars_SNeIa.pdf"  page2> [27]
+<use  "HeliumStars_SNeIa.pdf"  page2> [31]
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
 <use  "HeliumStars_SNeIa.pdf"  page3>
@@ -1448,7 +1463,7 @@ File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
  <use  "HeliumStars_SNeIa.pdf"  page3>
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
-<use  "HeliumStars_SNeIa.pdf"  page3> [28]
+<use  "HeliumStars_SNeIa.pdf"  page3> [32]
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
 <use  "HeliumStars_SNeIa.pdf"  page4>
@@ -1456,7 +1471,7 @@ File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
  <use  "HeliumStars_SNeIa.pdf"  page4>
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
-<use  "HeliumStars_SNeIa.pdf"  page4> [29]
+<use  "HeliumStars_SNeIa.pdf"  page4> [33]
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
 <use  "HeliumStars_SNeIa.pdf"  page5>
@@ -1464,7 +1479,7 @@ File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
  <use  "HeliumStars_SNeIa.pdf"  page5>
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
-<use  "HeliumStars_SNeIa.pdf"  page5> [30]
+<use  "HeliumStars_SNeIa.pdf"  page5> [34]
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
 <use  "HeliumStars_SNeIa.pdf"  page6>
@@ -1472,7 +1487,7 @@ File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
  <use  "HeliumStars_SNeIa.pdf"  page6>
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
-<use  "HeliumStars_SNeIa.pdf"  page6> [31]
+<use  "HeliumStars_SNeIa.pdf"  page6> [35]
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
 <use  "HeliumStars_SNeIa.pdf"  page7>
@@ -1480,7 +1495,7 @@ File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
  <use  "HeliumStars_SNeIa.pdf"  page7>
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
-<use  "HeliumStars_SNeIa.pdf"  page7> [32]
+<use  "HeliumStars_SNeIa.pdf"  page7> [36]
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
 <use  "HeliumStars_SNeIa.pdf"  page8>
@@ -1488,7 +1503,7 @@ File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
  <use  "HeliumStars_SNeIa.pdf"  page8>
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
-<use  "HeliumStars_SNeIa.pdf"  page8> [33]
+<use  "HeliumStars_SNeIa.pdf"  page8> [37]
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
 <use  "HeliumStars_SNeIa.pdf"  page9>
@@ -1496,11 +1511,11 @@ File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
  <use  "HeliumStars_SNeIa.pdf"  page9>
 File: HeliumStars_SNeIa.pdf Graphic file (type QTm)
 
-<use  "HeliumStars_SNeIa.pdf"  page9> [34]) (../chapters/chapter4/chapter4.tex
+<use  "HeliumStars_SNeIa.pdf"  page9> [38]) (../chapters/chapter4/chapter4.tex
 Chapter 4.
-) (./thesis_msc.bbl [35
+) (./thesis_msc.bbl [39
 
-] [36
+] [40
 
 ]
 ! Undefined control sequence.
@@ -1512,7 +1527,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[37] [38] [39]
+[41] [42] [43]
 ! Undefined control sequence.
 l.520   [\eprint
                 [arXiv]{0811.0455}]
@@ -1522,7 +1537,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) [40]
+) [44]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 332.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 332.
  (./thesis_msc.xwm) (./thesis_msc.aux)
@@ -1532,14 +1547,17 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 332.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 42936 strings out of 493005
- 967204 string characters out of 6134595
- 1267154 words of memory out of 5000000
- 46130 multiletter control sequences out of 15000+600000
+ 42938 strings out of 493005
+ 967232 string characters out of 6134595
+ 1267315 words of memory out of 5000000
+ 46132 multiletter control sequences out of 15000+600000
  28389 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  64i,19n,111p,9876b,749s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis_msc.pdf (58 pages).
+Output written on thesis_msc.pdf (62 pages).
