@@ -6,6 +6,11 @@
 
 \usepackage{titlesec}
 
+% Set the depth and numbering
+% for table of contents (toc)
+\setcounter{tocdepth}{5}
+\setcounter{secnumdepth}{2}
+
 
 \titleformat{\chapter}[display]
   {\normalfont\bfseries\huge}
@@ -117,9 +122,20 @@
    \clearpage}
 
 
+% DRAFT MODE: uncomment this for draft mode!
+\usepackage[printwatermark]{xwatermark}
+%\newwatermark[allpages,color=red!10,angle=45,scale=3,xpos=0,ypos=0]{DRAFT}
+
+% Inline enumerated lists
+\usepackage[inline]{enumitem}
+\usepackage{pdfpages}
+%\includepdfset{offset=0.7cm -0cm}
+%\usepackage[fulladjust]{marginnote}
+
 % PDF CONFIGURATION
 \usepackage{hyperref}
 \hypersetup{
+	breaklinks,
     pdffitwindow=true,
     pdfstartview={FitH},
     pdftitle={MSc Thesis},                    % TITLE
@@ -135,18 +151,10 @@
     urlcolor=blue
     }
 
-% DRAFT MODE: uncomment this for draft mode!
-\usepackage[printwatermark]{xwatermark}
-%\newwatermark[allpages,color=red!10,angle=45,scale=3,xpos=0,ypos=0]{DRAFT}
-
-% Inline enumerated lists
-\usepackage[inline]{enumitem}
-\usepackage{pdfpages}
-%\includepdfset{offset=0.7cm -0cm}
-%\usepackage[fulladjust]{marginnote}
-
 \begin{document}
     \frontmatter  % front and main matter to make roman numbers in between.
+    
+
 
     % FIRST PAGE TITLE
     \pdfbookmark[0]{Cover}{title}
@@ -285,16 +293,24 @@
     \subfile{../acknowledgments/acknowledgments}
 
     % TABLE OF CONTENT
-    %\cleardoublepage
-    %\phantomsection
-    %\addcontentsline{toc}{chapter}{Contents}
-    \tableofcontents
+    \cleardoublepage
+    \phantomsection
+    \addcontentsline{toc}{chapter}{Contents}
+    
+    % CHANGE COLOR LINK FOR TOC ONLY
+{
+  \hypersetup{linkcolor=black, pdfborder=0 0 1}
+  \tableofcontents
+}
 
     % LIST OF FIGURES
     \cleardoublepage
     \phantomsection
     \addcontentsline{toc}{chapter}{List of Figures}
+{
+	\hypersetup{linkcolor=black, pdfborder=0 0 1}
     \listoffigures
+}
 
     % LIST OF TABLES
     %\cleardoublepage
@@ -325,7 +341,7 @@
     % REFERENCES
     % If you are using a windows machine and the bibliography doesn't work
     % remove the extension for .bst and .bib files here!
-    \bibliographystyle{../bibliography/bibstyle_aa.bst}
+    \bibliographystyle{../bibliography/bibstyle_apj.bst}
     \bibliography{../bibliography/bibfile_thesis}
     \addcontentsline{toc}{chapter}{Bibliography}
 

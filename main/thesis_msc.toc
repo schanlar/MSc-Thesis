@@ -3,32 +3,53 @@
 \select@language {english}
 \select@language {greek}
 \select@language {english}
-\contentsline {chapter}{List of Figures}{\textlatin {xv}}{section*.5}
+\contentsline {chapter}{Contents}{{\fontencoding {TU}\selectfont xiii}}{section*.4}
+\contentsline {chapter}{List of Figures}{{\fontencoding {TU}\selectfont xv}}{section*.6}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Helium stars}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Formation of helium stars}{2}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Evolution of single helium stars}{2}{subsection.1.1.2}
-\contentsline {subsubsection}{Mixing mechanisms}{4}{subsubsection*.9}
-\contentsline {subsubsection}{Effects of rotation}{5}{subsubsection*.10}
-\contentsline {subsubsection}{Stellar winds and mass loss}{6}{subsubsection*.11}
+\contentsline {subsubsection}{Mixing mechanisms}{4}{subsubsection*.10}
+\contentsline {subsubsection}{Effects of rotation}{5}{subsubsection*.11}
+\contentsline {subsubsection}{Stellar winds and mass loss}{5}{subsubsection*.12}
 \contentsline {section}{\numberline {1.2}Evolution of binary systems}{6}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Interaction and orbital parameters}{7}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.1}Interaction and orbital parameters}{6}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Mass transfer}{8}{subsection.1.2.2}
 \contentsline {subsection}{\numberline {1.2.3}Common envelope}{9}{subsection.1.2.3}
 \contentsline {subsection}{\numberline {1.2.4}Angular momentum losses}{9}{subsection.1.2.4}
 \contentsline {subsection}{\numberline {1.2.5}Double neutron star systems}{10}{subsection.1.2.5}
 \contentsline {section}{\numberline {1.3}Stellar transients}{10}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Explosion Mechanisms}{11}{subsection.1.3.1}
-\contentsline {subsubsection}{Iron core collapse SNe (Fe-CCSNe)}{11}{subsubsection*.15}
-\contentsline {subsubsection}{Electron capture SNe (ECSNe)}{12}{subsubsection*.16}
-\contentsline {subsubsection}{Pair instability SNe (PISNe)}{13}{subsubsection*.17}
+\contentsline {subsection}{\numberline {1.3.1}Explosion Mechanisms}{10}{subsection.1.3.1}
+\contentsline {subsubsection}{Iron core collapse SNe (Fe-CCSNe)}{11}{subsubsection*.16}
+\contentsline {subsubsection}{Electron capture SNe (ECSNe)}{12}{subsubsection*.17}
+\contentsline {subsubsection}{Pair instability SNe (PISNe)}{13}{subsubsection*.18}
 \contentsline {subsection}{\numberline {1.3.2}Type Ia Supernovae}{13}{subsection.1.3.2}
 \contentsline {subsection}{\numberline {1.3.3}Type Ib/c Supernovae}{13}{subsection.1.3.3}
 \contentsline {section}{\numberline {1.4}Thesis Outline}{14}{section.1.4}
 \contentsline {chapter}{\numberline {2}Methods}{15}{chapter.2}
 \contentsline {section}{\numberline {2.1}Modules for Experiments in Stellar Astrophysics}{15}{section.2.1}
 \contentsline {chapter}{\numberline {3}Results}{17}{chapter.3}
-\contentsline {section}{\numberline {3.1}Type-Ia Supernovae from non-accreting progenitors}{17}{section.3.1}
-\contentsline {section}{\numberline {3.2}Helium Stars as Progenitors of Thermonuclear Supernovae}{27}{section.3.2}
+\contentsline {section}{\numberline {3.1}\ignorespaces Type-Ia supernovae from non-accreting progenitors}{19}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}\ignorespaces Introduction}{19}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}\ignorespaces (C)NeO cores: formation and evolution}{20}{subsection.3.1.2}
+\contentsline {subsubsection}{\ignorespaces Numerical calculations: input physics}{20}{section*.19}
+\contentsline {subsubsection}{\ignorespaces Simulation results}{20}{section*.20}
+\contentsline {subsubsection}{\ignorespaces Late evolution and thermonuclear runaway}{22}{section*.21}
+\contentsline {subsubsection}{\ignorespaces Energetics and nucleosynthesis}{22}{section*.22}
+\contentsline {subsection}{\numberline {3.1.3}\ignorespaces Expected rates and delay times}{22}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}\ignorespaces Summary}{24}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}\ignorespaces Helium stars as progenitors of thermonuclear supernovae}{28}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}\ignorespaces Introduction}{28}{subsection.3.2.1}
+\contentsline {subsubsection}{\ignorespaces Thermonuclear supernovae}{29}{section*.23}
+\contentsline {subsubsection}{\ignorespaces The Urca process}{29}{section*.24}
+\contentsline {subsection}{\numberline {3.2.2}\ignorespaces Stellar evolution code and initial parameter space}{30}{subsection.3.2.2}
+\contentsline {subsubsection}{\ignorespaces Physical assumptions}{30}{section*.25}
+\contentsline {subsection}{\numberline {3.2.3}\ignorespaces Results}{30}{subsection.3.2.3}
+\contentsline {subsubsection}{\ignorespaces Overview of the evolution}{30}{section*.26}
+\contentsline {subsubsection}{\ignorespaces Core growth and structure}{31}{section*.27}
+\contentsline {subsubsection}{\ignorespaces Wind and ejection of inflated envelopes}{32}{section*.28}
+\contentsline {subsubsection}{\ignorespaces The role of residual carbon}{32}{section*.29}
+\contentsline {subsubsection}{\ignorespaces Observational consequences}{33}{section*.30}
+\contentsline {subsection}{\numberline {3.2.4}\ignorespaces Discussion and future work}{33}{subsection.3.2.4}
 \contentsline {chapter}{\numberline {4}Outlook}{37}{chapter.4}
-\contentsline {chapter}{Bibliography}{42}{appendix*.18}
+\contentsline {chapter}{Bibliography}{42}{appendix*.31}
