@@ -257,14 +257,14 @@
     \thispagestyle{empty}
 
     % DEDICATION
-    \begin{dedication}
+    %\begin{dedication}
     %\pdfbookmark[0]{Dedication}{dedication}
-    To my Loved Ones
-    \end{dedication}
+    %To my Loved Ones
+    %\end{dedication}
 
-    \newpage  % Inserting empty page
-    \mbox{}
-    \thispagestyle{empty}
+    %\newpage  % Inserting empty page
+    %\mbox{}
+    %\thispagestyle{empty}
 
     
     % GREEK TEXT
@@ -282,20 +282,22 @@
     \end{flushright}
     \end{mygreek}
 
-    \newpage  % Inserting empty page
-    \mbox{}
-    \thispagestyle{empty}
+    %\newpage  % Inserting empty page
+    %\mbox{}
+    %\thispagestyle{empty}
 
     % ABSTRACT
     \subfile{../abstract/abstract}
+    \addcontentsline{toc}{chapter}{Abstract}
 
     % ACKNOWLEDGMENTS
     \subfile{../acknowledgments/acknowledgments}
+    \addcontentsline{toc}{chapter}{Acknowledgments}
 
     % TABLE OF CONTENT
     \cleardoublepage
     \phantomsection
-    \addcontentsline{toc}{chapter}{Contents}
+    %\addcontentsline{toc}{chapter}{Contents}
     
     % CHANGE COLOR LINK FOR TOC ONLY
 {
