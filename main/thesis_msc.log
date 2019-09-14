@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  14 SEP 2019 19:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  15 SEP 2019 00:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1708,7 +1708,7 @@ Package rerunfilecheck Info: File `thesis_msc.out' has not changed.
 Here is how much of TeX's memory you used:
  39640 strings out of 493104
  911689 string characters out of 6139412
- 1208287 words of memory out of 5000000
+ 1208285 words of memory out of 5000000
  42172 multiletter control sequences out of 15000+600000
  21254 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1740,7 +1740,7 @@ hare/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on thesis_msc.pdf (56 pages, 3280977 bytes).
+Output written on thesis_msc.pdf (56 pages, 3281203 bytes).
 PDF statistics:
  1525 PDF objects out of 1728 (max. 8388607)
  1325 compressed objects within 14 object streams
