@@ -53,5 +53,5 @@
 \contentsline {subsubsection}{\ignorespaces The role of residual carbon}{32}{section*.29}
 \contentsline {subsubsection}{\ignorespaces Observational consequences}{33}{section*.30}
 \contentsline {subsection}{\numberline {3.2.4}\ignorespaces Discussion and future work}{33}{subsection.3.2.4}
-\contentsline {chapter}{\numberline {4}Conclusions and Outlook}{37}{chapter.4}
-\contentsline {chapter}{Bibliography}{42}{appendix*.31}
+\contentsline {chapter}{\numberline {4}Conclusions and Outlook}{39}{chapter.4}
+\contentsline {chapter}{Bibliography}{44}{appendix*.31}
