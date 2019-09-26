@@ -17,7 +17,7 @@
   {\begin{flushright}
   \chaptertitlename~\thechapter
   \end{flushright}}{1pc}
-  {{\color{RoyalBlue}\titlerule[2pt]}\vspace{1pc}\MakeUppercase}
+  {{\color{MidnightBlue}\titlerule[2pt]}\vspace{1pc}\MakeUppercase}
 \titleformat{name=\chapter,numberless}[display]
   {\normalfont\bfseries\LARGE}{}{1pc}
   {\MakeUppercase}
@@ -133,6 +133,7 @@
 %\usepackage[fulladjust]{marginnote}
 
 % PDF CONFIGURATION
+\definecolor{xlinkcolor}{cmyk}{1,1,0,0}
 \usepackage{hyperref}
 \hypersetup{
 	breaklinks,
@@ -146,8 +147,8 @@
     pdfkeywords={Astronomy, Astrophysics},
     pdfnewwindow=true,
     colorlinks=true,                          % COMMENT FOR BLACK LINKS
-    linkcolor=Mahogany,
-    citecolor=RoyalBlue,
+    linkcolor=xlinkcolor,
+    citecolor=xlinkcolor,
     urlcolor=blue
     }
 
