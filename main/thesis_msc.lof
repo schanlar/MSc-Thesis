@@ -11,4 +11,9 @@
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Basic classification of supernovae based on their spectra lines. Further sub-groups can be identified if we take into consideration the behavior of their light curves. Type Ia (here marked with a blue circle) is associated with thermonuclear runaway reactions rather than core collapse (red circles).\relax }}{12}{figure.caption.15}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Kippenhahn diagrams following the evolution of \textsc {m1} (left) and \textsc {m2} after core helium depletion. Colored areas indicate regions in which nuclear burning occurs, i.e. locations for which the nuclear energy $\epsilon _{\rm nuc}$ exceeds energy losses due to neutrion emission, $\epsilon _\nu $.\relax }}{20}{figure.caption.19}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Evolution of the core density and temperature for \textsc {m1} and \textsc {m2}. The dashed line shows the approximate boundary for electron degeneracy. Burning thresholds for a 100\% abundace of the corresponding species are indicated with dotted lines. The NSE threshold assumes an equilibrium timescale of 1\tmspace +\thinmuskip {.1667em}s.\relax }}{21}{figure.caption.20}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Density profiles at maximum compactness (solid lines) and at the end of our {\textsc {mesa}}\xspace calculations (dashed lines). Regions indicating approximate burning regimes as in \cite {Seitenzahl2017}.\relax }}{23}{figure.caption.21}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Overview of the different systems contributing to the SN\tmspace +\thinmuskip {.1667em}Ia\xspace channel discussed here, on the mass-mass plane (see text).\relax }}{24}{figure.caption.22}
+\addvspace {10\p@ }
 \addvspace {10\p@ }

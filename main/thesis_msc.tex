@@ -13,7 +13,7 @@
 
 
 \titleformat{\chapter}[display]
-  {\normalfont\bfseries\huge}
+  {\normalfont\bfseries\LARGE}
   {\begin{flushright}
   \chaptertitlename~\thechapter
   \end{flushright}}{1pc}
@@ -151,7 +151,7 @@
     citecolor=xlinkcolor,
     urlcolor=blue
     }
-
+\input{definitions.tex}
 \begin{document}
     \frontmatter  % front and main matter to make roman numbers in between.
     
@@ -333,7 +333,7 @@
     \subfile{../chapters/chapter2/chapter2}
     \subfile{../chapters/chapter3/chapter3}
     \subfile{../chapters/chapter4/chapter4}
-    %\subfile{../chapters/chapter5/chapter5}
+    \subfile{../chapters/chapter5/chapter5}
 
     % APPENDICES
     \appendix
