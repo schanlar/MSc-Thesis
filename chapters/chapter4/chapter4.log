@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  19 SEP 2019 17:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  27 SEP 2019 13:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1101,12 +1101,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip70
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 152.
-Package hyperref Info: Option `pdffitwindow' set `true' on input line 152.
-Package hyperref Info: Option `pdfnewwindow' set `true' on input line 152.
-Package hyperref Info: Option `colorlinks' set `true' on input line 152.
-))
-(./chapter4.aux)
+Package hyperref Info: Option `breaklinks' set `true' on input line 153.
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 153.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 153.
+Package hyperref Info: Option `colorlinks' set `true' on input line 153.
+
+(./definitions.tex))) (./chapter4.aux)
 \openout1 = `chapter4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -1123,7 +1123,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 4.
 LaTeX Font Info:    Try loading font information for LGR+cmr on input line 4.
- (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 4.
@@ -1131,6 +1132,7 @@ LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count190
@@ -1198,49 +1200,339 @@ LaTeX Info: Redefining \nameref on input line 4.
 
 
 Chapter 1.
-LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+
+Overfull \hbox (7.5413pt too wide) in paragraph at lines 6--6
+\OT1/cmr/bx/n/17.28 CLEAR SU-PER-NOVAE: DE-PEN-DENCE ON METAL-LIC-
+ []
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 15.
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 15.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+)
+
+Package natbib Warning: Citation `Ritossa1996' on page 1 undefined on input lin
+e 21.
+
+
+Package natbib Warning: Citation `Ritossa1999' on page 1 undefined on input lin
+e 21.
+
+
+Package natbib Warning: Citation `GilPons2005' on page 1 undefined on input lin
+e 21.
+
+
+Package natbib Warning: Citation `siess2006' on page 1 undefined on input line 
+21.
+
+
+Package natbib Warning: Citation `Poelarends2008' on page 1 undefined on input 
+line 21.
+
+
+Package natbib Warning: Citation `Farmer:2015afs' on page 1 undefined on input 
+line 21.
+
+
+Package natbib Warning: Citation `Timmes_1994' on page 1 undefined on input lin
+e 21.
+
+
+Package natbib Warning: Citation `siess2006' on page 1 undefined on input line 
+21.
+
+
+Package natbib Warning: Citation `Siess2009' on page 1 undefined on input line 
+21.
+
+
+Package natbib Warning: Citation `Denissenkov:2013qaa' on page 1 undefined on i
+nput line 21.
+
+
+Package natbib Warning: Citation `Farmer:2015afs' on page 1 undefined on input 
+line 21.
+
+
+Package natbib Warning: Citation `Nomoto1984' on page 1 undefined on input line
+ 23.
+
+
+Package natbib Warning: Citation `Fischer2010' on page 1 undefined on input lin
+e 24.
+
+
+Package natbib Warning: Citation `Knigge2011' on page 1 undefined on input line
+ 24.
+
+
+Package natbib Warning: Citation `Jones_2013' on page 1 undefined on input line
+ 24.
+
+
+Package natbib Warning: Citation `Jones2016' on page 1 undefined on input line 
+24.
+
+[1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 31.
+
+Package natbib Warning: Citation `nomoto1991' on page 2 undefined on input line
+ 26.
+
+
+Package natbib Warning: Citation `Schwab:2015bma' on page 2 undefined on input 
+line 26.
+
+
+Package natbib Warning: Citation `Brooks2017a' on page 2 undefined on input lin
+e 26.
+
+
+Package natbib Warning: Citation `Schwab:2018cnb' on page 2 undefined on input 
+line 26.
+
+
+Package natbib Warning: Citation `Tauris2013' on page 2 undefined on input line
+ 29.
+
+
+Package natbib Warning: Citation `Tauris2015' on page 2 undefined on input line
+ 29.
+
+
+Package natbib Warning: Citation `Moriya2014' on page 2 undefined on input line
+ 29.
+
+
+Package natbib Warning: Citation `Jones2016' on page 2 undefined on input line 
+33.
+
+
+Package natbib Warning: Citation `Jones2019' on page 2 undefined on input line 
+33.
+
+
+Package natbib Warning: Citation `Hillebrandt2000' on page 2 undefined on input
+ line 35.
+
+
+Package natbib Warning: Citation `Wang2012' on page 2 undefined on input line 3
+5.
+
+
+Package natbib Warning: Citation `Wang2018' on page 2 undefined on input line 3
+5.
+
+
+Package natbib Warning: Citation `Livio2018' on page 2 undefined on input line 
+35.
+
+
+Package natbib Warning: Citation `Gamow1941' on page 2 undefined on input line 
+39.
+
+
+Overfull \hbox (276.91849pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 2 \OT1/cmr/m/sl/10.95 CHAPTER 1.  HELIUM STARS AS PROGENITOR
+S OF THERMONUCLEAR SUPERNOVAE: DEPENDENCE ON METALLICITY AND OVERSHOOTING
+ []
+
+[2]
+
+Package natbib Warning: Citation `Tsuruta1970' on page 3 undefined on input lin
+e 55.
+
+
+Package natbib Warning: Citation `Paczy1972' on page 3 undefined on input line 
+57.
+
+
+Package natbib Warning: Citation `Bruenn1973' on page 3 undefined on input line
+ 57.
+
+
+Package natbib Warning: Citation `Paczy1973' on page 3 undefined on input line 
+59.
+
+
+Package natbib Warning: Citation `Barkat1990' on page 3 undefined on input line
+ 59.
+
+
+Package natbib Warning: Citation `Ritossa1999' on page 3 undefined on input lin
+e 59.
+
+
+Package natbib Warning: Citation `Stein1999' on page 3 undefined on input line 
+59.
+
+
+Package natbib Warning: Citation `Lesaffre2005' on page 3 undefined on input li
+ne 59.
+
+
+Package natbib Warning: Citation `Waldman2007' on page 3 undefined on input lin
+e 59.
+
+
+Package natbib Warning: Citation `Denisseknkov2015' on page 3 undefined on inpu
+t line 59.
+
+
+Package natbib Warning: Citation `Schwab2017' on page 3 undefined on input line
+ 59.
+
+
+LaTeX Warning: Reference `sec:results' on page 3 undefined on input line 61.
+
+
+LaTeX Warning: Reference `sec:discussion' on page 3 undefined on input line 61.
+
+
+
+Package natbib Warning: Citation `Paxton2011' on page 3 undefined on input line
+ 69.
+
+
+Package natbib Warning: Citation `Paxton2013' on page 3 undefined on input line
+ 69.
+
+
+Package natbib Warning: Citation `Paxton2015' on page 3 undefined on input line
+ 69.
+
+
+Package natbib Warning: Citation `Paxton2018' on page 3 undefined on input line
+ 69.
+
+
+Package natbib Warning: Citation `Paxton2019' on page 3 undefined on input line
+ 69.
+
+
+Package natbib Warning: Citation `Grevesse1998' on page 3 undefined on input li
+ne 73.
+
+
+Package natbib Warning: Citation `Herwig2000' on page 3 undefined on input line
+ 73.
+
+[3]
+
+Package natbib Warning: Citation `Suzuki2016' on page 4 undefined on input line
+ 80.
+
+
+Package natbib Warning: Citation `PCR2009' on page 4 undefined on input line 82
+.
+
+
+Package natbib Warning: Citation `Itoh2002' on page 4 undefined on input line 8
+2.
+
+
+Package natbib Warning: Citation `OPAL' on page 4 undefined on input line 82.
+
+
+Package natbib Warning: Citation `Schwab2017' on page 4 undefined on input line
+ 82.
+
+
+Package natbib Warning: Citation `MLT_Henyey' on page 4 undefined on input line
+ 84.
+
+
+Package natbib Warning: Citation `Langer1991' on page 4 undefined on input line
+ 84.
+
+
+Package natbib Warning: Citation `Brown_2013' on page 4 undefined on input line
+ 84.
+
+
+Package natbib Warning: Citation `Langer1983' on page 4 undefined on input line
+ 84.
+
+
+Package natbib Warning: Citation `Kipp_thermohaline' on page 4 undefined on inp
+ut line 84.
+
+
+Package natbib Warning: Citation `Dutch' on page 4 undefined on input line 87.
+
+
+Package natbib Warning: Citation `Nugis2000' on page 4 undefined on input line 
+87.
+
+
+Package natbib Warning: Citation `deJager1988' on page 4 undefined on input lin
+e 87.
+
+
+Underfull \hbox (badness 10000) in alignment at lines 96--107
+[] []
+ []
+
+
+Package natbib Warning: There were undefined citations.
+
+
+Overfull \hbox (276.91849pt too wide) has occurred while \output is active
+\OT1/cmr/m/n/10.95 4 \OT1/cmr/m/sl/10.95 CHAPTER 1.  HELIUM STARS AS PROGENITOR
+S OF THERMONUCLEAR SUPERNOVAE: DEPENDENCE ON METALLICITY AND OVERSHOOTING
+ []
+
+[4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 111.
  (./chapter4.xwm) (./chapter4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 31.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
 Package rerunfilecheck Info: File `chapter4.out' has not changed.
-(rerunfilecheck)             Checksum: 194CC9D0810CAA682BBA59D4FDBA8DF7;58.
+(rerunfilecheck)             Checksum: F79DEBD346DBF3527D12CD93621142A3;507.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 38779 strings out of 493104
- 896722 string characters out of 6139412
- 1148574 words of memory out of 5000000
- 41602 multiletter control sequences out of 15000+600000
- 10246 words of font info for 40 fonts, out of 8000000 for 9000
+ 38962 strings out of 493104
+ 898790 string characters out of 6139412
+ 1151625 words of memory out of 5000000
+ 41757 multiletter control sequences out of 15000+600000
+ 15709 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,6n,94p,821b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on chapter4.pdf (1 page, 64478 bytes).
+ 73i,16n,94p,1466b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+l10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on chapter4.pdf (4 pages, 188894 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

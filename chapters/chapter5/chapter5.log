@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  27 SEP 2019 12:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  27 SEP 2019 12:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**chapter3.tex
-(./chapter3.tex
+**chapter5.tex
+(./chapter5.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 65 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.cls
@@ -942,8 +942,7 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \xwm@boxb=\box63
 \xwm@cnta=\count174
 \xwm@wrt=\write4
- (./chapter3.xwm)
-\openout4 = `chapter3.xwm'.
+\openout4 = `chapter5.xwm'.
 
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
@@ -1122,10 +1121,10 @@ l.154 \input{definitions.tex}
 
  
 Here is how much of TeX's memory you used:
- 37979 strings out of 493104
- 882908 string characters out of 6139412
- 1143654 words of memory out of 5000000
- 40874 multiletter control sequences out of 15000+600000
+ 37974 strings out of 493104
+ 882827 string characters out of 6139412
+ 1143558 words of memory out of 5000000
+ 40871 multiletter control sequences out of 15000+600000
  3940 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,1n,94p,744b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
