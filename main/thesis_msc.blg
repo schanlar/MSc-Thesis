@@ -2,126 +2,122 @@ This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis_msc.aux
 Case mismatch error between cite keys langer1983 and Langer1983
----line 190 of file thesis_msc.aux
+---line 198 of file thesis_msc.aux
  : \citation{langer1983
  :                     }
 I'm skipping whatever remains of this command
-Case mismatch error between cite keys Grevesse1998 and grevesse1998
----line 261 of file thesis_msc.aux
- : \citation{Grevesse1998
- :                       }
+Case mismatch error between cite keys Waldman2008 and waldman2008
+---line 308 of file thesis_msc.aux
+ : \citation{Waldman2008
+ :                      }
+I'm skipping whatever remains of this command
+Case mismatch error between cite keys Brooks2017 and brooks2017
+---line 337 of file thesis_msc.aux
+ : \citation{Brooks2017
+ :                     }
 I'm skipping whatever remains of this command
 The style file: ../bibliography/bibstyle_apj.bst.bst
-Reallocated field_info (elt_size=4) to 10190 items from 5000.
+Reallocated field_info (elt_size=4) to 10730 items from 5000.
 Database file #1: ../bibliography/bibfile_thesis.bib
-Repeated entry---line 2043 of file ../bibliography/bibfile_thesis.bib
- : @article{langer1983
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2331 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2320 of file ../bibliography/bibfile_thesis.bib
  : @article{Owocki:2004zz
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2343 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2332 of file ../bibliography/bibfile_thesis.bib
  : @article{Smith2006
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2478 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2467 of file ../bibliography/bibfile_thesis.bib
  : @article{deJager1988
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2597 of file ../bibliography/bibfile_thesis.bib
- : @article{Grevesse1998
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2621 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2600 of file ../bibliography/bibfile_thesis.bib
  : @article{Herwig2000
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2635 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2614 of file ../bibliography/bibfile_thesis.bib
  : @article{Hillebrandt2000
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2666 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2645 of file ../bibliography/bibfile_thesis.bib
  : @article{Jones2016
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2709 of file ../bibliography/bibfile_thesis.bib
- : @article{Langer1983
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2722 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2689 of file ../bibliography/bibfile_thesis.bib
  : @article{Langer1991
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2806 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2773 of file ../bibliography/bibfile_thesis.bib
  : @article{Nomoto1984
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2821 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2788 of file ../bibliography/bibfile_thesis.bib
  : @article{Nugis2000
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2942 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2909 of file ../bibliography/bibfile_thesis.bib
  : @article{Siess2018
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2981 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2948 of file ../bibliography/bibfile_thesis.bib
  : @article{Tauris2013
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3055 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3022 of file ../bibliography/bibfile_thesis.bib
  : @inproceedings{Waldman2008
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3090 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3057 of file ../bibliography/bibfile_thesis.bib
  : @article{Wang2018
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3123 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3090 of file ../bibliography/bibfile_thesis.bib
  : @article{Wilson1981
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3196 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3163 of file ../bibliography/bibfile_thesis.bib
  : @article{Dutch
  :               ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3215 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3182 of file ../bibliography/bibfile_thesis.bib
  : @article{OPAL
  :              ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3229 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3196 of file ../bibliography/bibfile_thesis.bib
  : @article{MLT_Henyey
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3242 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3209 of file ../bibliography/bibfile_thesis.bib
  : @article{Kipp_thermohaline
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3255 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3222 of file ../bibliography/bibfile_thesis.bib
  : @article{PCR2009
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3270 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3237 of file ../bibliography/bibfile_thesis.bib
  : @article{Itoh2002
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3286 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3253 of file ../bibliography/bibfile_thesis.bib
  : @article{Paxton2011
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3305 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3272 of file ../bibliography/bibfile_thesis.bib
  : @article{Paxton2013
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3325 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3292 of file ../bibliography/bibfile_thesis.bib
  : @article{Paxton2015
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3346 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3313 of file ../bibliography/bibfile_thesis.bib
  : @article{Paxton2018
  :                    ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Denissenkov_2013"
+Warning--I didn't find a database entry for "Farmer_2015"
+Warning--I didn't find a database entry for "Brooks2017b"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Name 1 in "Kippenhahn, R., and Weigert, A., and Weiss, A." has a comma at the end for entry Kipp_book
 while executing---line 1476 of file ../bibliography/bibstyle_apj.bst.bst
@@ -163,45 +159,45 @@ Warning--empty publisher in Maeder2006
 Warning--can't use both author and editor fields in podsiadlowski_2014
 Warning--empty publisher in Seitenzahl2017
 Warning--empty publisher in Tauris_2006
-You've used 173 entries,
+You've used 188 entries,
             3215 wiz_defined-function locations,
-            1920 strings with 59267 characters,
-and the built_in function-call counts, 100914 in all, are:
-= -- 7240
-> -- 8399
-< -- 91
-+ -- 3162
-- -- 2896
-* -- 9405
-:= -- 18431
-add.period$ -- 173
-call.type$ -- 173
-change.case$ -- 1110
-chr.to.int$ -- 172
-cite$ -- 182
-duplicate$ -- 4661
-empty$ -- 6180
-format.name$ -- 3142
-if$ -- 19932
-int.to.chr$ -- 5
+            2027 strings with 62829 characters,
+and the built_in function-call counts, 108892 in all, are:
+= -- 7915
+> -- 8903
+< -- 94
++ -- 3369
+- -- 3083
+* -- 10101
+:= -- 19814
+add.period$ -- 188
+call.type$ -- 188
+change.case$ -- 1213
+chr.to.int$ -- 186
+cite$ -- 197
+duplicate$ -- 5081
+empty$ -- 6711
+format.name$ -- 3344
+if$ -- 21556
+int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 163
-newline$ -- 524
-num.names$ -- 702
-pop$ -- 1699
+missing$ -- 178
+newline$ -- 569
+num.names$ -- 762
+pop$ -- 1851
 preamble$ -- 1
-purify$ -- 1108
+purify$ -- 1211
 quote$ -- 0
-skip$ -- 2919
+skip$ -- 3172
 stack$ -- 0
-substring$ -- 4195
-swap$ -- 157
+substring$ -- 4584
+swap$ -- 171
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1521
+type$ -- 1656
 warning$ -- 9
-while$ -- 827
+while$ -- 896
 width$ -- 0
-write$ -- 1728
-(There were 44 error messages)
+write$ -- 1876
+(There were 42 error messages)

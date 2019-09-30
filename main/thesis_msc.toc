@@ -48,10 +48,10 @@
 \contentsline {section}{\numberline {4.3}Results}{31}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Overview of the Evolution}{31}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Core Growth and Structure}{32}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Wind and Envelope Ejection}{33}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.3}Wind and Envelope Ejection}{35}{subsection.4.3.3}
 \contentsline {subsection}{\numberline {4.3.4}The Role of Residual Carbon}{35}{subsection.4.3.4}
 \contentsline {subsubsection}{Oxygen-Neon Cores}{35}{subsubsection*.28}
 \contentsline {subsubsection}{Hybrid CONeMg Cores}{37}{subsubsection*.30}
 \contentsline {section}{\numberline {4.4}Discussion and Future Work}{37}{section.4.4}
 \contentsline {chapter}{\numberline {5}Conclusions and Outlook}{41}{chapter.5}
-\contentsline {chapter}{Bibliography}{49}{appendix*.32}
+\contentsline {chapter}{Bibliography}{50}{appendix*.32}

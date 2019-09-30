@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  30 SEP 2019 17:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  30 SEP 2019 18:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1502,11 +1502,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
-
-Package natbib Warning: Citation `langer1983' on page 19 undefined on input lin
-e 181.
-
-[19] <../figures/chapter3/Kip_m1.png, id=1048, 799.98875pt x 760.8425pt>
+[19] <../figures/chapter3/Kip_m1.png, id=1050, 799.98875pt x 760.8425pt>
 File: ../figures/chapter3/Kip_m1.png Graphic file (type png)
 
 <use ../figures/chapter3/Kip_m1.png>
@@ -1514,7 +1510,7 @@ Package pdftex.def Info: ../figures/chapter3/Kip_m1.png used on input line 201.
 
 (pdftex.def)             Requested size: 247.77612pt x 235.64977pt.
 
-<../figures/chapter3/Kip_m2.png, id=1049, 799.98875pt x 750.805pt>
+<../figures/chapter3/Kip_m2.png, id=1051, 799.98875pt x 750.805pt>
 File: ../figures/chapter3/Kip_m2.png Graphic file (type png)
 
 <use ../figures/chapter3/Kip_m2.png>
@@ -1527,7 +1523,7 @@ Overfull \hbox (19.99998pt too wide) in paragraph at lines 199--204
  []
 
 [20 <../figures/chapter3/Kip_m1.png> <../figures/chapter3/Kip_m2.png>]
-<../figures/chapter3/Rhoc_vs_Tc.pdf, id=1076, 1445.4pt x 867.24pt>
+<../figures/chapter3/Rhoc_vs_Tc.pdf, id=1078, 1445.4pt x 867.24pt>
 File: ../figures/chapter3/Rhoc_vs_Tc.pdf Graphic file (type pdf)
 
 <use ../figures/chapter3/Rhoc_vs_Tc.pdf>
@@ -1535,18 +1531,15 @@ Package pdftex.def Info: ../figures/chapter3/Rhoc_vs_Tc.pdf used on input line
 262.
 (pdftex.def)             Requested size: 495.55226pt x 297.33228pt.
  [21]
-<../figures/chapter3/composition.pdf, id=1096, 722.7pt x 722.7pt>
+<../figures/chapter3/composition.pdf, id=1098, 722.7pt x 722.7pt>
 File: ../figures/chapter3/composition.pdf Graphic file (type pdf)
 
 <use ../figures/chapter3/composition.pdf>
 Package pdftex.def Info: ../figures/chapter3/composition.pdf used on input line
  312.
 (pdftex.def)             Requested size: 247.77612pt x 247.77689pt.
-
-Underfull \vbox (badness 5652) has occurred while \output is active []
-
- [22 <../figures/chapter3/Rhoc_vs_Tc.pdf>]
-<../figures/chapter3/rates.pdf, id=1152, 1084.05pt x 722.7pt>
+ [22 <../figures/chapter3/Rhoc_vs_Tc.pdf>] <../figures/chapter3/rates.pdf, id=1
+154, 1084.05pt x 722.7pt>
 File: ../figures/chapter3/rates.pdf Graphic file (type pdf)
 
 <use ../figures/chapter3/rates.pdf>
@@ -1567,81 +1560,15 @@ Underfull \hbox (badness 10000) in alignment at lines 104--115
 [] []
  []
 
-[30]
-
-Package natbib Warning: Citation `Antoniadis2019' on page 31 undefined on input
- line 124.
-
-
-Package natbib Warning: Citation `Denissenkov_2013' on page 31 undefined on inp
-ut line 129.
-
-
-Package natbib Warning: Citation `Chen2014' on page 31 undefined on input line 
-129.
-
-
-Package natbib Warning: Citation `Farmer_2015' on page 31 undefined on input li
-ne 129.
-
-
-Package natbib Warning: Citation `Brooks2017b' on page 31 undefined on input li
-ne 129.
-
-
-Package natbib Warning: Citation `Schwab2019b' on page 31 undefined on input li
-ne 129.
-
-
-Package natbib Warning: Citation `Lecoanet2016' on page 31 undefined on input l
-ine 129.
-
-
-Package natbib Warning: Citation `Dominguez1993' on page 31 undefined on input 
-line 131.
-
-[31]
-
-Package natbib Warning: Citation `Schwab2019' on page 32 undefined on input lin
-e 133.
-
-
-Package natbib Warning: Citation `Dominguez1993' on page 32 undefined on input 
-line 133.
-
-
-Package natbib Warning: Citation `Garcia1997' on page 32 undefined on input lin
-e 133.
-
-
-Package natbib Warning: Citation `Gutierrez2005' on page 32 undefined on input 
-line 133.
-
-
-Package natbib Warning: Citation `Willcox2016' on page 32 undefined on input li
-ne 133.
-
-
-Package natbib Warning: Citation `Waldman2008' on page 32 undefined on input li
-ne 133.
-
-
-Package natbib Warning: Citation `Brooks2017b' on page 32 undefined on input li
-ne 137.
-
-
-Package natbib Warning: Citation `Schwab2019b' on page 32 undefined on input li
-ne 137.
-
-
-<../figures/chapter4/Kipp_2p5_0p02_0p0.pdf, id=1465, 850.51566pt x 764.44257pt>
+[30] [31]
+<../figures/chapter4/Kipp_2p5_0p02_0p0.pdf, id=1503, 850.51566pt x 764.44257pt>
 File: ../figures/chapter4/Kipp_2p5_0p02_0p0.pdf Graphic file (type pdf)
 <use ../figures/chapter4/Kipp_2p5_0p02_0p0.pdf>
 Package pdftex.def Info: ../figures/chapter4/Kipp_2p5_0p02_0p0.pdf used on inpu
 t line 153.
 (pdftex.def)             Requested size: 247.77612pt x 222.69746pt.
  [32]
-<../figures/chapter4/parameterSpaceRaster.png, id=1474, 1283.997pt x 679.0971pt
+<../figures/chapter4/parameterSpaceRaster.png, id=1519, 1283.997pt x 679.0971pt
 >
 File: ../figures/chapter4/parameterSpaceRaster.png Graphic file (type png)
  <use ../figures/chapter4/parameterSpaceRaster.png>
@@ -1649,7 +1576,7 @@ Package pdftex.def Info: ../figures/chapter4/parameterSpaceRaster.png used on i
 nput line 168.
 (pdftex.def)             Requested size: 396.44331pt x 209.67859pt.
 
-<../figures/chapter4/coreGrowth_merge1.pdf, id=1476, 642.74571pt x 886.4698pt>
+<../figures/chapter4/coreGrowth_merge1.pdf, id=1521, 642.74571pt x 886.4698pt>
 File: ../figures/chapter4/coreGrowth_merge1.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/coreGrowth_merge1.pdf>
@@ -1657,13 +1584,16 @@ Package pdftex.def Info: ../figures/chapter4/coreGrowth_merge1.pdf used on inpu
 t line 179.
 (pdftex.def)             Requested size: 222.997pt x 307.55026pt.
 
-<../figures/chapter4/coreGrowth_merge2.pdf, id=1477, 642.74571pt x 886.4698pt>
+<../figures/chapter4/coreGrowth_merge2.pdf, id=1522, 642.74571pt x 886.4698pt>
 File: ../figures/chapter4/coreGrowth_merge2.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/coreGrowth_merge2.pdf>
 Package pdftex.def Info: ../figures/chapter4/coreGrowth_merge2.pdf used on inpu
 t line 180.
 (pdftex.def)             Requested size: 222.997pt x 307.55026pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [33 <../figures/chapter4/Kipp_2p5_0p02_0p0.pdf>]
 
 LaTeX Warning: Text page 34 contains only floats.
@@ -1673,59 +1603,21 @@ wth_merge1.pdf> <../figures/chapter4/coreGrowth_merge2.pdf
 
 pdfTeX warning: pdflatex (file ../figures/chapter4/coreGrowth_merge2.pdf): PDF 
 inclusion: multiple pdfs with page group included in a single page
->] <../figures/chapter4/HRD.pdf, id=1551, 243.90201pt x 164.31895pt>
+>] <../figures/chapter4/HRD.pdf, id=1595, 243.90201pt x 164.31895pt>
 File: ../figures/chapter4/HRD.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/HRD.pdf>
 Package pdftex.def Info: ../figures/chapter4/HRD.pdf used on input line 197.
 (pdftex.def)             Requested size: 297.33438pt x 200.33844pt.
-
-
-Package natbib Warning: Citation `Smith2017' on page 35 undefined on input line
- 203.
-
-
-Package natbib Warning: Citation `Zapartas2017' on page 35 undefined on input l
-ine 203.
-
-
-Package natbib Warning: Citation `Graefener2017' on page 35 undefined on input 
-line 203.
-
-
-Package natbib Warning: Citation `Vink2017' on page 35 undefined on input line 
-203.
-
-[35 <../figures/chapter4/HRD.pdf>]
-
-Package natbib Warning: Citation `Gutierrez2005' on page 36 undefined on input 
-line 222.
-
-
-Package natbib Warning: Citation `Woosley2004' on page 36 undefined on input li
-ne 224.
-
-
-LaTeX Warning: Reference `tab:properties' on page 36 undefined on input line 22
-4.
-
-<../figures/chapter4/RhoT.pdf, id=1592, 1271.34164pt x 617.13728pt>
+ [35 <../figures/chapter4/HRD.pdf>]
+<../figures/chapter4/RhoT.pdf, id=1654, 1271.34164pt x 617.13728pt>
 File: ../figures/chapter4/RhoT.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/RhoT.pdf>
 Package pdftex.def Info: ../figures/chapter4/RhoT.pdf used on input line 228.
 (pdftex.def)             Requested size: 495.55226pt x 240.55074pt.
-
-
-Package natbib Warning: Citation `Zha2019' on page 36 undefined on input line 2
-33.
-
-[36 <../figures/chapter4/RhoT.pdf>]
-
-Package natbib Warning: Citation `Brooks2017' on page 37 undefined on input lin
-e 243.
-
-<../figures/chapter4/1p8_logRho9_abun.pdf, id=1619, 806.81264pt x 767.7219pt>
+ [36 <../figures/chapter4/RhoT.pdf>]
+<../figures/chapter4/1p8_logRho9_abun.pdf, id=1687, 806.81264pt x 767.7219pt>
 File: ../figures/chapter4/1p8_logRho9_abun.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/1p8_logRho9_abun.pdf>
@@ -1733,14 +1625,14 @@ Package pdftex.def Info: ../figures/chapter4/1p8_logRho9_abun.pdf used on input
  line 262.
 (pdftex.def)             Requested size: 222.997pt x 212.19604pt.
 
-<../figures/chapter4/2p5_logRho_9_abun.pdf, id=1620, 806.81264pt x 780.73045pt>
+<../figures/chapter4/2p5_logRho_9_abun.pdf, id=1688, 806.81264pt x 780.73045pt>
 File: ../figures/chapter4/2p5_logRho_9_abun.pdf Graphic file (type pdf)
 <use ../figures/chapter4/2p5_logRho_9_abun.pdf>
 Package pdftex.def Info: ../figures/chapter4/2p5_logRho_9_abun.pdf used on inpu
 t line 268.
 (pdftex.def)             Requested size: 222.997pt x 215.79158pt.
 
-<../figures/chapter4/2p5_final_abun.pdf, id=1621, 806.81264pt x 767.7219pt>
+<../figures/chapter4/2p5_final_abun.pdf, id=1689, 806.81264pt x 767.7219pt>
 File: ../figures/chapter4/2p5_final_abun.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/2p5_final_abun.pdf>
@@ -1748,16 +1640,15 @@ Package pdftex.def Info: ../figures/chapter4/2p5_final_abun.pdf used on input l
 ine 273.
 (pdftex.def)             Requested size: 222.997pt x 212.19604pt.
 
-<../figures/chapter4/2p5_abun_carbon_sup.pdf, id=1622, 806.81264pt x 767.7219pt
+<../figures/chapter4/2p5_abun_carbon_sup.pdf, id=1690, 806.81264pt x 767.7219pt
 >
 File: ../figures/chapter4/2p5_abun_carbon_sup.pdf Graphic file (type pdf)
  <use ../figures/chapter4/2p5_abun_carbon_sup.pdf>
 Package pdftex.def Info: ../figures/chapter4/2p5_abun_carbon_sup.pdf used on in
 put line 279.
 (pdftex.def)             Requested size: 222.997pt x 212.19604pt.
-)
-(../chapters/chapter5/chapter5.tex [37] [38 <../figures/chapter4/1p8_logRho9_ab
-un.pdf> <../figures/chapter4/2p5_logRho_9_abun.pdf
+ [37] [38 <../figures/chapter4/1p8_logRho9_abun.pdf> <../figures/chapter4/2p5_l
+ogRho_9_abun.pdf
 
 pdfTeX warning: pdflatex (file ../figures/chapter4/2p5_logRho_9_abun.pdf): PDF 
 inclusion: multiple pdfs with page group included in a single page
@@ -1772,24 +1663,25 @@ F inclusion: multiple pdfs with page group included in a single page
 >]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 5.
+(caption)                particular \caption on input line 335.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (48.81277pt too wide) in paragraph at lines 5--5
+Overfull \hbox (48.81277pt too wide) in paragraph at lines 335--335
  [] 
  []
 
 [39
 
 
-
-] [40
+]) (../chapters/chapter5/chapter5.tex [40
 
 
 ]
 Chapter 5.
-[41]) (./thesis_msc.bbl [42] [43
+[41
+
+]) (./thesis_msc.bbl [42] [43
 
 ] [44] [45] [46]
 Missing character: There is no Ã in font cmr10!
@@ -1803,7 +1695,7 @@ Missing character: There is no ¡ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [47] [48])
+ [47] [48] [49])
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the thesis_msc.maf file.
@@ -1820,10 +1712,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the thesis_msc.log file.
 
-
-Package natbib Warning: There were undefined citations.
-
-[49]
+[50]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 370.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 370.
  (./thesis_msc.xwm) (./thesis_msc.aux)
@@ -1831,20 +1720,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 370.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 370.
 Package rerunfilecheck Info: File `thesis_msc.out' has not changed.
 (rerunfilecheck)             Checksum: BA957A2523CE93734052E52C760C5127;3836.
-
-
-LaTeX Warning: There were undefined references.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 370.
  ) 
 Here is how much of TeX's memory you used:
- 41621 strings out of 493104
- 940930 string characters out of 6139412
- 1264316 words of memory out of 5000000
- 43779 multiletter control sequences out of 15000+600000
+ 41662 strings out of 493104
+ 941755 string characters out of 6139412
+ 1266566 words of memory out of 5000000
+ 43804 multiletter control sequences out of 15000+600000
  22623 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,16n,92p,9876b,782s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,16n,92p,9876b,840s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
@@ -1871,10 +1756,10 @@ y8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/cbfonts/grmi1095.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis_msc.pdf (65 pages, 3344813 bytes).
+Output written on thesis_msc.pdf (66 pages, 3349022 bytes).
 PDF statistics:
- 2063 PDF objects out of 2073 (max. 8388607)
- 1879 compressed objects within 19 object streams
- 344 named destinations out of 1000 (max. 500000)
+ 2153 PDF objects out of 2487 (max. 8388607)
+ 1967 compressed objects within 20 object streams
+ 360 named destinations out of 1000 (max. 500000)
  552 words of extra memory for PDF output out of 10000 (max. 10000000)
 
