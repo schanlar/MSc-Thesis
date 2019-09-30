@@ -4,7 +4,12 @@
 % INITIAL CONFIGURATION
 \documentclass[a4paper, 11pt, twoside]{book}
 
+
 \usepackage{titlesec}
+\usepackage{minitoc}
+\usepackage{lscape}
+\usepackage{afterpage}
+
 
 % Set the depth and numbering
 % for table of contents (toc)
@@ -13,7 +18,7 @@
 
 
 \titleformat{\chapter}[display]
-  {\normalfont\bfseries\LARGE}
+  {\normalfont\bfseries\Large}
   {\begin{flushright}
   \chaptertitlename~\thechapter
   \end{flushright}}{1pc}
@@ -151,6 +156,8 @@
     citecolor=xlinkcolor,
     urlcolor=blue
     }
+
+\newcommand{\nodata}{\ensuremath{\cdots}}
 \input{definitions.tex}
 \begin{document}
     \frontmatter  % front and main matter to make roman numbers in between.
@@ -283,27 +290,38 @@
     \end{flushright}
     \end{mygreek}
 
-    %\newpage  % Inserting empty page
-    %\mbox{}
-    %\thispagestyle{empty}
+    \newpage  % Inserting empty page
+    \mbox{}
+    \thispagestyle{empty}
 
     % ABSTRACT
     \subfile{../abstract/abstract}
     \addcontentsline{toc}{chapter}{Abstract}
+    
+    \newpage  % Inserting empty page
+    \mbox{}
+    \thispagestyle{empty}
 
     % ACKNOWLEDGMENTS
     \subfile{../acknowledgments/acknowledgments}
     \addcontentsline{toc}{chapter}{Acknowledgments}
+    
+    \newpage  % Inserting empty page
+    \mbox{}
+    \thispagestyle{empty}
 
     % TABLE OF CONTENT
-    \cleardoublepage
+{    \cleardoublepage
     \phantomsection
+    
     \addcontentsline{toc}{chapter}{Contents}
     
     % CHANGE COLOR LINK FOR TOC ONLY
-{
-  \hypersetup{linkcolor=black, pdfborder=0 0 1}
+
+ \hypersetup{linkcolor=black, pdfborder=0 0 1}
+ \dominitoc
   \tableofcontents
+  \adjustmtc % necessary for displaying the minitoc after using \addcontentsline
 }
 
     % LIST OF FIGURES
@@ -312,7 +330,8 @@
     \addcontentsline{toc}{chapter}{List of Figures}
 {
 	\hypersetup{linkcolor=black, pdfborder=0 0 1, citecolor=black}
-    \listoffigures
+    \listoffigures 
+    \adjustmtc % necessary for displaying the minitoc after using \addcontentsline
 }
 
     % LIST OF TABLES
