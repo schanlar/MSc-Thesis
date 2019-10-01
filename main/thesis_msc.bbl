@@ -229,18 +229,12 @@ Chiotellis, A., Schure, K.~M., \& Vink, J. 2012,
 Churazov, E., Sunyaev, R., Isern, J., {et~al.} 2014,
   \href{http://dx.doi.org/10.1038/nature13672}{\JournalTitle{Nature}, 512, 406}
 
-\bibitem[{Claeys {et~al.}(2014{\natexlab{a}})Claeys, Pols, Izzard, Vink, \&
+\bibitem[{Claeys {et~al.}(2014)Claeys, Pols, Izzard, Vink, \&
   Verbunt}]{claeys2014a}
 Claeys, J. S.~W., Pols, O.~R., Izzard, R.~G., Vink, J., \& Verbunt, F. W.~M.
-  2014{\natexlab{a}},
+  2014,
   \href{http://dx.doi.org/10.1051/0004-6361/201322714}{\JournalTitle{Astronomy
   \& Astrophysics}, 563, A83}
-
-\bibitem[{Claeys {et~al.}(2014{\natexlab{b}})Claeys, Pols, Izzard, Vink, \&
-  Verbunt}]{claeys2014}
----. 2014{\natexlab{b}},
-  \href{http://dx.doi.org/10.1051/0004-6361/201322714}{\JournalTitle{Astronomy
-  and Astrophysics}, 563, A83}
 
 \bibitem[{Clayton(1968)}]{Clayton}
 Clayton, D. 1968, Principles of Stellar Evolution and Nucleosynthesis
@@ -512,13 +506,6 @@ Jones, S., R{\"o}pke, F.~K., Fryer, C., {et~al.} 2019,
   \href{http://dx.doi.org/10.1051/0004-6361/201834381}{\JournalTitle{Astronomy
   and Astrophysics}, 622, A74}
 
-\bibitem[{{Jones, S.} {et~al.}(2019){Jones, S.}, {R\"opke, F. K.}, {Fryer, C.},
-  {Ruiter, A. J.}, {Seitenzahl, I. R.}, {Nittler, L. R.}, {Ohlmann, S. T.},
-  {Reifarth, R.}, {Pignatari, M.}, \& {Belczynski, K.}}]{Jones2019}
-{Jones, S.}, {R\"opke, F. K.}, {Fryer, C.}, {et~al.} 2019,
-  \href{http://dx.doi.org/10.1051/0004-6361/201834381}{\JournalTitle{A\&A},
-  622, A74}
-
 \bibitem[{{Kalogera} \& {Webbink}(1996)}]{Kalogera1996}
 {Kalogera}, V., \& {Webbink}, R.~F. 1996,
   \href{http://dx.doi.org/10.1086/176813}{\JournalTitle{The Astrophysical
@@ -532,11 +519,6 @@ Kasen, D. 2010,
 \bibitem[{{Kippenhahn} {et~al.}(1980){Kippenhahn}, {Ruschenplatt}, \&
   {Thomas}}]{Kipp_thermohaline}
 {Kippenhahn}, R., {Ruschenplatt}, G., \& {Thomas}, H.-C. 1980,
-  \JournalTitle{Astronomy and Astrophysics}, 91, 175
-
-\bibitem[{Kippenhahn {et~al.}(1980)Kippenhahn, Ruschenplatt, \&
-  Thomas}]{kippenhahn1980}
-Kippenhahn, R., Ruschenplatt, G., \& Thomas, H.-C. 1980,
   \JournalTitle{Astronomy and Astrophysics}, 91, 175
 
 \bibitem[{{Kippenhahn} \& {Weigert}(1967)}]{Kipp1967}
@@ -606,11 +588,6 @@ Langer, N., Fricke, K.~J., \& Sugimoto, D. 1983, \JournalTitle{Astronomy and
 
 \bibitem[{Livio \& Mazzali(2018)}]{Livio:2018rue}
 Livio, M., \& Mazzali, P. 2018,
-  \href{http://dx.doi.org/10.1016/j.physrep.2018.02.002}{\JournalTitle{Physics
-  Reports}, 736, 1}
-
-\bibitem[{{Livio} \& {Mazzali}(2018)}]{Livio2018}
-{Livio}, M., \& {Mazzali}, P. 2018,
   \href{http://dx.doi.org/10.1016/j.physrep.2018.02.002}{\JournalTitle{Physics
   Reports}, 736, 1}
 
@@ -707,13 +684,6 @@ Owocki, S.~P., Gayley, K.~G., \& Shaviv, N.~J. 2004,
 {Paxton}, B., {Bildsten}, L., {Dotter}, A., {et~al.} 2011,
   \href{http://dx.doi.org/10.1088/0067-0049/192/1/3}{\JournalTitle{The
   Astrophysical Journal Supplement Series}, 192, 3}
-
-\bibitem[{{Paxton} {et~al.}(2013){Paxton}, {Cantiello}, {Arras}, {Bildsten},
-  {Brown}, {Dotter}, {Mankovich}, {Montgomery}, {Stello}, {Timmes}, \&
-  {Townsend}}]{Paxton2013}
-{Paxton}, B., {Cantiello}, M., {Arras}, P., {et~al.} 2013,
-  \href{http://dx.doi.org/10.1088/0067-0049/208/1/4}{\JournalTitle{The
-  Astrophysical Journal Supplement Series}, 208, 4}
 
 \bibitem[{Paxton {et~al.}(2013)Paxton, Cantiello, Arras, Bildsten, Brown,
   Dotter, Mankovich, Montgomery, Stello, Timmes, \& Townsend}]{Paxton:2013pj}
@@ -838,12 +808,6 @@ Schwab, J., Bildsten, L., \& Quataert, E. 2017,
   \href{http://dx.doi.org/10.1093/mnras/stx2169}{\JournalTitle{Monthly Notices
   of the Royal Astronomical Society}, 472, 3390}
 
-\bibitem[{{Schwab} {et~al.}(2017){Schwab}, {Bildsten}, \&
-  {Quataert}}]{Schwab2017}
-{Schwab}, J., {Bildsten}, L., \& {Quataert}, E. 2017,
-  \href{http://dx.doi.org/10.1093/mnras/stx2169}{\JournalTitle{Monthly Notices
-  of the Royal Astronomical Society}, 472, 3390}
-
 \bibitem[{{Schwab} \& {Garaud}(2019)}]{Schwab2019b}
 {Schwab}, J., \& {Garaud}, P. 2019,
   \href{http://dx.doi.org/10.3847/1538-4357/ab113f}{\JournalTitle{The
@@ -854,13 +818,8 @@ Schwab, J., Quataert, E., \& Bildsten, L. 2015,
   \href{http://dx.doi.org/10.1093/mnras/stv1804}{\JournalTitle{Monthly Notices
   of the Royal Astronomical Society}, 453, 1910}
 
-\bibitem[{Schwab \& Rocha(2019{\natexlab{a}})}]{Schwab2019}
-Schwab, J., \& Rocha, K.~A. 2019{\natexlab{a}},
-  \href{http://dx.doi.org/10.3847/1538-4357/aaffdc}{\JournalTitle{The
-  Astrophysical Journal}, 872, 131}
-
-\bibitem[{Schwab \& Rocha(2019{\natexlab{b}})}]{Schwab:2018cnb}
----. 2019{\natexlab{b}},
+\bibitem[{Schwab \& Rocha(2019)}]{Schwab:2018cnb}
+Schwab, J., \& Rocha, K.~A. 2019,
   \href{http://dx.doi.org/10.3847/1538-4357/aaffdc}{\JournalTitle{The
   Astrophysical Journal}, 872, 131}
 
@@ -933,16 +892,9 @@ Stothers, R.~B., \& Chin, C.-W. 1990,
   \href{http://dx.doi.org/10.1086/185621}{\JournalTitle{The Astrophysical
   Journal}, 348, L21}
 
-\bibitem[{Suzuki {et~al.}(2016{\natexlab{a}})Suzuki, Toki, \&
-  Nomoto}]{Suzuki:2015iry}
-Suzuki, T., Toki, H., \& Nomoto, K. 2016{\natexlab{a}},
+\bibitem[{Suzuki {et~al.}(2016)Suzuki, Toki, \& Nomoto}]{Suzuki:2015iry}
+Suzuki, T., Toki, H., \& Nomoto, K. 2016,
   \href{http://dx.doi.org/10.3847/0004-637X/817/2/163}{\JournalTitle{The
-  Astrophysical Journal}, 817, 163}
-
-\bibitem[{Suzuki {et~al.}(2016{\natexlab{b}})Suzuki, Toki, \&
-  Nomoto}]{Suzuki2016}
----. 2016{\natexlab{b}},
-  \href{http://dx.doi.org/10.3847/0004-637x/817/2/163}{\JournalTitle{The
   Astrophysical Journal}, 817, 163}
 
 \bibitem[{Sweigart(1997)}]{Sweigart}
@@ -972,18 +924,6 @@ Taubenberger, S. 2017,
 
 \bibitem[{{Tauris} {et~al.}(2015){Tauris}, {Langer}, \&
   {Podsiadlowski}}]{Tauris_ultra}
-{Tauris}, T.~M., {Langer}, N., \& {Podsiadlowski}, P. 2015,
-  \href{http://dx.doi.org/10.1093/mnras/stv990}{\JournalTitle{Monthly Notices
-  of the Royal Astronomical Society}, 451, 2123}
-
-\bibitem[{Tauris {et~al.}(2015)Tauris, Langer, \&
-  Podsiadlowski}]{Tauris:2015xra}
-Tauris, T.~M., Langer, N., \& Podsiadlowski, P. 2015,
-  \href{http://dx.doi.org/10.1093/mnras/stv990}{\JournalTitle{Monthly Notices
-  of the Royal Astronomical Society}, 451, 2123}
-
-\bibitem[{{Tauris} {et~al.}(2015){Tauris}, {Langer}, \&
-  {Podsiadlowski}}]{Tauris2015}
 {Tauris}, T.~M., {Langer}, N., \& {Podsiadlowski}, P. 2015,
   \href{http://dx.doi.org/10.1093/mnras/stv990}{\JournalTitle{Monthly Notices
   of the Royal Astronomical Society}, 451, 2123}

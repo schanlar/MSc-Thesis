@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  30 SEP 2019 18:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  1 OCT 2019 11:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1407,14 +1407,13 @@ Underfull \vbox (badness 2293) has occurred while \output is active []
 \openout8 = `thesis_msc.lof'.
 
 
-[14] [15] [16
-
-] (../chapters/chapter1/chapter1.tex
+[14] (../chapters/chapter1/chapter1.tex
 Chapter 1.
 [1
 
+
 ]
-<../figures/chapter1/T_rho_plane_ch1_shaded.png, id=486, 905.784pt x 632.6034pt
+<../figures/chapter1/T_rho_plane_ch1_shaded.png, id=477, 905.784pt x 632.6034pt
 >
 File: ../figures/chapter1/T_rho_plane_ch1_shaded.png Graphic file (type png)
  <use ../figures/chapter1/T_rho_plane_ch1_shaded.png>
@@ -1422,7 +1421,7 @@ Package pdftex.def Info: ../figures/chapter1/T_rho_plane_ch1_shaded.png used on
  input line 49.
 (pdftex.def)             Requested size: 396.44331pt x 276.86948pt.
  [2]
-<../figures/chapter1/Kippenhahn_intro.png, id=507, 850.8588pt x 573.5829pt>
+<../figures/chapter1/Kippenhahn_intro.png, id=499, 850.8588pt x 573.5829pt>
 File: ../figures/chapter1/Kippenhahn_intro.png Graphic file (type png)
 
 <use ../figures/chapter1/Kippenhahn_intro.png>
@@ -1434,7 +1433,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3 <../figures/chapter1/T_rho_plane_ch1_shaded.png>] [4 <../figures/chapter1/K
 ippenhahn_intro.png>] [5] [6]
-<../figures/chapter1/equipotentials_mu_0_316.png, id=653, 605.3817pt x 596.9502
+<../figures/chapter1/equipotentials_mu_0_316.png, id=645, 605.3817pt x 596.9502
 pt>
 File: ../figures/chapter1/equipotentials_mu_0_316.png Graphic file (type png)
  <use ../figures/chapter1/equipotentials_mu_0_316.png>
@@ -1442,7 +1441,7 @@ Package pdftex.def Info: ../figures/chapter1/equipotentials_mu_0_316.png used o
 n input line 157.
 (pdftex.def)             Requested size: 222.997pt x 219.88437pt.
 
-<../figures/chapter1/3Dequipotentials_transparent.png, id=654, 1063.975pt x 106
+<../figures/chapter1/3Dequipotentials_transparent.png, id=646, 1063.975pt x 106
 3.975pt>
 File: ../figures/chapter1/3Dequipotentials_transparent.png Graphic file (type p
 ng)
@@ -1452,7 +1451,7 @@ sed on input line 162.
 (pdftex.def)             Requested size: 265.12227pt x 265.11641pt.
  [7 <../figures/chapter1/equipotentials_mu_0_316.png> <../figures/chapter1/3Deq
 uipotentials_transparent.png>] [8] [9]
-<../figures/chapter1/DNS_formation_transparent.png, id=748, 240.4182pt x 294.37
+<../figures/chapter1/DNS_formation_transparent.png, id=738, 240.4182pt x 294.37
 98pt>
 File: ../figures/chapter1/DNS_formation_transparent.png Graphic file (type png)
 
@@ -1464,7 +1463,7 @@ Package pdftex.def Info: ../figures/chapter1/DNS_formation_transparent.png used
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10] <../figures/chapter1/SNeClass.pdf, id=771, 739.76375pt x 279.0425pt>
+[10] <../figures/chapter1/SNeClass.pdf, id=762, 739.76375pt x 279.0425pt>
 File: ../figures/chapter1/SNeClass.pdf Graphic file (type pdf)
 
 <use ../figures/chapter1/SNeClass.pdf>
@@ -1496,54 +1495,50 @@ Overfull \hbox (14.92366pt too wide) in paragraph at lines 7--7
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\lowercase' on input line 128.
+(hyperref)                removing `\lowercase' on input line 127.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-[19] <../figures/chapter3/Kip_m1.png, id=1050, 799.98875pt x 760.8425pt>
+[18] <../figures/chapter3/Kip_m1.png, id=1030, 799.98875pt x 760.8425pt>
 File: ../figures/chapter3/Kip_m1.png Graphic file (type png)
 
 <use ../figures/chapter3/Kip_m1.png>
-Package pdftex.def Info: ../figures/chapter3/Kip_m1.png used on input line 201.
+Package pdftex.def Info: ../figures/chapter3/Kip_m1.png used on input line 200.
 
 (pdftex.def)             Requested size: 247.77612pt x 235.64977pt.
 
-<../figures/chapter3/Kip_m2.png, id=1051, 799.98875pt x 750.805pt>
+<../figures/chapter3/Kip_m2.png, id=1031, 799.98875pt x 750.805pt>
 File: ../figures/chapter3/Kip_m2.png Graphic file (type png)
 
 <use ../figures/chapter3/Kip_m2.png>
-Package pdftex.def Info: ../figures/chapter3/Kip_m2.png used on input line 202.
+Package pdftex.def Info: ../figures/chapter3/Kip_m2.png used on input line 201.
 
 (pdftex.def)             Requested size: 247.77612pt x 232.54092pt.
 
-Overfull \hbox (19.99998pt too wide) in paragraph at lines 199--204
+Overfull \hbox (19.99998pt too wide) in paragraph at lines 198--203
  []$[]$ 
  []
 
-[20 <../figures/chapter3/Kip_m1.png> <../figures/chapter3/Kip_m2.png>]
-<../figures/chapter3/Rhoc_vs_Tc.pdf, id=1078, 1445.4pt x 867.24pt>
+[19] [20 <../figures/chapter3/Kip_m1.png> <../figures/chapter3/Kip_m2.png>]
+<../figures/chapter3/Rhoc_vs_Tc.pdf, id=1072, 1445.4pt x 867.24pt>
 File: ../figures/chapter3/Rhoc_vs_Tc.pdf Graphic file (type pdf)
 
 <use ../figures/chapter3/Rhoc_vs_Tc.pdf>
 Package pdftex.def Info: ../figures/chapter3/Rhoc_vs_Tc.pdf used on input line 
-262.
+261.
 (pdftex.def)             Requested size: 495.55226pt x 297.33228pt.
  [21]
-<../figures/chapter3/composition.pdf, id=1098, 722.7pt x 722.7pt>
+<../figures/chapter3/composition.pdf, id=1092, 722.7pt x 722.7pt>
 File: ../figures/chapter3/composition.pdf Graphic file (type pdf)
 
 <use ../figures/chapter3/composition.pdf>
 Package pdftex.def Info: ../figures/chapter3/composition.pdf used on input line
- 312.
+ 311.
 (pdftex.def)             Requested size: 247.77612pt x 247.77689pt.
  [22 <../figures/chapter3/Rhoc_vs_Tc.pdf>] <../figures/chapter3/rates.pdf, id=1
-154, 1084.05pt x 722.7pt>
+147, 1084.05pt x 722.7pt>
 File: ../figures/chapter3/rates.pdf Graphic file (type pdf)
 
 <use ../figures/chapter3/rates.pdf>
-Package pdftex.def Info: ../figures/chapter3/rates.pdf used on input line 332.
+Package pdftex.def Info: ../figures/chapter3/rates.pdf used on input line 331.
 (pdftex.def)             Requested size: 495.55226pt x 330.37286pt.
  [23 <../figures/chapter3/composition.pdf>]
 [24 <../figures/chapter3/rates.pdf>] [25]) (../chapters/chapter4/chapter4.tex
@@ -1561,14 +1556,14 @@ Underfull \hbox (badness 10000) in alignment at lines 104--115
  []
 
 [30] [31]
-<../figures/chapter4/Kipp_2p5_0p02_0p0.pdf, id=1503, 850.51566pt x 764.44257pt>
+<../figures/chapter4/Kipp_2p5_0p02_0p0.pdf, id=1487, 850.51566pt x 764.44257pt>
 File: ../figures/chapter4/Kipp_2p5_0p02_0p0.pdf Graphic file (type pdf)
 <use ../figures/chapter4/Kipp_2p5_0p02_0p0.pdf>
 Package pdftex.def Info: ../figures/chapter4/Kipp_2p5_0p02_0p0.pdf used on inpu
 t line 153.
 (pdftex.def)             Requested size: 247.77612pt x 222.69746pt.
  [32]
-<../figures/chapter4/parameterSpaceRaster.png, id=1519, 1283.997pt x 679.0971pt
+<../figures/chapter4/parameterSpaceRaster.png, id=1504, 1283.997pt x 679.0971pt
 >
 File: ../figures/chapter4/parameterSpaceRaster.png Graphic file (type png)
  <use ../figures/chapter4/parameterSpaceRaster.png>
@@ -1576,7 +1571,7 @@ Package pdftex.def Info: ../figures/chapter4/parameterSpaceRaster.png used on i
 nput line 168.
 (pdftex.def)             Requested size: 396.44331pt x 209.67859pt.
 
-<../figures/chapter4/coreGrowth_merge1.pdf, id=1521, 642.74571pt x 886.4698pt>
+<../figures/chapter4/coreGrowth_merge1.pdf, id=1506, 642.74571pt x 886.4698pt>
 File: ../figures/chapter4/coreGrowth_merge1.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/coreGrowth_merge1.pdf>
@@ -1584,16 +1579,13 @@ Package pdftex.def Info: ../figures/chapter4/coreGrowth_merge1.pdf used on inpu
 t line 179.
 (pdftex.def)             Requested size: 222.997pt x 307.55026pt.
 
-<../figures/chapter4/coreGrowth_merge2.pdf, id=1522, 642.74571pt x 886.4698pt>
+<../figures/chapter4/coreGrowth_merge2.pdf, id=1507, 642.74571pt x 886.4698pt>
 File: ../figures/chapter4/coreGrowth_merge2.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/coreGrowth_merge2.pdf>
 Package pdftex.def Info: ../figures/chapter4/coreGrowth_merge2.pdf used on inpu
 t line 180.
 (pdftex.def)             Requested size: 222.997pt x 307.55026pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [33 <../figures/chapter4/Kipp_2p5_0p02_0p0.pdf>]
 
 LaTeX Warning: Text page 34 contains only floats.
@@ -1603,21 +1595,21 @@ wth_merge1.pdf> <../figures/chapter4/coreGrowth_merge2.pdf
 
 pdfTeX warning: pdflatex (file ../figures/chapter4/coreGrowth_merge2.pdf): PDF 
 inclusion: multiple pdfs with page group included in a single page
->] <../figures/chapter4/HRD.pdf, id=1595, 243.90201pt x 164.31895pt>
+>] <../figures/chapter4/HRD.pdf, id=1579, 243.90201pt x 164.31895pt>
 File: ../figures/chapter4/HRD.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/HRD.pdf>
 Package pdftex.def Info: ../figures/chapter4/HRD.pdf used on input line 197.
 (pdftex.def)             Requested size: 297.33438pt x 200.33844pt.
  [35 <../figures/chapter4/HRD.pdf>]
-<../figures/chapter4/RhoT.pdf, id=1654, 1271.34164pt x 617.13728pt>
+<../figures/chapter4/RhoT.pdf, id=1639, 1271.34164pt x 617.13728pt>
 File: ../figures/chapter4/RhoT.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/RhoT.pdf>
 Package pdftex.def Info: ../figures/chapter4/RhoT.pdf used on input line 228.
 (pdftex.def)             Requested size: 495.55226pt x 240.55074pt.
  [36 <../figures/chapter4/RhoT.pdf>]
-<../figures/chapter4/1p8_logRho9_abun.pdf, id=1687, 806.81264pt x 767.7219pt>
+<../figures/chapter4/1p8_logRho9_abun.pdf, id=1672, 806.81264pt x 767.7219pt>
 File: ../figures/chapter4/1p8_logRho9_abun.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/1p8_logRho9_abun.pdf>
@@ -1625,14 +1617,14 @@ Package pdftex.def Info: ../figures/chapter4/1p8_logRho9_abun.pdf used on input
  line 262.
 (pdftex.def)             Requested size: 222.997pt x 212.19604pt.
 
-<../figures/chapter4/2p5_logRho_9_abun.pdf, id=1688, 806.81264pt x 780.73045pt>
+<../figures/chapter4/2p5_logRho_9_abun.pdf, id=1673, 806.81264pt x 780.73045pt>
 File: ../figures/chapter4/2p5_logRho_9_abun.pdf Graphic file (type pdf)
 <use ../figures/chapter4/2p5_logRho_9_abun.pdf>
 Package pdftex.def Info: ../figures/chapter4/2p5_logRho_9_abun.pdf used on inpu
 t line 268.
 (pdftex.def)             Requested size: 222.997pt x 215.79158pt.
 
-<../figures/chapter4/2p5_final_abun.pdf, id=1689, 806.81264pt x 767.7219pt>
+<../figures/chapter4/2p5_final_abun.pdf, id=1674, 806.81264pt x 767.7219pt>
 File: ../figures/chapter4/2p5_final_abun.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/2p5_final_abun.pdf>
@@ -1640,7 +1632,7 @@ Package pdftex.def Info: ../figures/chapter4/2p5_final_abun.pdf used on input l
 ine 273.
 (pdftex.def)             Requested size: 222.997pt x 212.19604pt.
 
-<../figures/chapter4/2p5_abun_carbon_sup.pdf, id=1690, 806.81264pt x 767.7219pt
+<../figures/chapter4/2p5_abun_carbon_sup.pdf, id=1675, 806.81264pt x 767.7219pt
 >
 File: ../figures/chapter4/2p5_abun_carbon_sup.pdf Graphic file (type pdf)
  <use ../figures/chapter4/2p5_abun_carbon_sup.pdf>
@@ -1695,7 +1687,7 @@ Missing character: There is no ¡ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [47] [48] [49])
+ [47] [48])
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the thesis_msc.maf file.
@@ -1712,7 +1704,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the thesis_msc.log file.
 
-[50]
+[49]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 370.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 370.
  (./thesis_msc.xwm) (./thesis_msc.aux)
@@ -1720,16 +1712,20 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 370.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 370.
 Package rerunfilecheck Info: File `thesis_msc.out' has not changed.
 (rerunfilecheck)             Checksum: BA957A2523CE93734052E52C760C5127;3836.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 370.
  ) 
 Here is how much of TeX's memory you used:
- 41662 strings out of 493104
- 941755 string characters out of 6139412
- 1266566 words of memory out of 5000000
- 43804 multiletter control sequences out of 15000+600000
+ 41619 strings out of 493104
+ 941019 string characters out of 6139412
+ 1265668 words of memory out of 5000000
+ 43774 multiletter control sequences out of 15000+600000
  22623 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,16n,92p,9876b,840s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,16n,92p,9876b,788s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
@@ -1756,10 +1752,10 @@ y8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/cbfonts/grmi1095.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis_msc.pdf (66 pages, 3349022 bytes).
+Output written on thesis_msc.pdf (63 pages, 3347230 bytes).
 PDF statistics:
- 2153 PDF objects out of 2487 (max. 8388607)
- 1967 compressed objects within 20 object streams
- 360 named destinations out of 1000 (max. 500000)
+ 2120 PDF objects out of 2487 (max. 8388607)
+ 1937 compressed objects within 20 object streams
+ 347 named destinations out of 1000 (max. 500000)
  552 words of extra memory for PDF output out of 10000 (max. 10000000)
 

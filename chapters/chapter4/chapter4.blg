@@ -1,38 +1,120 @@
 This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: chapter4.aux
+The style file: aasjournal.bst
 I found no \bibdata command---while reading file chapter4.aux
-I found no \bibstyle command---while reading file chapter4.aux
-You've used 56 entries,
-            0 wiz_defined-function locations,
-            193 strings with 1643 characters,
-and the built_in function-call counts, 0 in all, are:
+Warning--I didn't find a database entry for "Ritossa1996"
+Warning--I didn't find a database entry for "Ritossa1999"
+Warning--I didn't find a database entry for "GilPons2005"
+Warning--I didn't find a database entry for "siess2006"
+Warning--I didn't find a database entry for "Poelarends2008"
+Warning--I didn't find a database entry for "Farmer:2015afs"
+Warning--I didn't find a database entry for "Timmes_1994"
+Warning--I didn't find a database entry for "Siess2009"
+Warning--I didn't find a database entry for "Denissenkov:2013qaa"
+Warning--I didn't find a database entry for "Nomoto1984"
+Warning--I didn't find a database entry for "Fischer2010"
+Warning--I didn't find a database entry for "Knigge2011"
+Warning--I didn't find a database entry for "Jones_2013"
+Warning--I didn't find a database entry for "Jones2016"
+Warning--I didn't find a database entry for "nomoto1991"
+Warning--I didn't find a database entry for "Schwab:2015bma"
+Warning--I didn't find a database entry for "Brooks2017a"
+Warning--I didn't find a database entry for "Schwab:2018cnb"
+Warning--I didn't find a database entry for "Tauris2013"
+Warning--I didn't find a database entry for "Tauris2015"
+Warning--I didn't find a database entry for "Moriya2014"
+Warning--I didn't find a database entry for "Jones2019"
+Warning--I didn't find a database entry for "Hillebrandt2000"
+Warning--I didn't find a database entry for "Wang2012"
+Warning--I didn't find a database entry for "Wang2018"
+Warning--I didn't find a database entry for "Livio2018"
+Warning--I didn't find a database entry for "Gamow1941"
+Warning--I didn't find a database entry for "Tsuruta1970"
+Warning--I didn't find a database entry for "Paczy1972"
+Warning--I didn't find a database entry for "Bruenn1973"
+Warning--I didn't find a database entry for "Paczy1973"
+Warning--I didn't find a database entry for "Barkat1990"
+Warning--I didn't find a database entry for "Stein1999"
+Warning--I didn't find a database entry for "Lesaffre2005"
+Warning--I didn't find a database entry for "Waldman2007"
+Warning--I didn't find a database entry for "Denisseknkov2015"
+Warning--I didn't find a database entry for "Schwab2017"
+Warning--I didn't find a database entry for "Paxton2011"
+Warning--I didn't find a database entry for "Paxton2013"
+Warning--I didn't find a database entry for "Paxton2015"
+Warning--I didn't find a database entry for "Paxton2018"
+Warning--I didn't find a database entry for "Paxton2019"
+Warning--I didn't find a database entry for "grevesse1998"
+Warning--I didn't find a database entry for "Herwig2000"
+Warning--I didn't find a database entry for "Suzuki2016"
+Warning--I didn't find a database entry for "PCR2009"
+Warning--I didn't find a database entry for "Itoh2002"
+Warning--I didn't find a database entry for "OPAL"
+Warning--I didn't find a database entry for "MLT_Henyey"
+Warning--I didn't find a database entry for "Langer1991"
+Warning--I didn't find a database entry for "Brown_2013"
+Warning--I didn't find a database entry for "Langer1983"
+Warning--I didn't find a database entry for "Kipp_thermohaline"
+Warning--I didn't find a database entry for "Dutch"
+Warning--I didn't find a database entry for "Nugis2000"
+Warning--I didn't find a database entry for "deJager1988"
+Warning--I didn't find a database entry for "Antoniadis2019"
+Warning--I didn't find a database entry for "Denissenkov_2013"
+Warning--I didn't find a database entry for "Chen2014"
+Warning--I didn't find a database entry for "Farmer_2015"
+Warning--I didn't find a database entry for "Brooks2017b"
+Warning--I didn't find a database entry for "Schwab2019b"
+Warning--I didn't find a database entry for "Lecoanet2016"
+Warning--I didn't find a database entry for "Dominguez1993"
+Warning--I didn't find a database entry for "Schwab2019"
+Warning--I didn't find a database entry for "Garcia1997"
+Warning--I didn't find a database entry for "Gutierrez2005"
+Warning--I didn't find a database entry for "Willcox2016"
+Warning--I didn't find a database entry for "Waldman2008"
+Warning--I didn't find a database entry for "Smith2017"
+Warning--I didn't find a database entry for "Zapartas2017"
+Warning--I didn't find a database entry for "Graefener2017"
+Warning--I didn't find a database entry for "Vink2017"
+Warning--I didn't find a database entry for "Owocki:2004zz"
+Warning--I didn't find a database entry for "Smith2006"
+Warning--I didn't find a database entry for "Woosley2004"
+Warning--I didn't find a database entry for "Zha2019"
+Warning--I didn't find a database entry for "Brooks2017"
+Warning--I didn't find a database entry for "Astropy2013"
+Warning--I didn't find a database entry for "Astropy2018"
+Warning--I didn't find a database entry for "MesaPlot"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 0 entries,
+            3183 wiz_defined-function locations,
+            805 strings with 5995 characters,
+and the built_in function-call counts, 20 in all, are:
 = -- 0
 > -- 0
 < -- 0
 + -- 0
 - -- 0
 * -- 0
-:= -- 0
+:= -- 8
 add.period$ -- 0
 call.type$ -- 0
 change.case$ -- 0
 chr.to.int$ -- 0
 cite$ -- 0
 duplicate$ -- 0
-empty$ -- 0
+empty$ -- 1
 format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
+if$ -- 1
+int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 0
-newline$ -- 0
+newline$ -- 4
 num.names$ -- 0
 pop$ -- 0
-preamble$ -- 0
+preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 0
+skip$ -- 1
 stack$ -- 0
 substring$ -- 0
 swap$ -- 0
@@ -43,5 +125,5 @@ type$ -- 0
 warning$ -- 0
 while$ -- 0
 width$ -- 0
-write$ -- 0
-(There were 2 error messages)
+write$ -- 3
+(There was 1 error message)

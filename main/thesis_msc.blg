@@ -1,123 +1,146 @@
 This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis_msc.aux
-Case mismatch error between cite keys langer1983 and Langer1983
----line 198 of file thesis_msc.aux
- : \citation{langer1983
- :                     }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys Waldman2008 and waldman2008
----line 308 of file thesis_msc.aux
- : \citation{Waldman2008
- :                      }
-I'm skipping whatever remains of this command
-Case mismatch error between cite keys Brooks2017 and brooks2017
----line 337 of file thesis_msc.aux
- : \citation{Brooks2017
- :                     }
-I'm skipping whatever remains of this command
 The style file: ../bibliography/bibstyle_apj.bst.bst
-Reallocated field_info (elt_size=4) to 10730 items from 5000.
+Reallocated field_info (elt_size=4) to 10340 items from 5000.
 Database file #1: ../bibliography/bibfile_thesis.bib
-Repeated entry---line 2320 of file ../bibliography/bibfile_thesis.bib
+You're missing a field name---line 2032 of file ../bibliography/bibfile_thesis.bib
+ : 
+ : %  title = {The Time Scale of Thermohaline Mixing in Stars},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2078 of file ../bibliography/bibfile_thesis.bib
+ : 
+ : %  title = {Ultra-Stripped Supernovae: Progenitors and Fate},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2307 of file ../bibliography/bibfile_thesis.bib
  : @article{Owocki:2004zz
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2332 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2319 of file ../bibliography/bibfile_thesis.bib
  : @article{Smith2006
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2467 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2454 of file ../bibliography/bibfile_thesis.bib
  : @article{deJager1988
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2600 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2587 of file ../bibliography/bibfile_thesis.bib
  : @article{Herwig2000
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2614 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2601 of file ../bibliography/bibfile_thesis.bib
  : @article{Hillebrandt2000
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2645 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2632 of file ../bibliography/bibfile_thesis.bib
  : @article{Jones2016
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2689 of file ../bibliography/bibfile_thesis.bib
+You're missing a field name---line 2652 of file ../bibliography/bibfile_thesis.bib
+ : 
+ : % author = {{Jones, S.} and {R\"opke, F. K.} and {Fryer, C.} and {Ruiter, A. J.} and {Seitenzahl, I. R.} and {Nittler, L. R.} and {Ohlmann, S. T.} and {Reifarth, R.} and {Pignatari, M.} and {Belczynski, K.}},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2676 of file ../bibliography/bibfile_thesis.bib
  : @article{Langer1991
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2773 of file ../bibliography/bibfile_thesis.bib
+You're missing a field name---line 2725 of file ../bibliography/bibfile_thesis.bib
+ : 
+ : %       author = {{Livio}, Mario and {Mazzali}, Paolo},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2760 of file ../bibliography/bibfile_thesis.bib
  : @article{Nomoto1984
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2788 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 2775 of file ../bibliography/bibfile_thesis.bib
  : @article{Nugis2000
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2909 of file ../bibliography/bibfile_thesis.bib
+You're missing a field name---line 2845 of file ../bibliography/bibfile_thesis.bib
+ : 
+ : %   author = {{Schwab}, J. and {Bildsten}, L. and {Quataert}, E.},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 2862 of file ../bibliography/bibfile_thesis.bib
+ : 
+ : % doi = {10.3847/1538-4357/aaffdc},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2896 of file ../bibliography/bibfile_thesis.bib
  : @article{Siess2018
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2948 of file ../bibliography/bibfile_thesis.bib
+You're missing a field name---line 2923 of file ../bibliography/bibfile_thesis.bib
+ : 
+ : % doi = {10.3847/0004-637x/817/2/163},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 2935 of file ../bibliography/bibfile_thesis.bib
  : @article{Tauris2013
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3022 of file ../bibliography/bibfile_thesis.bib
+You're missing a field name---line 2955 of file ../bibliography/bibfile_thesis.bib
+ : 
+ : %       author = {{Tauris}, Thomas M. and {Langer}, Norbert and {Podsiadlowski}, Philipp},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 3009 of file ../bibliography/bibfile_thesis.bib
  : @inproceedings{Waldman2008
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3057 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3044 of file ../bibliography/bibfile_thesis.bib
  : @article{Wang2018
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3090 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3077 of file ../bibliography/bibfile_thesis.bib
  : @article{Wilson1981
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3163 of file ../bibliography/bibfile_thesis.bib
- : @article{Dutch
- :               ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3182 of file ../bibliography/bibfile_thesis.bib
- : @article{OPAL
- :              ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3196 of file ../bibliography/bibfile_thesis.bib
- : @article{MLT_Henyey
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3209 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3147 of file ../bibliography/bibfile_thesis.bib
  : @article{Kipp_thermohaline
  :                           ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3222 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3161 of file ../bibliography/bibfile_thesis.bib
+ : @article{Dutch
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3180 of file ../bibliography/bibfile_thesis.bib
+ : @article{OPAL
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3194 of file ../bibliography/bibfile_thesis.bib
+ : @article{MLT_Henyey
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3208 of file ../bibliography/bibfile_thesis.bib
  : @article{PCR2009
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3237 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3223 of file ../bibliography/bibfile_thesis.bib
  : @article{Itoh2002
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3253 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3239 of file ../bibliography/bibfile_thesis.bib
  : @article{Paxton2011
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3272 of file ../bibliography/bibfile_thesis.bib
- : @article{Paxton2013
- :                    ,
+You're missing a field name---line 3259 of file ../bibliography/bibfile_thesis.bib
+ : 
+ : %   author = {{Paxton}, B. and {Cantiello}, M. and {Arras}, P. and {Bildsten}, L. and
+(Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 3292 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3278 of file ../bibliography/bibfile_thesis.bib
  : @article{Paxton2015
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3313 of file ../bibliography/bibfile_thesis.bib
+Repeated entry---line 3299 of file ../bibliography/bibfile_thesis.bib
  : @article{Paxton2018
  :                    ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Denissenkov_2013"
-Warning--I didn't find a database entry for "Farmer_2015"
-Warning--I didn't find a database entry for "Brooks2017b"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Name 1 in "Kippenhahn, R., and Weigert, A., and Weiss, A." has a comma at the end for entry Kipp_book
 while executing---line 1476 of file ../bibliography/bibstyle_apj.bst.bst
@@ -159,45 +182,45 @@ Warning--empty publisher in Maeder2006
 Warning--can't use both author and editor fields in podsiadlowski_2014
 Warning--empty publisher in Seitenzahl2017
 Warning--empty publisher in Tauris_2006
-You've used 188 entries,
+You've used 178 entries,
             3215 wiz_defined-function locations,
-            2027 strings with 62829 characters,
-and the built_in function-call counts, 108892 in all, are:
-= -- 7915
-> -- 8903
-< -- 94
-+ -- 3369
-- -- 3083
-* -- 10101
-:= -- 19814
-add.period$ -- 188
-call.type$ -- 188
-change.case$ -- 1213
-chr.to.int$ -- 186
-cite$ -- 197
-duplicate$ -- 5081
-empty$ -- 6711
-format.name$ -- 3344
-if$ -- 21556
-int.to.chr$ -- 6
+            1978 strings with 60960 characters,
+and the built_in function-call counts, 103615 in all, are:
+= -- 7471
+> -- 8566
+< -- 92
++ -- 3234
+- -- 2960
+* -- 9628
+:= -- 18900
+add.period$ -- 178
+call.type$ -- 178
+change.case$ -- 1147
+chr.to.int$ -- 179
+cite$ -- 187
+duplicate$ -- 4803
+empty$ -- 6361
+format.name$ -- 3207
+if$ -- 20483
+int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 178
-newline$ -- 569
-num.names$ -- 762
-pop$ -- 1851
+missing$ -- 168
+newline$ -- 539
+num.names$ -- 722
+pop$ -- 1750
 preamble$ -- 1
-purify$ -- 1211
+purify$ -- 1145
 quote$ -- 0
-skip$ -- 3172
+skip$ -- 3015
 stack$ -- 0
-substring$ -- 4584
-swap$ -- 171
+substring$ -- 4336
+swap$ -- 156
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1656
+type$ -- 1566
 warning$ -- 9
-while$ -- 896
+while$ -- 848
 width$ -- 0
-write$ -- 1876
-(There were 42 error messages)
+write$ -- 1776
+(There were 47 error messages)
