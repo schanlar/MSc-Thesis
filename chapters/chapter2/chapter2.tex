@@ -12,11 +12,11 @@
 
     \chapter{Methods}
     
-    	For the puproses of this thesis we performed numerical calculations using the one dimensional, stellar evolution code \textbf{M}odules for \textbf{E}xperiments in \textbf{S}tellar \textbf{A}strophysics (\texttt{MESA}) \citep{Paxton2011, Paxton:2013pj, Paxton2015, Paxton2018}. In this section, we present the very basic aspects of \texttt{MESA} and the physical assumptions we used in our attempt to model the evolution of single and binary stellar systems.
+    	For the puproses of this thesis we performed numerical calculations using the one dimensional, stellar evolution code \textbf{M}odules for \textbf{E}xperiments in \textbf{S}tellar \textbf{A}strophysics (\texttt{MESA}) \citep{Paxton2011, Paxton:2013pj, Paxton2015, Paxton2018}. In this section, we briefly discuss the very basic aspects of \texttt{MESA}, and how some key physical concepts are being implemented in the code. The specifics of the input physics we used in our models, are being presented separately in the relevant chapters.
     	
     		\section{Modules for Experiments in Stellar Astrophysics}
     		
-    			%Write 2-3 pages of the MESA basics and how it works (Newton iterations etc). Consider possible subsections
+    			
     			\texttt{MESA} is an open-source stellar evolution code which provides a modular approach to stellar modelling. Each of the available modules is responsible for the delivery of a specific aspect of the required physics (e.g. microphysics modules provide necessary equations of state and nuclear networks, utilization of macrophysics modules to treat mixing processes etc) in order to succesfully construct a computational stellar model.
     			
     			For a spherically symmetric star in hydrostatic equilibrium the structure of the star is governed by the following four differential equations, in Lagrangian form
