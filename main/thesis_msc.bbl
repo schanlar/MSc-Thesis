@@ -207,6 +207,12 @@ Chanlaridis, S., Antoniadis, J., Gr\"{a}fener, G., \& Langer, N. 2019,
   \href{http://dx.doi.org/10.1051/0004-6361:20077274}{\JournalTitle{Astronomy
   and Astrophysics}, 467, L15}
 
+\bibitem[{Chen {et~al.}(2014)Chen, Herwig, Denissenkov, \&
+  Paxton}]{chen:stu108}
+Chen, M.~C., Herwig, F., Denissenkov, P.~A., \& Paxton, B. 2014,
+  \href{http://dx.doi.org/10.1093/mnras/stu108}{\JournalTitle{Monthly Notices
+  of the Royal Astronomical Society}, 440, 1274}
+
 \bibitem[{{Chen} {et~al.}(2014){Chen}, {Herwig}, {Denissenkov}, \&
   {Paxton}}]{Chen2014}
 {Chen}, M.~C., {Herwig}, F., {Denissenkov}, P.~A., \& {Paxton}, B. 2014,
@@ -235,10 +241,6 @@ Claeys, J. S.~W., Pols, O.~R., Izzard, R.~G., Vink, J., \& Verbunt, F. W.~M.
   2014,
   \href{http://dx.doi.org/10.1051/0004-6361/201322714}{\JournalTitle{Astronomy
   \& Astrophysics}, 563, A83}
-
-\bibitem[{Clayton(1968)}]{Clayton}
-Clayton, D. 1968, Principles of Stellar Evolution and Nucleosynthesis
-  (McGraw-Hill)
 
 \bibitem[{Couch(2017)}]{Couch2017}
 Couch, S.~M. \href{http://dx.doi.org/10.1098/rsta.2016.0271}{2017, 375}
@@ -448,6 +450,10 @@ Hirschi, R., Meyne, G., \& Maeder, A. 2004,
 Howell, D.~A., Sullivan, M., Nugent, P.~E., {et~al.} 2006,
   \href{http://dx.doi.org/10.1038/nature05103}{\JournalTitle{Nature}, 443, 308}
 
+\bibitem[{Iben(1997)}]{Iben1997:book}
+Iben, I. 1997, Scenarios for Type Ia Supernovae, ed. P.~Ruiz-Lapuente,
+  R.~Canal, \& J.~Isern (Dordrecht: Springer Netherlands), 111
+
 \bibitem[{{Iglesias} \& {Rogers}(1996)}]{OPAL}
 {Iglesias}, C.~A., \& {Rogers}, F.~J. 1996,
   \href{http://dx.doi.org/10.1086/177381}{\JournalTitle{The Astrophysical
@@ -487,6 +493,11 @@ Howell, D.~A., Sullivan, M., Nugent, P.~E., {et~al.} 2006,
 {Izzard}, R.~G., {Hall}, P.~D., {Tauris}, T.~M., \& {Tout}, C.~A. 2012,
   \href{http://dx.doi.org/10.1017/S1743921312010769}{in IAU Symposium, Vol.
   283, IAU Symposium}, 95
+
+\bibitem[{{Jappsen, A.-K.} \& {Klessen, R. S.}(2004)}]{jappsen:2004}
+{Jappsen, A.-K.}, \& {Klessen, R. S.} 2004,
+  \href{http://dx.doi.org/10.1051/0004-6361:20040220}{\JournalTitle{A\&A}, 423,
+  1}
 
 \bibitem[{{Jones} {et~al.}(2016){Jones}, {R{\"o}pke}, {Pakmor}, {Seitenzahl},
   {Ohlmann}, \& {Edelmann}}]{Jones2016}
@@ -529,6 +540,11 @@ Kasen, D. 2010,
 Kippenhahn, R., Weigert, A., \& Weiss, A. 2012, Stellar Structure and
   Evolution, 2nd edn. (Springer)
 
+\bibitem[{{Klessen}(2011)}]{Klessen:2011}
+{Klessen}, R.~S. 2011, \href{http://dx.doi.org/10.1051/eas/1151009}{in EAS
+  Publications Series, Vol.~51, EAS Publications Series, ed. C.~{Charbonnel} \&
+  T.~{Montmerle}}, 133
+
 \bibitem[{{Knigge} {et~al.}(2011){Knigge}, {Coe}, \&
   {Podsiadlowski}}]{Knigge2011}
 {Knigge}, C., {Coe}, M.~J., \& {Podsiadlowski}, P. 2011,
@@ -556,6 +572,11 @@ Lamers, H., \& Cassinelli, J. 1999, Introduction to Stellar Winds (Cambridge
 Langer, N. 2012,
   \href{http://dx.doi.org/10.1146/annurev-astro-081811-125534}{\JournalTitle{Annual
   Review of Astronomy and Astrophysics}, 50, 107}
+
+\bibitem[{{Langer} {et~al.}(2000){Langer}, {Deutschmann}, {Wellstein}, \&
+  {H{\"o}flich}}]{langer:2000A&A}
+{Langer}, N., {Deutschmann}, A., {Wellstein}, S., \& {H{\"o}flich}, P. 2000,
+  \JournalTitle{Astronomy \& Astrophysics}, 362, 1046
 
 \bibitem[{Langer {et~al.}(1983)Langer, Fricke, \& Sugimoto}]{Langer1983}
 Langer, N., Fricke, K.~J., \& Sugimoto, D. 1983, \JournalTitle{Astronomy and
@@ -646,6 +667,11 @@ Nomoto, K. 1982, \href{http://dx.doi.org/10.1086/159682}{\JournalTitle{The
 \bibitem[{{Nomoto}(1987)}]{Nomoto1987}
 ---. 1987, \href{http://dx.doi.org/10.1086/165716}{\JournalTitle{The
   Astrophysical Journal}, 322, 206}
+
+\bibitem[{Nomoto {et~al.}(1997)Nomoto, Iwamoto, \& Kishimoto}]{Nomoto1378}
+Nomoto, K., Iwamoto, K., \& Kishimoto, N. 1997,
+  \href{http://dx.doi.org/10.1126/science.276.5317.1378}{\JournalTitle{Science},
+  276, 1378}
 
 \bibitem[{Nomoto \& Kondo(1991)}]{nomoto1991}
 Nomoto, K., \& Kondo, Y. 1991,
@@ -748,10 +774,6 @@ Postnov, K.~A., \& Yungelson, L.~R. 2014,
 Potekhin, A.~Y., Chabrier, G., \& Rogers, F.~J. 2009,
   \href{http://dx.doi.org/10.1103/PhysRevE.79.016411}{\JournalTitle{Phys. Rev.
   E}, 79, 016411}
-
-\bibitem[{Prialnik(2000)}]{Prialnik}
-Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
-  Evolution (Cambridge University Press)
 
 \bibitem[{{Rappaport} {et~al.}(1983){Rappaport}, {Verbunt}, \&
   {Joss}}]{Rappaport1983}
