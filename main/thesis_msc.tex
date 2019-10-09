@@ -9,7 +9,7 @@
 \usepackage{minitoc}
 \usepackage{lscape}
 \usepackage{afterpage}
-
+\usepackage{mathtools}
 
 % Set the depth and numbering
 % for table of contents (toc)
@@ -158,6 +158,10 @@
     }
 
 \newcommand{\nodata}{\ensuremath{\cdots}}
+% Define empty commants to overwrite the trackchanges option from overleaf
+\newcommand{\replaced}{}
+\newcommand{\deleted}{}
+\newcommand{\added}{}
 \input{definitions.tex}
 \begin{document}
     \frontmatter  % front and main matter to make roman numbers in between.

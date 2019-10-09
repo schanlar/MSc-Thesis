@@ -141,6 +141,10 @@ Abbott, B.~P., Abbott, R., Abbott, T.~D., {et~al.} 2017,
   \href{http://dx.doi.org/10.1103/PhysRevLett.119.161101}{\JournalTitle{Phys.
   Rev. Lett.}, 119, 161101}
 
+\bibitem[{Angulo(1999)}]{nacre}
+Angulo, C. 1999, \href{http://dx.doi.org/10.1063/1.1301821}{\JournalTitle{AIP
+  Conference Proceedings}, 495, 365}
+
 \bibitem[{Antoniadis {et~al.}(2019)Antoniadis, Chanlaridis, Gr\"{a}fener, \&
   Langer}]{Antoniadis2019}
 Antoniadis, J., Chanlaridis, S., Gr\"{a}fener, G., \& Langer, N. 2019,
@@ -241,6 +245,10 @@ Claeys, J. S.~W., Pols, O.~R., Izzard, R.~G., Vink, J., \& Verbunt, F. W.~M.
   2014,
   \href{http://dx.doi.org/10.1051/0004-6361/201322714}{\JournalTitle{Astronomy
   \& Astrophysics}, 563, A83}
+
+\bibitem[{Clayton(1968)}]{Clayton}
+Clayton, D. 1968, Principles of Stellar Evolution and Nucleosynthesis
+  (McGraw-Hill)
 
 \bibitem[{Couch(2017)}]{Couch2017}
 Couch, S.~M. \href{http://dx.doi.org/10.1098/rsta.2016.0271}{2017, 375}
@@ -458,6 +466,11 @@ Iben, I. 1997, Scenarios for Type Ia Supernovae, ed. P.~Ruiz-Lapuente,
 {Iglesias}, C.~A., \& {Rogers}, F.~J. 1996,
   \href{http://dx.doi.org/10.1086/177381}{\JournalTitle{The Astrophysical
   Journal}, 464, 943}
+
+\bibitem[{Itoh {et~al.}(1996)Itoh, Hayashi, Nishikawa, \& Kohyama}]{itoh1996}
+Itoh, N., Hayashi, H., Nishikawa, A., \& Kohyama, Y. 1996,
+  \href{http://dx.doi.org/10.1086/192264}{\JournalTitle{The Astrophysical
+  Journal Supplement Series}, 102, 411}
 
 \bibitem[{{Itoh} {et~al.}(2002){Itoh}, {Tomizawa}, {Tamamura}, {Wanajo}, \&
   {Nozawa}}]{Itoh2002}
@@ -774,6 +787,10 @@ Postnov, K.~A., \& Yungelson, L.~R. 2014,
 Potekhin, A.~Y., Chabrier, G., \& Rogers, F.~J. 2009,
   \href{http://dx.doi.org/10.1103/PhysRevE.79.016411}{\JournalTitle{Phys. Rev.
   E}, 79, 016411}
+
+\bibitem[{Prialnik(2000)}]{Prialnik}
+Prialnik, D. 2000, An Introduction to the Theory of Stellar Structure and
+  Evolution (Cambridge University Press)
 
 \bibitem[{{Rappaport} {et~al.}(1983){Rappaport}, {Verbunt}, \&
   {Joss}}]{Rappaport1983}

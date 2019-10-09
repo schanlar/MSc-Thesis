@@ -26,28 +26,34 @@
 \BOOKMARK [1][-]{section.1.4}{Thesis Outline}{chapter.1}% 26
 \BOOKMARK [0][-]{chapter.2}{Methods}{}% 27
 \BOOKMARK [1][-]{section.2.1}{Modules for Experiments in Stellar Astrophysics}{chapter.2}% 28
-\BOOKMARK [0][-]{chapter.3}{Type-Ia Supernovae from non-accreting progenitors}{}% 29
-\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 30
-\BOOKMARK [1][-]{section.3.2}{\(C\)NeO cores: formation and evolution}{chapter.3}% 31
-\BOOKMARK [2][-]{subsection.3.2.1}{Numerical Calculations: Input Physics}{section.3.2}% 32
-\BOOKMARK [2][-]{subsection.3.2.2}{Simulation results}{section.3.2}% 33
-\BOOKMARK [2][-]{subsection.3.2.3}{Late evolution and thermonuclear runaway}{section.3.2}% 34
-\BOOKMARK [2][-]{subsection.3.2.4}{Energetics and nucleosynthesis}{section.3.2}% 35
-\BOOKMARK [1][-]{section.3.3}{Expected rates and delay times}{chapter.3}% 36
-\BOOKMARK [1][-]{section.3.4}{Summary}{chapter.3}% 37
-\BOOKMARK [0][-]{chapter.4}{Helium Stars as Progenitors of Thermonuclear Supernovae}{}% 38
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 39
-\BOOKMARK [2][-]{subsection.4.1.1}{Thermonuclear Supernovae}{section.4.1}% 40
-\BOOKMARK [2][-]{subsection.4.1.2}{The Urca process}{section.4.1}% 41
-\BOOKMARK [1][-]{section.4.2}{Stellar Evolution Code and Initial Parameter Space}{chapter.4}% 42
-\BOOKMARK [2][-]{subsection.4.2.1}{Physical assumptions}{section.4.2}% 43
-\BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 44
-\BOOKMARK [2][-]{subsection.4.3.1}{Overview of the Evolution}{section.4.3}% 45
-\BOOKMARK [2][-]{subsection.4.3.2}{Core Growth and Structure}{section.4.3}% 46
-\BOOKMARK [2][-]{subsection.4.3.3}{Wind and Envelope Ejection}{section.4.3}% 47
-\BOOKMARK [2][-]{subsection.4.3.4}{The Role of Residual Carbon}{section.4.3}% 48
-\BOOKMARK [3][-]{subsubsection*.28}{Oxygen-Neon Cores}{subsection.4.3.4}% 49
-\BOOKMARK [3][-]{subsubsection*.30}{Hybrid CONeMg Cores}{subsection.4.3.4}% 50
-\BOOKMARK [1][-]{section.4.4}{Discussion and Future Work}{chapter.4}% 51
-\BOOKMARK [0][-]{chapter.5}{Conclusions and Outlook}{}% 52
-\BOOKMARK [0][-]{appendix*.32}{Bibliography}{}% 53
+\BOOKMARK [2][-]{subsection.2.1.1}{Microphysics}{section.2.1}% 29
+\BOOKMARK [3][-]{subsubsection*.19}{Nuclear networks \046 reactions rate}{subsection.2.1.1}% 30
+\BOOKMARK [2][-]{subsection.2.1.2}{Macrophysics}{section.2.1}% 31
+\BOOKMARK [3][-]{subsubsection*.20}{Mass loss}{subsection.2.1.2}% 32
+\BOOKMARK [3][-]{subsubsection*.21}{The mixing length theory}{subsection.2.1.2}% 33
+\BOOKMARK [3][-]{subsubsection*.22}{Thermohaline \046 Semiconvection}{subsection.2.1.2}% 34
+\BOOKMARK [0][-]{chapter.3}{Type-Ia Supernovae from non-accreting progenitors}{}% 35
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 36
+\BOOKMARK [1][-]{section.3.2}{\(C\)NeO cores: formation and evolution}{chapter.3}% 37
+\BOOKMARK [2][-]{subsection.3.2.1}{Numerical Calculations: Input Physics}{section.3.2}% 38
+\BOOKMARK [2][-]{subsection.3.2.2}{Simulation results}{section.3.2}% 39
+\BOOKMARK [2][-]{subsection.3.2.3}{Late evolution and thermonuclear runaway}{section.3.2}% 40
+\BOOKMARK [2][-]{subsection.3.2.4}{Energetics and nucleosynthesis}{section.3.2}% 41
+\BOOKMARK [1][-]{section.3.3}{Expected rates and delay times}{chapter.3}% 42
+\BOOKMARK [1][-]{section.3.4}{Summary}{chapter.3}% 43
+\BOOKMARK [0][-]{chapter.4}{Helium Stars as Progenitors of Thermonuclear Supernovae}{}% 44
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 45
+\BOOKMARK [2][-]{subsection.4.1.1}{Thermonuclear Supernovae}{section.4.1}% 46
+\BOOKMARK [2][-]{subsection.4.1.2}{The Urca process}{section.4.1}% 47
+\BOOKMARK [1][-]{section.4.2}{Stellar Evolution Code and Initial Parameter Space}{chapter.4}% 48
+\BOOKMARK [2][-]{subsection.4.2.1}{Physical assumptions}{section.4.2}% 49
+\BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 50
+\BOOKMARK [2][-]{subsection.4.3.1}{Overview of the Evolution}{section.4.3}% 51
+\BOOKMARK [2][-]{subsection.4.3.2}{Core Growth and Structure}{section.4.3}% 52
+\BOOKMARK [2][-]{subsection.4.3.3}{Wind and Envelope Ejection}{section.4.3}% 53
+\BOOKMARK [2][-]{subsection.4.3.4}{The Role of Residual Carbon}{section.4.3}% 54
+\BOOKMARK [3][-]{subsubsection*.32}{Oxygen-Neon Cores}{subsection.4.3.4}% 55
+\BOOKMARK [3][-]{subsubsection*.34}{Hybrid CONeMg Cores}{subsection.4.3.4}% 56
+\BOOKMARK [1][-]{section.4.4}{Discussion and Future Work}{chapter.4}% 57
+\BOOKMARK [0][-]{chapter.5}{Conclusions and Outlook}{}% 58
+\BOOKMARK [0][-]{appendix*.36}{Bibliography}{}% 59
