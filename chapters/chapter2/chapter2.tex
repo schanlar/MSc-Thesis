@@ -12,12 +12,12 @@
 
     \chapter{Methods}
     
-    	For the puproses of this thesis we performed numerical calculations using the one dimensional, stellar evolution code \textbf{M}odules for \textbf{E}xperiments in \textbf{S}tellar \textbf{A}strophysics (\texttt{MESA}) \citep{Paxton2011, Paxton:2013pj, Paxton2015, Paxton2018}. In this section, we briefly discuss the very basic aspects of \texttt{MESA}, and how some key physical concepts are being implemented in the code. The specifics of the input physics we used in our models, are being presented separately in the relevant chapters.
+    	For the puproses of this thesis we performed numerical calculations using the one dimensional, stellar evolution code \textbf{M}odules for \textbf{E}xperiments in \textbf{S}tellar \textbf{A}strophysics \citep[\mesa,][]{Paxton2011, Paxton:2013pj, Paxton2015, Paxton2018, Paxton2019}. In this section, we briefly discuss the very basic aspects of \mesa, and how some key physical concepts are being implemented in the code. The specifics of the input physics we used in our models, are being presented separately in the relevant chapters.
     	
     		\section{Modules for Experiments in Stellar Astrophysics}
     		
     			
-    			\texttt{MESA} is an open-source stellar evolution code which provides a modular approach to stellar modelling. Each of the available modules is responsible for the delivery of a specific aspect of the required physics (e.g. microphysics modules provide necessary equations of state and nuclear networks, utilization of macrophysics modules to treat mixing processes etc) in order to succesfully construct a computational stellar model.
+    			\mesa is an open-source stellar evolution code which provides a modular approach to stellar modelling. Each of the available modules is responsible for the delivery of a specific aspect of the required physics (see below) in order to succesfully construct a computational stellar model.
     			
     			For a spherically symmetric star in hydrostatic equilibrium the structure of the star is governed by the following four differential equations, in Lagrangian form
     			
@@ -27,7 +27,7 @@
 					&\textrm{Energy conservation:} &\quad \frac{\partial l}{\partial m} &= \epsilon - \epsilon_{\nu} + \epsilon_g \\ \nonumber \\
 					&\textrm{Energy transport:} &\quad \frac{\partial T}{\partial m} &= - \frac{T}{P} \frac{G m}{4 \pi r^4} \nabla  = \frac{T}{P} \frac{\partial P}{\partial m} \nabla \label{eq:2.4}
 				\end{align}
-				and its evolution by the composition equations (eq. \ref{eq:composition})
+				and its evolution by the composition equations (Eq.\,\ref{eq:composition})
 				
 				\begin{align} \label{eq:composition}
 					 \frac{\partial X_i}{\partial t} = \frac{m_i}{\rho} \left( \sum_j r_{ji} - \sum_k r_{ik} \right), \hspace{0.5cm} \text{i = 1, $\dots$, n}
@@ -35,72 +35,81 @@
 				where $X_i$ is the mass fraction of all relevant nuclei $i = 1, \dots , n$ with mass $m_i$ \cite[][p. 89]{Kipp_book}.
 				
     			
-    			\texttt{MESA} is able to simultaneously solve the coupled structure and composition equations without the need of operator splitting, where we alternately solve the spatial (structure) and temporal (evolution) equations. This is achieved by exploiting a generalized Newton-Raphson iterative solution which is most commonly referred to as the \emph{Henyey method} \citep[][p. 106]{Wilson1981, Kipp_book}; a grid of finite mesh points has to be set up, essentially dividing the structure into a large number of discrete mass cells where the differential equations need to be calculated. Assuming appropriate boundary conditions, a trial solution has to be guessed in advance which will be later improved after a number of consecutive iterations, and until the required degree of accuracy has been reached in order for the code to converge on a final solution. If after a specified number of iterations the model fails to converge, \texttt{MESA} will retry the calculation using a smaller timestep; this process will be repeated until the code finds an acceptable model to converge or until it reaches a limit in the timestep reduction.
+    			\mesa is able to simultaneously solve the coupled structure and composition equations without the need of operator splitting, where we alternately solve the spatial (structure) and temporal (evolution) equations. This is achieved by exploiting a generalized Newton-Raphson iterative solution which is most commonly referred to as the \emph{Henyey method} \citep[][p. 106]{Wilson1981, Kipp_book}; a grid of finite mesh points has to be set up, essentially dividing the structure into a large number of discrete mass cells where the differential equations need to be calculated. Assuming appropriate boundary conditions, a trial solution has to be guessed in advance which will be later improved after a number of consecutive iterations, and until the required degree of accuracy has been reached in order for the code to converge on a final solution. If after a specified number of iterations the model fails to converge, \mesa will retry the calculation using a smaller timestep; this process will be repeated until the code finds an acceptable model to converge or until it reaches a limit in the timestep reduction.
     			
-    			Finally, during the star's evolution, \texttt{MESA} will automatically adjust the mesh and redistribute it based on the structure and composition profiles of the model at the beginning of each timestep. For a proper insight into timestep selection and mesh refinement see \cite{Paxton2011}.
+    			Finally, during the star's evolution, \mesa will automatically adjust the mesh and redistribute it based on the structure and composition profiles of the model at the beginning of each timestep. For a proper insight into timestep selection and mesh refinement see \cite{Paxton2011}.
     			
     		
-\begin{comment}
-    		\section{Physical assumptions}
-    		
-    			All helium stars were created with \texttt{MESA} (version - r10398) in single star evolution by starting with a non-rotating ZAMS star of $30$ M$_{\odot}$ and solar composition ($X = 0.70$, $Y = 0.28$, $Z = 0.02$). The star was left to evolve until hydrogen depletion in its centre, at which point the hydrogen envelope was artificially removed exposing a naked helium core of $\sim 9$ M$_{\odot}$ with homogeneous composition ($Y = 0.98$, $Z = 0.02$). Lower mass helium stars were created by artificially removing the outer layers of the aforementioned helium core.
-    			
-    			
-    				\subsection{Single stars}
-    				
-    					In order to study the generic behaviour of our stellar models before putting them in a binary configuration, we evolved twenty-seven non-rotating, non-magnetic helium stars in the mass range $2.0$ - $9.0$ M$_{\odot}$. This mass grid is more dense in the range $2.0$ - $3.5$ M$_{\odot}$, with a spacing of $0.1$ in order to resolve the uncertainties in this region, and find a defining line between the initial mass of our models and their final fate. In the range $3.5$ - $9.0$ M$_{\odot}$, the mass grid becomes more sparse with a spacing of $0.5$.
-    					
-    					In all cases, the calculations are continued until the core collapse phase, where the core reaches an infall speed limit of $1000$ km s$^{-1}$, or until the code cannot find another acceptable model to continue. For the nuclear reactions network we chose the \texttt{approx21\_cr60\_plus\_co56.net} that is included in \texttt{MESA} and considers twenty-two nuclear species. Moreover, we considered ion and electron screening corrections as described in \cite{PCR2009} and \cite{Itoh2002} respectively. To account for an enhanced carbon-oxygen mixture as a result of helium burning, we used the Type-2 OPAL Rosseland mean opacity tables \citep{OPAL}.
-    					
-    					Convection was treated according to the mixing-length theory prescription of \cite{MLT_Henyey} with a mixing-length parameter of $\alpha_{\text{ML}} = 2.0$. Furthermore, we used the Ledoux criterion for convective instability adopting an efficiency parameter of $\alpha_{\text{SEM}} = 1.0$ for semiconvection \citep{Langer1991}, and a diffusion coefficient $D_{\text{TH}} = 1.0$ for thermohaline mixing. Both semiconvection and thermohaline mixing are treated by \texttt{MESA} as diffusive processes \citep{Langer1983, Kipp_thermohaline}. Convective core overshooting was not applied in any of our models since, as noted by \cite{Tauris_ultra}, mixing can be hampered in core helium-burning stars due to mass growth of the convective core over time. In spite of that, for the non-burning convective regions, we adopted a value of $f_{\text{ov}} = 0.0005$; the latter parameter is defined in \cite{Herwig2000} as a fraction of the local pressure scale height, $H_p$, and is connected to the diffusion coefficient, $D_{\text{OV}}$, via the relation given by \hyperref[eq:OV_diff]{eq (2.6)}, where $z$ is the geometric distance from the edge of the convective zone.
-    					
-    					\begin{eqnarray}
-    						\label{eq:OV_diff}
-    						D_{\text{OV}} = D_0 \exp \left( - \frac{2z}{H_v} \right), \hspace{0.5cm} H_v = f_{\text{ov}} \cdot H_p
-    					\end{eqnarray}
-    					
-    					Mass loss rates due to stellar winds were implemented using the "\texttt{Dutch}" wind scheme \citep{Dutch}. In our case, this implies two different rates depending on the effective temperature of the star; for $T_{\text{eff}} > 10^4$ K and a surface abundance of hydrogen $X < 0.4$ by mass fraction (which is always satisfied for the models we developed), we apply the prescription of \cite{Nugis2000} with a scaling factor of $\eta = 0.8$. For $T_{\text{eff}} < 10^4$ K the mass loss rate follows the prescription of \cite{deJager1988}.
-    					Nevertheless, we also calculated several models using the canonical value of $\eta = 1$, and some models with an enhanced scaling factor of $\eta = 1.58$, as proposed by \cite{yoon17}, for the intermediate to high-mass range. The reason behind this choice is that we expect to see a large discrepancy in the final masses only for more massive stars since, assuming a new efficiency parameter for the wind scheme would have a more profound impact on the higher-end of our mass grid.
-    					 All the baseline parameters we adopted above are summarized in \hyperref[tab:parameters_single]{Table 2.1}. Finally, we should mention that in most cases the spatial ($\delta_{\text{mesh}}$) and temporal resolution ($\sigma_t$) were kept constant unless otherwise stated.
-    					
-    					\begin{table} [!h]
-    						%\begin{center}
-    							\caption{Baseline parameters for single helium stars}
-    							\label{tab:parameters_single}
-    						%\end{center}
-    						\centering
-    						\resizebox{0.7\columnwidth}{!}{%
-    						\begingroup
-    							\setlength{\tabcolsep}{0.15\textwidth}
-    							\begin{tabular}{cc}
-    								\hline \hline \\
-    							
-    								Parameter & Value(s) \\\\
-    								\hline \\
-    								Convection ($\alpha_{\text{ML}}$) & $2.0$ \\\\
-    							
-    								Semiconvection ($\alpha_{\text{SC}}$) & $1.0$ \\\\
-    							
-    								Thermohaline ($D_{\text{TH}}$) & $1.0$ \\\\
-    								
-    								Overshooting ($f_{\text{ov}}$) & $0.0005$ \\\\
-    							
-    								Wind scaling factor ($\eta$) & $0.8$, $1.0$, $1.58$ \\\\
-    								
-    								Mesh Delta Coefficient ($\delta_{\text{mesh}}$) & $1.0$ \\\\
-    								
-    								Variance Control Target ($\sigma_t$) & $10^{-3}$ \\\\
-    								\hline \hline
-    							\end{tabular}%
-    						\endgroup
-    						}
-    					\end{table}
-    					
-    				\subsection{Binary systems}
-    				
-    					For the binary systems
-    
-\end{comment}
-    
+			\subsection{Microphysics}
+				Microphysics modules (e.g. \texttt{eos}, \texttt{kap}, \texttt{rates}, and \texttt{net}) provide necessary properties of stellar matter such as equations of state (which relate pressure with density and temperature), opacity tables, and nuclear reaction rates. Here we briefly mention the implementation of the latter, and how we constructed our nuclear reaction network. More information on the specifics of how the microphysics modules are being implemented in \mesa can be found in \cite{Paxton2011}.
+			
+				\subsubsection{Nuclear networks \& reactions rate}
+					The nuclear reaction network that is necessary in order to follow the evolution of a star is provided by either the \texttt{net}, or the \texttt{jina} module. The former includes basic networks as small as 8 isotopes for modeling the early evolutionary stages of a star, and more extended networks that provide new burning pathways by covering more complicated burning phases, such as hot CNO cycles during novae, and heavy-ion reactions. The \texttt{jina} module handles more than 4,500 isotopes, and although it is slower than \texttt{net}, it becomes a necessity in cases where large networks cannot be avoided. Both of those modules can be quite flexible since they do not limit the user to work only with the existing networks, but allow for a user-specified nuclear network to be created. This is achieved by providing a list of all desired isotopes and reactions to be considered in the nuclear network, in the form of a data file that is read at run time.
+					
+					Nuclear burning rates, neutrino loss rates, as well as several other weak reaction rates, are being implemented in \mesa via the \texttt{rates}, \texttt{neu}, and \texttt{weaklib} modules. The thermonuclear reaction rates are based on the results of programs such as \textsc{NACRE} \citep[Nuclear Astrophysics Compilation of REaction rates][]{nacre}, which have been calculated in the temperature range from $\rm 10^6 \ K$ to $\rm 10^{10} \ K$, for light nuclei. Weak reaction rates are based on tables or publicly available routines \citep[e.g.][]{itoh1996}. Nonetheless, these reaction rates are being constantly updated and one should refer to \mesa documentation in order to select the optimal set, or provide user-specified reaction rates.
+					
+					
+					
+			\subsection{Macrophysics}
+				Utilization of macrophysics modules such as \texttt{mlt} and \texttt{atm}, allow us to implement various mixing processes (e.g. convection), and apply atmospheric boundary conditions. In this section, we briefly mention how \mesa treats mass loss, convection, and the carbon flame propagation. Once again, we refer to \cite{Paxton2011} for a detailed explanation of macrophysics modules implementation.
+			
+				\subsubsection{Mass loss} \label{sec2:mass_loss}
+					At each timestep, \mesa performs mass adjustments before solving the stellar structure and composition equations since the mass structure of the stellar model has been modified. The mass change can be either due to accretion or losses via winds. Here we discuss only the latter case, which is implemented using several prescriptions that the user specifies \citep[e.g.][]{Dutch, deJager1988}. Nevertheless, one can provide as input constant, or arbitrary rates for the mass-change ($\rm \dot{M}$) by writting a new \texttt{fortran} routine. This routine would calculate $\rm \dot{M}$ for each timestep before calling the Newton-Raphson solver.
+					
+					  The default option in \mesa of mass loss rates for massive stars is given by the ``\texttt{Dutch}" wind scheme, as described in \cite{Dutch}. Depending on the effective temperature of the star and its surface hydrogen abundance ($X$), this scheme invokes two different mass-loss rates; for $\rm T_{eff} < 10,000 \ K$, it follows the empirical rate from \cite{deJager1988} in which, the linear approximation of the mass-loss rate is given by
+					  \begin{align}
+					  	\rm \log(- \dot{M}) = 1.769 \ \log(L/L{\odot}) - 1.676 \ \log(T_{eff}) - 8.158
+					  \end{align}
+					  whereas, for $\rm T_{eff} < 10,000 \ K$ and $X < 0.4$ by mass fraction, it follows the prescription of \cite{Nugis2000}. In this case, the mass-loss rate has been calculated based on a sample of WN and WC stars, showing a strong dependency on luminosity and chemical composition, and is given by 
+					  \begin{align}
+					  	\rm \dot{M} \simeq 1.0 \times 10^{-11} \ (L/L_{\odot})^{1.29} \ Y^{1.7} \ Z^{0.5}
+					  \end{align}
+					where $\rm \dot{M}$ is expressed in unit of $\rm M_{\odot} yr^{-1}$, and $Y$, $Z$ are the mass fractions of helium and heavier elements respectively.
+					
+					
+				\subsubsection{The mixing length theory}
+					Convection in \mesa is treated, by default, as a diffusive process using the standard mixing length theory (MLT) proposed by \cite{cox1968}, and is implemented by the \texttt{mlt} module. In MLT, a parcel of fluid equipped with some physical properties will rise (or sink) and dissolve in the surrounding environment after it has traveled a characterstic radial distance, called the ``\textit{mixing length}, $\ell_{\rm ML}$". Once the parcel of fluid has been dissolved at a mass coordinate which is different from the one it was originated, it has adopted all the physical properties of the ambient matter, making it indistinguishable from another parcel of fluid located at the same mass coordinate. Commonly, the mixing length is assumed to be of the order of the local pressure scale height\footnote{As pressure scale height we refer to the radial distance over which the pressure changes by a factor of $e$ ($e$-folding factor).}
+					\begin{align}
+						\rm H_P = \left| \frac{dr}{d \log P} \right|
+					\end{align}
+					whilst \mesa gives the option to control the efficiency of convection by specifying an efficiency factor of $\displaystyle \alpha_{\rm ML} = \ell_{\rm ML} / \rm H_P$.
+				
+					As we move towards the surface, the density and temperature decreases which causes convection to be insufficient to carry away the energy flux, and requires a larger temperature gradient. Thus, we define superadiabaticity 
+					\begin{align}
+						\rm \delta_{\nabla} \equiv \nabla_T - \nabla_{ad}				
+					\end{align}
+					where $\rm \nabla_T$ is the actual temperature gradient, as a measure of the degree to which the actual temperature gradient exceeds the adiabatic value. Hence, in stellar envelopes the energy is being transported mainly by radiation ($\rm \nabla_T \approx \nabla_{rad}$) despite the fact that convection is still taking place. Computationally, the large superadiabatic gradient can lead to extremely short timesteps in these radiation-dominated convective regions. For this reason, \mesa also provides an alternative treatment of convection, known as ``MLT++". Within this framework, the superadiabaticity implied by conventional MLT is being artificially reduced if it exceeds a threshold value that can be specified by the user ($\rm \delta_{\nabla} > \delta_{\nabla, thresh}$). This allows \mesa to calculate models of massive stars up to core collapse. However, as \cite{Paxton:2013pj} mention, the late evolutionary stages of such massive stars can be highly uncertain as these radiation-dominated envelopes may be very unstable, leading to a significant enhancement of mass loss.
+				 
+				\subsubsection{Thermohaline \& Semiconvection}\label{sec2:thermo_and_semi}
+					Semiconvection occurs in regions that are stable to Ledoux criterion but unstable to Schwarzschild
+					\begin{align}
+						\rm \nabla_{ad} \leq \nabla_{rad} < \nabla_{ad} + B
+					\end{align}
+					where $\rm B$ is commonly referred to as the ``Ledoux term" of Eq.\,\ref{eq:ledoux} and reads
+					\begin{align}\label{eq:bterm}
+						\rm B = - \frac{\phi}{\delta} \nabla_{\mu}
+					\end{align}
+					The Ledoux term accounts for variation of the composition in chemically inhomogeneous regions (i.e. where $\rm \nabla_{\mu} \neq 0$). The gradient of mean molecular weight, $\rm \mu$ that characterizes a chemically inhomogeneous region, along with the other terms of Eq.\,\ref{eq:bterm}, are defined as
+					\begin{align}
+						\rm \phi = \left(\frac{\partial \log \rho}{\partial \log \mu}  \right)_{P, T}, \quad
+						\rm \delta = - \left(\frac{\partial \log \rho}{\partial \log T}  \right)_{P, \mu}, \quad
+						\rm \nabla_{\mu} = \left( \frac{d \log \mu}{d \log P} \right)_s			
+					\end{align}
+					The subscripts $\rm P, \ T$ mean that pressure and temperature are held constant, where the subscript $\rm s$ means the derivative is taken in the surrounding material \citep[pp.~49-50]{Kipp_book}.
+					
+					In \mesa, semiconvections is treated as a time-dependent diffusive processes \citep{Langer1983}, where the diffusion coefficient is calcuted by invoking the \texttt{mlt} module
+					\begin{align}
+						\rm D_{SC} = \alpha_{SC} \left( \frac{K}{6 \rho \ C_P} \right) \frac{\nabla_T - \nabla_{ad}}{\nabla_{ad} + B - \nabla_T}
+					\end{align}
+					where $\rm K$ is the radiative conductivity, $\rm C_P$ is the specific heat at constant pressure, $\rm \nabla_T$ is the actual temperature gradient, and $\rm \alpha_{SC}$ is a user-specified, dimensionless efficiency parameter.	
+					
+					Thermohaline mixing is taking place when there is an inversion of the mean molecular weight in regions stable against convection as implied by the Ledoux criterion. \mesa treats thermohaline mixing similarly to semiconvection \cite[i.e. as a diffusive process,][]{Kipp_thermohaline}, allowing the user to specify a dimensionless efficiency parameter, $\rm \alpha_{TH}$ according to
+					\begin{align}
+						\rm D_{TH} = \alpha_{TH} \frac{3 \ K}{2 \rho \ C_P} \frac{B}{\nabla_T - \nabla_{ad}}	
+					\end{align}
+					
+					Convective overshooting is also treated by \mesa as a time-dependent diffusive process. However we briefly discuss its implementation in Section \,\ref{sec:input_physics}. For more details on the implementation of the MLT, and other mixing processes we refer to \cite{Paxton2011, Paxton:2013pj}
+					
+									
     
 \end{document}
