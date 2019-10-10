@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  9 OCT 2019 22:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.12)  10 OCT 2019 16:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1301,7 +1301,7 @@ LaTeX Info: Redefining \nameref on input line 166.
 \openout6 = `thesis_msc.out'.
 
 
-<../figures/aifa_logo.png, id=244, 96.36pt x 39.9894pt>
+<../figures/aifa_logo.png, id=248, 96.36pt x 39.9894pt>
 File: ../figures/aifa_logo.png Graphic file (type png)
 
 <use ../figures/aifa_logo.png>
@@ -1322,7 +1322,7 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 179.
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-<../figures/uni_logo.png, id=245, 1027.84pt x 396.48125pt>
+<../figures/uni_logo.png, id=249, 1027.84pt x 396.48125pt>
 File: ../figures/uni_logo.png Graphic file (type png)
 
 <use ../figures/uni_logo.png>
@@ -1407,6 +1407,10 @@ Package minitoc Info: I0033
 (minitoc)             Writing thesis_msc.mtc10.
 \openout3 = `thesis_msc.mtc10'.
 
+Package minitoc Info: I0033
+(minitoc)             Writing thesis_msc.mtc11.
+\openout3 = `thesis_msc.mtc11'.
+
  (./thesis_msc.toc
 [11
 
@@ -1422,13 +1426,21 @@ Package minitoc Info: I0033
 \tf@lof=\write8
 \openout8 = `thesis_msc.lof'.
 
- [14] (../chapters/chapter1/chapter1.tex
+ [14] (./thesis_msc.lot)
+\tf@lot=\write9
+\openout9 = `thesis_msc.lot'.
+
+ [15
+
+
+] [16]
+(../chapters/chapter1/chapter1.tex
 Chapter 1.
 [1
 
 
 ]
-<../figures/chapter1/T_rho_plane_ch1_shaded.png, id=538, 905.784pt x 632.6034pt
+<../figures/chapter1/T_rho_plane_ch1_shaded.png, id=559, 905.784pt x 632.6034pt
 >
 File: ../figures/chapter1/T_rho_plane_ch1_shaded.png Graphic file (type png)
  <use ../figures/chapter1/T_rho_plane_ch1_shaded.png>
@@ -1439,7 +1451,7 @@ Package pdftex.def Info: ../figures/chapter1/T_rho_plane_ch1_shaded.png used on
 Underfull \vbox (badness 1496) has occurred while \output is active []
 
  [3 <../figures/chapter1/T_rho_plane_ch1_shaded.png>]
-<../figures/chapter1/Kippenhahn_intro.png, id=560, 850.8588pt x 573.5829pt>
+<../figures/chapter1/Kippenhahn_intro.png, id=582, 850.8588pt x 573.5829pt>
 File: ../figures/chapter1/Kippenhahn_intro.png Graphic file (type png)
 
 <use ../figures/chapter1/Kippenhahn_intro.png>
@@ -1447,7 +1459,7 @@ Package pdftex.def Info: ../figures/chapter1/Kippenhahn_intro.png used on input
  line 62.
 (pdftex.def)             Requested size: 396.44331pt x 267.24718pt.
  [4 <../figures/chapter1/Kippenhahn_intro.png>] [5] [6]
-<../figures/chapter1/equipotentials_mu_0_316.png, id=707, 605.3817pt x 596.9502
+<../figures/chapter1/equipotentials_mu_0_316.png, id=728, 605.3817pt x 596.9502
 pt>
 File: ../figures/chapter1/equipotentials_mu_0_316.png Graphic file (type png)
  <use ../figures/chapter1/equipotentials_mu_0_316.png>
@@ -1455,7 +1467,7 @@ Package pdftex.def Info: ../figures/chapter1/equipotentials_mu_0_316.png used o
 n input line 151.
 (pdftex.def)             Requested size: 222.997pt x 219.88437pt.
 
-<../figures/chapter1/3Dequipotentials_transparent.png, id=708, 1063.975pt x 106
+<../figures/chapter1/3Dequipotentials_transparent.png, id=729, 1063.975pt x 106
 3.975pt>
 File: ../figures/chapter1/3Dequipotentials_transparent.png Graphic file (type p
 ng)
@@ -1465,7 +1477,7 @@ sed on input line 156.
 (pdftex.def)             Requested size: 265.12227pt x 265.11641pt.
  [7 <../figures/chapter1/equipotentials_mu_0_316.png> <../figures/chapter1/3Deq
 uipotentials_transparent.png>] [8] [9]
-<../figures/chapter1/DNS_formation_transparent.png, id=799, 240.4182pt x 294.37
+<../figures/chapter1/DNS_formation_transparent.png, id=821, 240.4182pt x 294.37
 98pt>
 File: ../figures/chapter1/DNS_formation_transparent.png Graphic file (type png)
 
@@ -1474,7 +1486,7 @@ Package pdftex.def Info: ../figures/chapter1/DNS_formation_transparent.png used
  on input line 233.
 (pdftex.def)             Requested size: 204.35641pt x 250.224pt.
  [10 <../figures/chapter1/DNS_formation_transparent.png>]
-<../figures/chapter1/SNeClass.pdf, id=825, 739.76375pt x 279.0425pt>
+<../figures/chapter1/SNeClass.pdf, id=847, 739.76375pt x 279.0425pt>
 File: ../figures/chapter1/SNeClass.pdf Graphic file (type pdf)
 
 <use ../figures/chapter1/SNeClass.pdf>
@@ -1497,14 +1509,14 @@ Overfull \hbox (14.92366pt too wide) in paragraph at lines 7--7
 
 \openout3 = `thesis_msc.mtc'.
 
-(./thesis_msc.mtc7) [19
+(./thesis_msc.mtc8) [19
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\lowercase' on input line 127.
 
-[20] <../figures/chapter3/Kip_m1.png, id=1154, 799.98875pt x 760.8425pt>
+[20] <../figures/chapter3/Kip_m1.png, id=1175, 799.98875pt x 760.8425pt>
 File: ../figures/chapter3/Kip_m1.png Graphic file (type png)
 
 <use ../figures/chapter3/Kip_m1.png>
@@ -1512,7 +1524,7 @@ Package pdftex.def Info: ../figures/chapter3/Kip_m1.png used on input line 200.
 
 (pdftex.def)             Requested size: 247.77612pt x 235.64977pt.
 
-<../figures/chapter3/Kip_m2.png, id=1155, 799.98875pt x 750.805pt>
+<../figures/chapter3/Kip_m2.png, id=1176, 799.98875pt x 750.805pt>
 File: ../figures/chapter3/Kip_m2.png Graphic file (type png)
 
 <use ../figures/chapter3/Kip_m2.png>
@@ -1525,7 +1537,7 @@ Overfull \hbox (19.99998pt too wide) in paragraph at lines 198--203
  []
 
 [21] [22 <../figures/chapter3/Kip_m1.png> <../figures/chapter3/Kip_m2.png>]
-<../figures/chapter3/Rhoc_vs_Tc.pdf, id=1193, 1445.4pt x 867.24pt>
+<../figures/chapter3/Rhoc_vs_Tc.pdf, id=1215, 1445.4pt x 867.24pt>
 File: ../figures/chapter3/Rhoc_vs_Tc.pdf Graphic file (type pdf)
 
 <use ../figures/chapter3/Rhoc_vs_Tc.pdf>
@@ -1533,7 +1545,7 @@ Package pdftex.def Info: ../figures/chapter3/Rhoc_vs_Tc.pdf used on input line
 261.
 (pdftex.def)             Requested size: 495.55226pt x 297.33228pt.
  [23]
-<../figures/chapter3/composition.pdf, id=1214, 722.7pt x 722.7pt>
+<../figures/chapter3/composition.pdf, id=1235, 722.7pt x 722.7pt>
 File: ../figures/chapter3/composition.pdf Graphic file (type pdf)
 
 <use ../figures/chapter3/composition.pdf>
@@ -1541,7 +1553,7 @@ Package pdftex.def Info: ../figures/chapter3/composition.pdf used on input line
  311.
 (pdftex.def)             Requested size: 247.77612pt x 247.77689pt.
  [24 <../figures/chapter3/Rhoc_vs_Tc.pdf>] <../figures/chapter3/rates.pdf, id=1
-269, 1084.05pt x 722.7pt>
+290, 1084.05pt x 722.7pt>
 File: ../figures/chapter3/rates.pdf Graphic file (type pdf)
 
 <use ../figures/chapter3/rates.pdf>
@@ -1555,7 +1567,7 @@ Chapter 4.
 
 \openout3 = `thesis_msc.mtc'.
 
-(./thesis_msc.mtc8) [29
+(./thesis_msc.mtc9) [29
 
 ] [30] [31] [32]
 Underfull \hbox (badness 10000) in alignment at lines 104--115
@@ -1563,14 +1575,14 @@ Underfull \hbox (badness 10000) in alignment at lines 104--115
  []
 
 [33]
-<../figures/chapter4/Kipp_2p5_0p02_0p0.pdf, id=1606, 850.51566pt x 764.44257pt>
+<../figures/chapter4/Kipp_2p5_0p02_0p0.pdf, id=1628, 850.51566pt x 764.44257pt>
 File: ../figures/chapter4/Kipp_2p5_0p02_0p0.pdf Graphic file (type pdf)
 <use ../figures/chapter4/Kipp_2p5_0p02_0p0.pdf>
 Package pdftex.def Info: ../figures/chapter4/Kipp_2p5_0p02_0p0.pdf used on inpu
 t line 153.
 (pdftex.def)             Requested size: 247.77612pt x 222.69746pt.
  [34]
-<../figures/chapter4/parameterSpaceRaster.png, id=1621, 1283.997pt x 679.0971pt
+<../figures/chapter4/parameterSpaceRaster.png, id=1642, 1283.997pt x 679.0971pt
 >
 File: ../figures/chapter4/parameterSpaceRaster.png Graphic file (type png)
  <use ../figures/chapter4/parameterSpaceRaster.png>
@@ -1578,7 +1590,7 @@ Package pdftex.def Info: ../figures/chapter4/parameterSpaceRaster.png used on i
 nput line 168.
 (pdftex.def)             Requested size: 396.44331pt x 209.67859pt.
 
-<../figures/chapter4/coreGrowth_merge1.pdf, id=1623, 642.74571pt x 886.4698pt>
+<../figures/chapter4/coreGrowth_merge1.pdf, id=1644, 642.74571pt x 886.4698pt>
 File: ../figures/chapter4/coreGrowth_merge1.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/coreGrowth_merge1.pdf>
@@ -1586,7 +1598,7 @@ Package pdftex.def Info: ../figures/chapter4/coreGrowth_merge1.pdf used on inpu
 t line 179.
 (pdftex.def)             Requested size: 222.997pt x 307.55026pt.
 
-<../figures/chapter4/coreGrowth_merge2.pdf, id=1624, 642.74571pt x 886.4698pt>
+<../figures/chapter4/coreGrowth_merge2.pdf, id=1645, 642.74571pt x 886.4698pt>
 File: ../figures/chapter4/coreGrowth_merge2.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/coreGrowth_merge2.pdf>
@@ -1605,21 +1617,21 @@ wth_merge1.pdf> <../figures/chapter4/coreGrowth_merge2.pdf
 
 pdfTeX warning: pdflatex (file ../figures/chapter4/coreGrowth_merge2.pdf): PDF 
 inclusion: multiple pdfs with page group included in a single page
->] <../figures/chapter4/HRD.pdf, id=1697, 443.85094pt x 288.64331pt>
+>] <../figures/chapter4/HRD.pdf, id=1717, 443.85094pt x 288.64331pt>
 File: ../figures/chapter4/HRD.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/HRD.pdf>
 Package pdftex.def Info: ../figures/chapter4/HRD.pdf used on input line 197.
 (pdftex.def)             Requested size: 297.33438pt x 193.36357pt.
  [37 <../figures/chapter4/HRD.pdf>]
-<../figures/chapter4/RhoT.pdf, id=1754, 1271.34164pt x 617.13728pt>
+<../figures/chapter4/RhoT.pdf, id=1774, 1271.34164pt x 617.13728pt>
 File: ../figures/chapter4/RhoT.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/RhoT.pdf>
 Package pdftex.def Info: ../figures/chapter4/RhoT.pdf used on input line 228.
 (pdftex.def)             Requested size: 495.55226pt x 240.55074pt.
  [38 <../figures/chapter4/RhoT.pdf>]
-<../figures/chapter4/1p8_logRho9_abun.pdf, id=1787, 806.81264pt x 767.7219pt>
+<../figures/chapter4/1p8_logRho9_abun.pdf, id=1807, 806.81264pt x 767.7219pt>
 File: ../figures/chapter4/1p8_logRho9_abun.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/1p8_logRho9_abun.pdf>
@@ -1627,14 +1639,14 @@ Package pdftex.def Info: ../figures/chapter4/1p8_logRho9_abun.pdf used on input
  line 262.
 (pdftex.def)             Requested size: 222.997pt x 212.19604pt.
 
-<../figures/chapter4/2p5_logRho_9_abun.pdf, id=1788, 806.81264pt x 780.73045pt>
+<../figures/chapter4/2p5_logRho_9_abun.pdf, id=1808, 806.81264pt x 780.73045pt>
 File: ../figures/chapter4/2p5_logRho_9_abun.pdf Graphic file (type pdf)
 <use ../figures/chapter4/2p5_logRho_9_abun.pdf>
 Package pdftex.def Info: ../figures/chapter4/2p5_logRho_9_abun.pdf used on inpu
 t line 268.
 (pdftex.def)             Requested size: 222.997pt x 215.79158pt.
 
-<../figures/chapter4/2p5_final_abun.pdf, id=1789, 806.81264pt x 767.7219pt>
+<../figures/chapter4/2p5_final_abun.pdf, id=1809, 806.81264pt x 767.7219pt>
 File: ../figures/chapter4/2p5_final_abun.pdf Graphic file (type pdf)
 
 <use ../figures/chapter4/2p5_final_abun.pdf>
@@ -1642,7 +1654,7 @@ Package pdftex.def Info: ../figures/chapter4/2p5_final_abun.pdf used on input l
 ine 273.
 (pdftex.def)             Requested size: 222.997pt x 212.19604pt.
 
-<../figures/chapter4/2p5_abun_carbon_sup.pdf, id=1790, 806.81264pt x 767.7219pt
+<../figures/chapter4/2p5_abun_carbon_sup.pdf, id=1810, 806.81264pt x 767.7219pt
 >
 File: ../figures/chapter4/2p5_abun_carbon_sup.pdf Graphic file (type pdf)
  <use ../figures/chapter4/2p5_abun_carbon_sup.pdf>
@@ -1722,20 +1734,20 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                in the thesis_msc.log file.
 
 [54]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 374.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 381.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 381.
  (./thesis_msc.xwm) (./thesis_msc.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 381.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 381.
 Package rerunfilecheck Info: File `thesis_msc.out' has not changed.
-(rerunfilecheck)             Checksum: A9E8DF4AA553DC71940451BA4C32037A;4309.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 374.
+(rerunfilecheck)             Checksum: 41B82B234D6BB6D0F120217BAA4A6DDB;4360.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 381.
  ) 
 Here is how much of TeX's memory you used:
- 42149 strings out of 493104
- 950381 string characters out of 6139412
- 1277586 words of memory out of 5000000
- 44265 multiletter control sequences out of 15000+600000
+ 42160 strings out of 493104
+ 950482 string characters out of 6139412
+ 1277848 words of memory out of 5000000
+ 44266 multiletter control sequences out of 15000+600000
  22623 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,16n,92p,9876b,836s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1765,10 +1777,10 @@ y8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/cbfonts/grmi1095.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis_msc.pdf (68 pages, 3330411 bytes).
+Output written on thesis_msc.pdf (70 pages, 3330607 bytes).
 PDF statistics:
- 2267 PDF objects out of 2487 (max. 8388607)
- 2078 compressed objects within 21 object streams
- 376 named destinations out of 1000 (max. 500000)
- 600 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2287 PDF objects out of 2487 (max. 8388607)
+ 2096 compressed objects within 21 object streams
+ 380 named destinations out of 1000 (max. 500000)
+ 608 words of extra memory for PDF output out of 10000 (max. 10000000)
 

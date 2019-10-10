@@ -4,6 +4,14 @@
 \select@language {greek}
 \select@language {english}
 \addvspace {10\p@ }
+\contentsline {xchapter}{Introduction}{1}{chapter.1}
 \addvspace {10\p@ }
+\contentsline {xchapter}{Methods}{15}{chapter.2}
 \addvspace {10\p@ }
+\contentsline {xchapter}{Type-Ia Supernovae from non-accreting progenitors}{19}{chapter.3}
 \addvspace {10\p@ }
+\contentsline {xchapter}{Helium Stars as Progenitors of Thermonuclear Supernovae}{29}{chapter.4}
+\contentsline {table}{\numberline {4.1}{\ignorespaces Baseline parameters for single helium stars\relax }}{33}{table.caption.29}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Stellar parameters for twenty-two single helium stars, evolved to the pre-SN stage. Models that were able to evolve after oxygen ignition are indicated with an asterisk in the comments. $\rm X_9$ refers to the core mass fraction when $\rm \qopname \relax o{log}(\rho _c/ gr \ cm^{-3}) \approx 9.0$. As ignition density we consider the maximum density before the thermal runaway.\relax }}{41}{table.4.2}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusions and Outlook}{43}{chapter.5}

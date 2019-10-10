@@ -3,57 +3,58 @@
 \BOOKMARK [0][-]{chapter*.3}{Acknowledgments}{}% 3
 \BOOKMARK [0][-]{section*.4}{Contents}{}% 4
 \BOOKMARK [0][-]{section*.6}{List of Figures}{}% 5
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 6
-\BOOKMARK [1][-]{section.1.1}{Helium stars}{chapter.1}% 7
-\BOOKMARK [2][-]{subsection.1.1.1}{Formation of helium stars}{section.1.1}% 8
-\BOOKMARK [2][-]{subsection.1.1.2}{Evolution of single helium stars}{section.1.1}% 9
-\BOOKMARK [3][-]{subsubsection*.10}{Mixing mechanisms}{subsection.1.1.2}% 10
-\BOOKMARK [3][-]{subsubsection*.11}{Effects of rotation}{subsection.1.1.2}% 11
-\BOOKMARK [3][-]{subsubsection*.12}{Stellar winds and mass loss}{subsection.1.1.2}% 12
-\BOOKMARK [1][-]{section.1.2}{Evolution of binary systems}{chapter.1}% 13
-\BOOKMARK [2][-]{subsection.1.2.1}{Interaction and orbital parameters}{section.1.2}% 14
-\BOOKMARK [2][-]{subsection.1.2.2}{Mass transfer}{section.1.2}% 15
-\BOOKMARK [2][-]{subsection.1.2.3}{Common envelope}{section.1.2}% 16
-\BOOKMARK [2][-]{subsection.1.2.4}{Angular momentum losses}{section.1.2}% 17
-\BOOKMARK [2][-]{subsection.1.2.5}{Double neutron star systems}{section.1.2}% 18
-\BOOKMARK [1][-]{section.1.3}{Stellar transients}{chapter.1}% 19
-\BOOKMARK [2][-]{subsection.1.3.1}{Explosion Mechanisms}{section.1.3}% 20
-\BOOKMARK [3][-]{subsubsection*.16}{Iron core collapse SNe \(Fe-CCSNe\)}{subsection.1.3.1}% 21
-\BOOKMARK [3][-]{subsubsection*.17}{Electron capture SNe \(ECSNe\)}{subsection.1.3.1}% 22
-\BOOKMARK [3][-]{subsubsection*.18}{Pair instability SNe \(PISNe\)}{subsection.1.3.1}% 23
-\BOOKMARK [2][-]{subsection.1.3.2}{Type Ia Supernovae}{section.1.3}% 24
-\BOOKMARK [2][-]{subsection.1.3.3}{Type Ib/c Supernovae}{section.1.3}% 25
-\BOOKMARK [1][-]{section.1.4}{Thesis Outline}{chapter.1}% 26
-\BOOKMARK [0][-]{chapter.2}{Methods}{}% 27
-\BOOKMARK [1][-]{section.2.1}{Modules for Experiments in Stellar Astrophysics}{chapter.2}% 28
-\BOOKMARK [2][-]{subsection.2.1.1}{Microphysics}{section.2.1}% 29
-\BOOKMARK [3][-]{subsubsection*.19}{Nuclear networks \046 reactions rate}{subsection.2.1.1}% 30
-\BOOKMARK [2][-]{subsection.2.1.2}{Macrophysics}{section.2.1}% 31
-\BOOKMARK [3][-]{subsubsection*.20}{Mass loss}{subsection.2.1.2}% 32
-\BOOKMARK [3][-]{subsubsection*.21}{The mixing length theory}{subsection.2.1.2}% 33
-\BOOKMARK [3][-]{subsubsection*.22}{Thermohaline \046 Semiconvection}{subsection.2.1.2}% 34
-\BOOKMARK [0][-]{chapter.3}{Type-Ia Supernovae from non-accreting progenitors}{}% 35
-\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 36
-\BOOKMARK [1][-]{section.3.2}{\(C\)NeO cores: formation and evolution}{chapter.3}% 37
-\BOOKMARK [2][-]{subsection.3.2.1}{Numerical Calculations: Input Physics}{section.3.2}% 38
-\BOOKMARK [2][-]{subsection.3.2.2}{Simulation results}{section.3.2}% 39
-\BOOKMARK [2][-]{subsection.3.2.3}{Late evolution and thermonuclear runaway}{section.3.2}% 40
-\BOOKMARK [2][-]{subsection.3.2.4}{Energetics and nucleosynthesis}{section.3.2}% 41
-\BOOKMARK [1][-]{section.3.3}{Expected rates and delay times}{chapter.3}% 42
-\BOOKMARK [1][-]{section.3.4}{Summary}{chapter.3}% 43
-\BOOKMARK [0][-]{chapter.4}{Helium Stars as Progenitors of Thermonuclear Supernovae}{}% 44
-\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 45
-\BOOKMARK [2][-]{subsection.4.1.1}{Thermonuclear Supernovae}{section.4.1}% 46
-\BOOKMARK [2][-]{subsection.4.1.2}{The Urca process}{section.4.1}% 47
-\BOOKMARK [1][-]{section.4.2}{Stellar Evolution Code and Initial Parameter Space}{chapter.4}% 48
-\BOOKMARK [2][-]{subsection.4.2.1}{Physical assumptions}{section.4.2}% 49
-\BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 50
-\BOOKMARK [2][-]{subsection.4.3.1}{Overview of the Evolution}{section.4.3}% 51
-\BOOKMARK [2][-]{subsection.4.3.2}{Core Growth and Structure}{section.4.3}% 52
-\BOOKMARK [2][-]{subsection.4.3.3}{Wind and Envelope Ejection}{section.4.3}% 53
-\BOOKMARK [2][-]{subsection.4.3.4}{The Role of Residual Carbon}{section.4.3}% 54
-\BOOKMARK [3][-]{subsubsection*.32}{Oxygen-Neon Cores}{subsection.4.3.4}% 55
-\BOOKMARK [3][-]{subsubsection*.34}{Hybrid CONeMg Cores}{subsection.4.3.4}% 56
-\BOOKMARK [1][-]{section.4.4}{Discussion and Future Work}{chapter.4}% 57
-\BOOKMARK [0][-]{chapter.5}{Conclusions and Outlook}{}% 58
-\BOOKMARK [0][-]{appendix*.36}{Bibliography}{}% 59
+\BOOKMARK [0][-]{section*.8}{List of Tables}{}% 6
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 7
+\BOOKMARK [1][-]{section.1.1}{Helium stars}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.1.1}{Formation of helium stars}{section.1.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.2}{Evolution of single helium stars}{section.1.1}% 10
+\BOOKMARK [3][-]{subsubsection*.12}{Mixing mechanisms}{subsection.1.1.2}% 11
+\BOOKMARK [3][-]{subsubsection*.13}{Effects of rotation}{subsection.1.1.2}% 12
+\BOOKMARK [3][-]{subsubsection*.14}{Stellar winds and mass loss}{subsection.1.1.2}% 13
+\BOOKMARK [1][-]{section.1.2}{Evolution of binary systems}{chapter.1}% 14
+\BOOKMARK [2][-]{subsection.1.2.1}{Interaction and orbital parameters}{section.1.2}% 15
+\BOOKMARK [2][-]{subsection.1.2.2}{Mass transfer}{section.1.2}% 16
+\BOOKMARK [2][-]{subsection.1.2.3}{Common envelope}{section.1.2}% 17
+\BOOKMARK [2][-]{subsection.1.2.4}{Angular momentum losses}{section.1.2}% 18
+\BOOKMARK [2][-]{subsection.1.2.5}{Double neutron star systems}{section.1.2}% 19
+\BOOKMARK [1][-]{section.1.3}{Stellar transients}{chapter.1}% 20
+\BOOKMARK [2][-]{subsection.1.3.1}{Explosion Mechanisms}{section.1.3}% 21
+\BOOKMARK [3][-]{subsubsection*.18}{Iron core collapse SNe \(Fe-CCSNe\)}{subsection.1.3.1}% 22
+\BOOKMARK [3][-]{subsubsection*.19}{Electron capture SNe \(ECSNe\)}{subsection.1.3.1}% 23
+\BOOKMARK [3][-]{subsubsection*.20}{Pair instability SNe \(PISNe\)}{subsection.1.3.1}% 24
+\BOOKMARK [2][-]{subsection.1.3.2}{Type Ia Supernovae}{section.1.3}% 25
+\BOOKMARK [2][-]{subsection.1.3.3}{Type Ib/c Supernovae}{section.1.3}% 26
+\BOOKMARK [1][-]{section.1.4}{Thesis Outline}{chapter.1}% 27
+\BOOKMARK [0][-]{chapter.2}{Methods}{}% 28
+\BOOKMARK [1][-]{section.2.1}{Modules for Experiments in Stellar Astrophysics}{chapter.2}% 29
+\BOOKMARK [2][-]{subsection.2.1.1}{Microphysics}{section.2.1}% 30
+\BOOKMARK [3][-]{subsubsection*.21}{Nuclear networks \046 reactions rate}{subsection.2.1.1}% 31
+\BOOKMARK [2][-]{subsection.2.1.2}{Macrophysics}{section.2.1}% 32
+\BOOKMARK [3][-]{subsubsection*.22}{Mass loss}{subsection.2.1.2}% 33
+\BOOKMARK [3][-]{subsubsection*.23}{The mixing length theory}{subsection.2.1.2}% 34
+\BOOKMARK [3][-]{subsubsection*.24}{Thermohaline \046 Semiconvection}{subsection.2.1.2}% 35
+\BOOKMARK [0][-]{chapter.3}{Type-Ia Supernovae from non-accreting progenitors}{}% 36
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 37
+\BOOKMARK [1][-]{section.3.2}{\(C\)NeO cores: formation and evolution}{chapter.3}% 38
+\BOOKMARK [2][-]{subsection.3.2.1}{Numerical Calculations: Input Physics}{section.3.2}% 39
+\BOOKMARK [2][-]{subsection.3.2.2}{Simulation results}{section.3.2}% 40
+\BOOKMARK [2][-]{subsection.3.2.3}{Late evolution and thermonuclear runaway}{section.3.2}% 41
+\BOOKMARK [2][-]{subsection.3.2.4}{Energetics and nucleosynthesis}{section.3.2}% 42
+\BOOKMARK [1][-]{section.3.3}{Expected rates and delay times}{chapter.3}% 43
+\BOOKMARK [1][-]{section.3.4}{Summary}{chapter.3}% 44
+\BOOKMARK [0][-]{chapter.4}{Helium Stars as Progenitors of Thermonuclear Supernovae}{}% 45
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 46
+\BOOKMARK [2][-]{subsection.4.1.1}{Thermonuclear Supernovae}{section.4.1}% 47
+\BOOKMARK [2][-]{subsection.4.1.2}{The Urca process}{section.4.1}% 48
+\BOOKMARK [1][-]{section.4.2}{Stellar Evolution Code and Initial Parameter Space}{chapter.4}% 49
+\BOOKMARK [2][-]{subsection.4.2.1}{Physical assumptions}{section.4.2}% 50
+\BOOKMARK [1][-]{section.4.3}{Results}{chapter.4}% 51
+\BOOKMARK [2][-]{subsection.4.3.1}{Overview of the Evolution}{section.4.3}% 52
+\BOOKMARK [2][-]{subsection.4.3.2}{Core Growth and Structure}{section.4.3}% 53
+\BOOKMARK [2][-]{subsection.4.3.3}{Wind and Envelope Ejection}{section.4.3}% 54
+\BOOKMARK [2][-]{subsection.4.3.4}{The Role of Residual Carbon}{section.4.3}% 55
+\BOOKMARK [3][-]{subsubsection*.34}{Oxygen-Neon Cores}{subsection.4.3.4}% 56
+\BOOKMARK [3][-]{subsubsection*.36}{Hybrid CONeMg Cores}{subsection.4.3.4}% 57
+\BOOKMARK [1][-]{section.4.4}{Discussion and Future Work}{chapter.4}% 58
+\BOOKMARK [0][-]{chapter.5}{Conclusions and Outlook}{}% 59
+\BOOKMARK [0][-]{appendix*.38}{Bibliography}{}% 60

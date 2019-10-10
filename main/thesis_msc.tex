@@ -339,14 +339,21 @@
 }
 
     % LIST OF TABLES
-    %\cleardoublepage
-    %\phantomsection
-    %\addcontentsline{toc}{chapter}{List of Tables}
-    %\listoftables
+    \cleardoublepage
+    \phantomsection
+    \addcontentsline{toc}{chapter}{List of Tables}
+    
+{
+	\hypersetup{linkcolor=black, pdfborder=0 0 1, citecolor=black}
+    \listoftables
+    \adjustmtc % necessary for displaying the minitoc after using \addcontentsline
+    \newpage  % Inserting empty page
+   	\mbox{}
+   	\thispagestyle{empty}
+}
+	
 
-   % \newpage  % Inserting empty page
-   % \mbox{}
-   % \thispagestyle{empty}
+   
 
 
     \mainmatter  % front and main matter to make roman numbers in between
