@@ -51,7 +51,7 @@
 					
 					
 			\subsection{Macrophysics}
-				Utilization of macrophysics modules such as \texttt{mlt} and \texttt{atm}, allow us to implement various mixing processes (e.g. convection), and apply atmospheric boundary conditions. In this section, we briefly mention how \mesa treats mass loss, convection, and the carbon flame propagation. Once again, we refer to \cite{Paxton2011} for a detailed explanation of macrophysics modules implementation.
+				Utilization of macrophysics modules such as \texttt{mlt} and \texttt{atm}, allow us to implement various mixing processes (e.g. convection), and apply atmospheric boundary conditions. In this section, we briefly mention how \mesa treats mass loss, (semi) convection, and thermohaline mixing. Once again, we refer to \cite{Paxton2011} for a detailed explanation of macrophysics modules implementation.
 			
 				\subsubsection{Mass loss} \label{sec2:mass_loss}
 					At each timestep, \mesa performs mass adjustments before solving the stellar structure and composition equations since the mass structure of the stellar model has been modified. The mass change can be either due to accretion or losses via winds. Here we discuss only the latter case, which is implemented using several prescriptions that the user specifies \citep[e.g.][]{Dutch, deJager1988}. Nevertheless, one can provide as input constant, or arbitrary rates for the mass-change ($\rm \dot{M}$) by writting a new \texttt{fortran} routine. This routine would calculate $\rm \dot{M}$ for each timestep before calling the Newton-Raphson solver.
