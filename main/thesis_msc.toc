@@ -3,11 +3,11 @@
 \select@language {english}
 \select@language {greek}
 \select@language {english}
-\contentsline {chapter}{Abstract}{{\fontencoding {OT1}\selectfont vii}}{chapter*.2}
-\contentsline {chapter}{Acknowledgments}{{\fontencoding {OT1}\selectfont ix}}{chapter*.3}
-\contentsline {chapter}{Contents}{{\fontencoding {OT1}\selectfont xi}}{section*.4}
-\contentsline {chapter}{List of Figures}{{\fontencoding {OT1}\selectfont xiii}}{section*.6}
-\contentsline {chapter}{List of Tables}{{\fontencoding {OT1}\selectfont xv}}{section*.8}
+\contentsline {chapter}{Abstract}{\textlatin {vii}}{chapter*.2}
+\contentsline {chapter}{Acknowledgments}{\textlatin {ix}}{chapter*.3}
+\contentsline {chapter}{Contents}{\textlatin {xi}}{section*.4}
+\contentsline {chapter}{List of Figures}{\textlatin {xiii}}{section*.6}
+\contentsline {chapter}{List of Tables}{\textlatin {xv}}{section*.8}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Helium stars}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Formation of helium stars}{2}{subsection.1.1.1}
@@ -55,10 +55,10 @@
 \contentsline {section}{\numberline {4.3}Results}{33}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Overview of the Evolution}{33}{subsection.4.3.1}
 \contentsline {subsection}{\numberline {4.3.2}Core Growth and Structure}{34}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Wind and Envelope Ejection}{37}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}The Role of Residual Carbon}{37}{subsection.4.3.4}
-\contentsline {subsubsection}{Oxygen-Neon Cores}{37}{subsubsection*.34}
+\contentsline {subsection}{\numberline {4.3.3}Wind and Envelope Ejection}{35}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}The Role of Residual Carbon}{36}{subsection.4.3.4}
+\contentsline {subsubsection}{Oxygen-Neon Cores}{36}{subsubsection*.34}
 \contentsline {subsubsection}{Hybrid CONeMg Cores}{39}{subsubsection*.36}
 \contentsline {section}{\numberline {4.4}Discussion and Future Work}{39}{section.4.4}
 \contentsline {chapter}{\numberline {5}Conclusions and Outlook}{43}{chapter.5}
-\contentsline {chapter}{Bibliography}{52}{appendix*.38}
+\contentsline {chapter}{Bibliography}{52}{chapter*.38}
